@@ -260,8 +260,8 @@
 <context>
     <name>HttpServer</name>
     <message>
-        <source>Exit qBittorrent</source>
-        <translation>關閉qBittorrent</translation>
+        <source>Exit TTorent</source>
+        <translation>關閉TTorent</translation>
     </message>
     <message>
         <source>Global upload rate limit must be greater than 0 or disabled.</source>
@@ -304,8 +304,8 @@
         <translation>每個Torrent最大上載通道數量限制：請停用或設定大於零。</translation>
     </message>
     <message>
-        <source>Unable to save program preferences, qBittorrent is probably unreachable.</source>
-        <translation type="vanished">無法儲存喜好設定：可能連接不到qBittorrent。</translation>
+        <source>Unable to save program preferences, TTorent is probably unreachable.</source>
+        <translation type="vanished">無法儲存喜好設定：可能連接不到TTorent。</translation>
     </message>
     <message>
         <source>Unknown</source>
@@ -375,8 +375,8 @@
         <translation>儲存</translation>
     </message>
     <message>
-        <source>qBittorrent client is not reachable</source>
-        <translation>連接不到qBittorrent用戶端</translation>
+        <source>TTorent client is not reachable</source>
+        <translation>連接不到TTorent用戶端</translation>
     </message>
     <message>
         <source>Global number of upload slots limit must be greater than 0 or disabled.</source>
@@ -559,7 +559,7 @@
         <translation type="unfinished" />
     </message>
     <message>
-        <source>Unable to load program preferences, qBittorrent is probably unreachable.</source>
+        <source>Unable to load program preferences, TTorent is probably unreachable.</source>
         <translation type="unfinished" />
     </message>
     <message>
@@ -575,7 +575,7 @@
         <translation type="unfinished" />
     </message>
     <message>
-        <source>Unable to save preferences, qBittorrent is probably unreachable.</source>
+        <source>Unable to save preferences, TTorent is probably unreachable.</source>
         <translation type="unfinished" />
     </message>
     <message>
@@ -583,7 +583,7 @@
         <translation type="unfinished" />
     </message>
     <message>
-        <source>Could not contact qBittorrent.</source>
+        <source>Could not contact TTorent.</source>
         <translation type="unfinished" />
     </message>
 </context>
@@ -666,8 +666,8 @@
         <translation>整體下載速度限制</translation>
     </message>
     <message>
-        <source>Are you sure you want to quit qBittorrent?</source>
-        <translation>確定離開qBittorrent嗎？</translation>
+        <source>Are you sure you want to quit TTorent?</source>
+        <translation>確定離開TTorent嗎？</translation>
     </message>
     <message>
         <source>Alternative speed limits</source>
@@ -1407,8 +1407,8 @@
         <translation>移除 torrent 與其檔案</translation>
     </message>
     <message>
-        <source>qBittorrent Section</source>
-        <translation>qBittorrent部份</translation>
+        <source>TTorent Section</source>
+        <translation>TTorent部份</translation>
     </message>
     <message>
         <source>Send buffer watermark factor:</source>
@@ -2295,7 +2295,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation type="unfinished" />
     </message>
     <message>
-        <source>It appends the text to the window title to help distinguish qBittorrent instances</source>
+        <source>It appends the text to the window title to help distinguish TTorent instances</source>
         <translation type="unfinished" />
     </message>
     <message>
@@ -4142,8 +4142,8 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation>姓名：</translation>
     </message>
     <message>
-        <source>About qBittorrent</source>
-        <translation>關於qBittorrent</translation>
+        <source>About TTorent</source>
+        <translation>關於TTorent</translation>
     </message>
     <message>
         <source>License</source>
@@ -4154,8 +4154,8 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation>翻譯</translation>
     </message>
     <message>
-        <source>qBittorrent was built with the following libraries:</source>
-        <translation>qBittorrent使用下列函式庫建立：</translation>
+        <source>TTorent was built with the following libraries:</source>
+        <translation>TTorent使用下列函式庫建立：</translation>
     </message>
     <message>
         <source>Nationality:</source>
@@ -4178,11 +4178,11 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation>法國</translation>
     </message>
     <message>
-        <source>qBittorrent Mascot</source>
+        <source>TTorent Mascot</source>
         <translation type="unfinished" />
     </message>
     <message>
-        <source>qBittorrent icon</source>
+        <source>TTorent icon</source>
         <translation type="unfinished" />
     </message>
 </context>
@@ -4989,7 +4989,7 @@ Supports the formats: S01E01, 1x1, 2017.12.31 and 31.12.2017 (Date formats also 
 <context>
     <name>Login</name>
     <message>
-        <source>qBittorrent WebUI</source>
+        <source>TTorent WebUI</source>
         <translation type="unfinished" />
     </message>
     <message>
@@ -5277,7 +5277,7 @@ Supports the formats: S01E01, 1x1, 2017.12.31 and 31.12.2017 (Date formats also 
 <context>
     <name>confirmRotateAPIKeyDialog</name>
     <message>
-        <source>Generate an API key? This key can be used to interact with qBittorrent's API.</source>
+        <source>Generate an API key? This key can be used to interact with TTorent's API.</source>
         <translation type="unfinished" />
     </message>
     <message>

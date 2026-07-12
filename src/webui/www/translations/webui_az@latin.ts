@@ -260,8 +260,8 @@
 <context>
     <name>HttpServer</name>
     <message>
-        <source>Exit qBittorrent</source>
-        <translation>qBittorrent'dən çıxmaq</translation>
+        <source>Exit TTorent</source>
+        <translation>TTorent'dən çıxmaq</translation>
     </message>
     <message>
         <source>Global upload rate limit must be greater than 0 or disabled.</source>
@@ -304,8 +304,8 @@
         <translation>Hər torrent limitinin göndərmə yuvasının sayı 0-dan böyük olmalıdır və ya söndürülməlidir.</translation>
     </message>
     <message>
-        <source>Unable to save program preferences, qBittorrent is probably unreachable.</source>
-        <translation type="vanished">Proqram tərcihlərini saxlamaq olmadı. qBittorrent ola bilsin ki, əlçatmazdır.</translation>
+        <source>Unable to save program preferences, TTorent is probably unreachable.</source>
+        <translation type="vanished">Proqram tərcihlərini saxlamaq olmadı. TTorent ola bilsin ki, əlçatmazdır.</translation>
     </message>
     <message>
         <source>Unknown</source>
@@ -375,8 +375,8 @@
         <translation>Saxlamaq</translation>
     </message>
     <message>
-        <source>qBittorrent client is not reachable</source>
-        <translation>qBittorrent müştərisi əlçatan deyil</translation>
+        <source>TTorent client is not reachable</source>
+        <translation>TTorent müştərisi əlçatan deyil</translation>
     </message>
     <message>
         <source>Global number of upload slots limit must be greater than 0 or disabled.</source>
@@ -467,7 +467,7 @@
         <translation>Əks proksi ayarları nümunələri</translation>
     </message>
     <message>
-        <source>Could not contact qBittorrent</source>
+        <source>Could not contact TTorent</source>
         <translation type="vanished">qBitorent ilə əlaqə mümkün olmadı</translation>
     </message>
     <message>
@@ -563,8 +563,8 @@
         <translation>Torrentləri yoxlayarkən yaddaş 0-dan böyük və 1024-dən az olmalıdır.</translation>
     </message>
     <message>
-        <source>Unable to load program preferences, qBittorrent is probably unreachable.</source>
-        <translation>Proqram xüsusiyyətlərini yükləmək mümkün olmadı. Ola bilsin ki qBittorrent əlçatan deyil.</translation>
+        <source>Unable to load program preferences, TTorent is probably unreachable.</source>
+        <translation>Proqram xüsusiyyətlərini yükləmək mümkün olmadı. Ola bilsin ki TTorent əlçatan deyil.</translation>
     </message>
     <message>
         <source>Peer turnover cutoff must be between 0 and 100.</source>
@@ -579,7 +579,7 @@
         <translation type="unfinished" />
     </message>
     <message>
-        <source>Unable to save preferences, qBittorrent is probably unreachable.</source>
+        <source>Unable to save preferences, TTorent is probably unreachable.</source>
         <translation type="unfinished" />
     </message>
     <message>
@@ -587,7 +587,7 @@
         <translation type="unfinished" />
     </message>
     <message>
-        <source>Could not contact qBittorrent.</source>
+        <source>Could not contact TTorent.</source>
         <translation type="unfinished" />
     </message>
 </context>
@@ -670,7 +670,7 @@
         <translation>Ümumi yükləmə sürəti limiti</translation>
     </message>
     <message>
-        <source>Are you sure you want to quit qBittorrent?</source>
+        <source>Are you sure you want to quit TTorent?</source>
         <translation>qBittorent'dən çıxmaq istədiyinizə əminsiniz?</translation>
     </message>
     <message>
@@ -1411,8 +1411,8 @@
         <translation>Torrenti və fayllarını silmək</translation>
     </message>
     <message>
-        <source>qBittorrent Section</source>
-        <translation>qBittorrent Bölməsi</translation>
+        <source>TTorent Section</source>
+        <translation>TTorent Bölməsi</translation>
     </message>
     <message>
         <source>Send buffer watermark factor:</source>
@@ -2311,7 +2311,7 @@ serveri tərəfindən istifadə olunan domen adını göstərməlisiniz.
         <translation type="unfinished" />
     </message>
     <message>
-        <source>It appends the text to the window title to help distinguish qBittorrent instances</source>
+        <source>It appends the text to the window title to help distinguish TTorent instances</source>
         <translation type="unfinished" />
     </message>
     <message>
@@ -4158,8 +4158,8 @@ serveri tərəfindən istifadə olunan domen adını göstərməlisiniz.
         <translation>Adı:</translation>
     </message>
     <message>
-        <source>About qBittorrent</source>
-        <translation>qBittorrent haqqında</translation>
+        <source>About TTorent</source>
+        <translation>TTorent haqqında</translation>
     </message>
     <message>
         <source>License</source>
@@ -4170,8 +4170,8 @@ serveri tərəfindən istifadə olunan domen adını göstərməlisiniz.
         <translation>Tərcüməçilər</translation>
     </message>
     <message>
-        <source>qBittorrent was built with the following libraries:</source>
-        <translation>qBittorrent aşağıdakı kitabxanalar ilə hazılandı:</translation>
+        <source>TTorent was built with the following libraries:</source>
+        <translation>TTorent aşağıdakı kitabxanalar ilə hazılandı:</translation>
     </message>
     <message>
         <source>Nationality:</source>
@@ -4194,12 +4194,12 @@ serveri tərəfindən istifadə olunan domen adını göstərməlisiniz.
         <translation>Fransa</translation>
     </message>
     <message>
-        <source>qBittorrent Mascot</source>
-        <translation>qBittorrent talismanı</translation>
+        <source>TTorent Mascot</source>
+        <translation>TTorent talismanı</translation>
     </message>
     <message>
-        <source>qBittorrent icon</source>
-        <translation>qBittorrent nişanı</translation>
+        <source>TTorent icon</source>
+        <translation>TTorent nişanı</translation>
     </message>
 </context>
 <context>
@@ -5005,8 +5005,8 @@ Bu formatlar dəstəklənir: S01E01, 1x1, 2017.12.31 və 31.12.2017 (Həmçinin 
 <context>
     <name>Login</name>
     <message>
-        <source>qBittorrent WebUI</source>
-        <translation>qBittorrent İİ</translation>
+        <source>TTorent WebUI</source>
+        <translation>TTorent İİ</translation>
     </message>
     <message>
         <source>Password</source>
@@ -5298,8 +5298,8 @@ Bu formatlar dəstəklənir: S01E01, 1x1, 2017.12.31 və 31.12.2017 (Həmçinin 
 <context>
     <name>confirmRotateAPIKeyDialog</name>
     <message>
-        <source>Generate an API key? This key can be used to interact with qBittorrent's API.</source>
-        <translation>Bir API açarı yaradaq? Bu açar qBittorrent ilə işləmək üçün istifadə oluna bilər.</translation>
+        <source>Generate an API key? This key can be used to interact with TTorent's API.</source>
+        <translation>Bir API açarı yaradaq? Bu açar TTorent ilə işləmək üçün istifadə oluna bilər.</translation>
     </message>
     <message>
         <source>Delete this API key? The current key will immediately stop working.</source>

@@ -260,8 +260,8 @@
 <context>
     <name>HttpServer</name>
     <message>
-        <source>Exit qBittorrent</source>
-        <translation>qBittorrent bezárása</translation>
+        <source>Exit TTorent</source>
+        <translation>TTorent bezárása</translation>
     </message>
     <message>
         <source>Global upload rate limit must be greater than 0 or disabled.</source>
@@ -304,8 +304,8 @@
         <translation>Maximális feltöltési szálak korlátnak torrentenként 0-nál nagyobbnak, vagy kikapcsoltnak kell lennie.</translation>
     </message>
     <message>
-        <source>Unable to save program preferences, qBittorrent is probably unreachable.</source>
-        <translation type="vanished">Nem sikerült menteni a beállításokat. A qBittorrent valószínűleg nem elérhető.</translation>
+        <source>Unable to save program preferences, TTorent is probably unreachable.</source>
+        <translation type="vanished">Nem sikerült menteni a beállításokat. A TTorent valószínűleg nem elérhető.</translation>
     </message>
     <message>
         <source>Unknown</source>
@@ -375,7 +375,7 @@
         <translation>Mentés</translation>
     </message>
     <message>
-        <source>qBittorrent client is not reachable</source>
+        <source>TTorent client is not reachable</source>
         <translation>qBittorent kliens nem elérhető</translation>
     </message>
     <message>
@@ -467,8 +467,8 @@
         <translation>Reverse proxy beállítási példák</translation>
     </message>
     <message>
-        <source>Could not contact qBittorrent</source>
-        <translation type="vanished">Nem sikerült kapcsolatba lépni a qBittorrenttel</translation>
+        <source>Could not contact TTorent</source>
+        <translation type="vanished">Nem sikerült kapcsolatba lépni a TTorenttel</translation>
     </message>
     <message>
         <source>Remember choice</source>
@@ -563,8 +563,8 @@
         <translation>Torrentek ellenőrzésekor a fennálló memória értékének 0 és 1024 között kell lennie.</translation>
     </message>
     <message>
-        <source>Unable to load program preferences, qBittorrent is probably unreachable.</source>
-        <translation>Nem sikerült betölteni a beállításokat. A qBittorrent valószínűleg nem elérhető.</translation>
+        <source>Unable to load program preferences, TTorent is probably unreachable.</source>
+        <translation>Nem sikerült betölteni a beállításokat. A TTorent valószínűleg nem elérhető.</translation>
     </message>
     <message>
         <source>Peer turnover cutoff must be between 0 and 100.</source>
@@ -579,7 +579,7 @@
         <translation type="unfinished" />
     </message>
     <message>
-        <source>Unable to save preferences, qBittorrent is probably unreachable.</source>
+        <source>Unable to save preferences, TTorent is probably unreachable.</source>
         <translation type="unfinished" />
     </message>
     <message>
@@ -587,7 +587,7 @@
         <translation type="unfinished" />
     </message>
     <message>
-        <source>Could not contact qBittorrent.</source>
+        <source>Could not contact TTorent.</source>
         <translation type="unfinished" />
     </message>
 </context>
@@ -670,8 +670,8 @@
         <translation>Globális letöltési sebességkorlát</translation>
     </message>
     <message>
-        <source>Are you sure you want to quit qBittorrent?</source>
-        <translation>Biztosan ki akar lépni a qBittorrentből?</translation>
+        <source>Are you sure you want to quit TTorent?</source>
+        <translation>Biztosan ki akar lépni a TTorentből?</translation>
     </message>
     <message>
         <source>Alternative speed limits</source>
@@ -1411,8 +1411,8 @@
         <translation>Torrent és fájljai eltávolítása</translation>
     </message>
     <message>
-        <source>qBittorrent Section</source>
-        <translation>qBittorrent beállítások</translation>
+        <source>TTorent Section</source>
+        <translation>TTorent beállítások</translation>
     </message>
     <message>
         <source>Send buffer watermark factor:</source>
@@ -2311,7 +2311,7 @@ Használja a ';' karaktert az elválasztásra, ha több is van. A '*' helyettes�
         <translation type="unfinished" />
     </message>
     <message>
-        <source>It appends the text to the window title to help distinguish qBittorrent instances</source>
+        <source>It appends the text to the window title to help distinguish TTorent instances</source>
         <translation type="unfinished" />
     </message>
     <message>
@@ -4158,8 +4158,8 @@ Használja a ';' karaktert az elválasztásra, ha több is van. A '*' helyettes�
         <translation>Név:</translation>
     </message>
     <message>
-        <source>About qBittorrent</source>
-        <translation>A qBittorrent névjegye</translation>
+        <source>About TTorent</source>
+        <translation>A TTorent névjegye</translation>
     </message>
     <message>
         <source>License</source>
@@ -4170,8 +4170,8 @@ Használja a ';' karaktert az elválasztásra, ha több is van. A '*' helyettes�
         <translation>Fordítók</translation>
     </message>
     <message>
-        <source>qBittorrent was built with the following libraries:</source>
-        <translation>A qBittorrent a következő könyvtárak felhasználásával került kiadásra:</translation>
+        <source>TTorent was built with the following libraries:</source>
+        <translation>A TTorent a következő könyvtárak felhasználásával került kiadásra:</translation>
     </message>
     <message>
         <source>Nationality:</source>
@@ -4194,12 +4194,12 @@ Használja a ';' karaktert az elválasztásra, ha több is van. A '*' helyettes�
         <translation>Franciaország</translation>
     </message>
     <message>
-        <source>qBittorrent Mascot</source>
-        <translation>qBittorrent kabala</translation>
+        <source>TTorent Mascot</source>
+        <translation>TTorent kabala</translation>
     </message>
     <message>
-        <source>qBittorrent icon</source>
-        <translation>qBittorrent ikon</translation>
+        <source>TTorent icon</source>
+        <translation>TTorent ikon</translation>
     </message>
 </context>
 <context>
@@ -5005,8 +5005,8 @@ Támogatja a formátumokat: S01E01, 1x1, 2017.12.31 és 31.12.2017. (A dátumfor
 <context>
     <name>Login</name>
     <message>
-        <source>qBittorrent WebUI</source>
-        <translation>qBittorrent WebUI</translation>
+        <source>TTorent WebUI</source>
+        <translation>TTorent WebUI</translation>
     </message>
     <message>
         <source>Password</source>
@@ -5298,8 +5298,8 @@ Támogatja a formátumokat: S01E01, 1x1, 2017.12.31 és 31.12.2017. (A dátumfor
 <context>
     <name>confirmRotateAPIKeyDialog</name>
     <message>
-        <source>Generate an API key? This key can be used to interact with qBittorrent's API.</source>
-        <translation>Generál egy API kulcsot? Ez a kulcs a qBittorrent API-val történő kommunikációra használható.</translation>
+        <source>Generate an API key? This key can be used to interact with TTorent's API.</source>
+        <translation>Generál egy API kulcsot? Ez a kulcs a TTorent API-val történő kommunikációra használható.</translation>
     </message>
     <message>
         <source>Delete this API key? The current key will immediately stop working.</source>

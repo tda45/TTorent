@@ -260,8 +260,8 @@
 <context>
     <name>HttpServer</name>
     <message>
-        <source>Exit qBittorrent</source>
-        <translation>Выйти из qBittorrent</translation>
+        <source>Exit TTorent</source>
+        <translation>Выйти из TTorent</translation>
     </message>
     <message>
         <source>Global upload rate limit must be greater than 0 or disabled.</source>
@@ -304,8 +304,8 @@
         <translation>Максимум слотов отдачи на торрент должен быть больше 0 или отключён.</translation>
     </message>
     <message>
-        <source>Unable to save program preferences, qBittorrent is probably unreachable.</source>
-        <translation type="vanished">Не удалось сохранить настройки, возможно, qBittorrent недоступен.</translation>
+        <source>Unable to save program preferences, TTorent is probably unreachable.</source>
+        <translation type="vanished">Не удалось сохранить настройки, возможно, TTorent недоступен.</translation>
     </message>
     <message>
         <source>Unknown</source>
@@ -375,8 +375,8 @@
         <translation>Сохранить</translation>
     </message>
     <message>
-        <source>qBittorrent client is not reachable</source>
-        <translation>Клиент qBittorrent недоступен</translation>
+        <source>TTorent client is not reachable</source>
+        <translation>Клиент TTorent недоступен</translation>
     </message>
     <message>
         <source>Global number of upload slots limit must be greater than 0 or disabled.</source>
@@ -467,8 +467,8 @@
         <translation>Примеры настройки обратного прокси</translation>
     </message>
     <message>
-        <source>Could not contact qBittorrent</source>
-        <translation type="vanished">Не удалось связаться с qBittorrent</translation>
+        <source>Could not contact TTorent</source>
+        <translation type="vanished">Не удалось связаться с TTorent</translation>
     </message>
     <message>
         <source>Remember choice</source>
@@ -563,8 +563,8 @@
         <translation>Накладная память при проверке торрентов должна быть больше 0 и меньше 1024.</translation>
     </message>
     <message>
-        <source>Unable to load program preferences, qBittorrent is probably unreachable.</source>
-        <translation>Не удалось загрузить настройки программы, возможно, qBittorrent недоступен.</translation>
+        <source>Unable to load program preferences, TTorent is probably unreachable.</source>
+        <translation>Не удалось загрузить настройки программы, возможно, TTorent недоступен.</translation>
     </message>
     <message>
         <source>Peer turnover cutoff must be between 0 and 100.</source>
@@ -579,7 +579,7 @@
         <translation type="unfinished" />
     </message>
     <message>
-        <source>Unable to save preferences, qBittorrent is probably unreachable.</source>
+        <source>Unable to save preferences, TTorent is probably unreachable.</source>
         <translation type="unfinished" />
     </message>
     <message>
@@ -587,7 +587,7 @@
         <translation type="unfinished" />
     </message>
     <message>
-        <source>Could not contact qBittorrent.</source>
+        <source>Could not contact TTorent.</source>
         <translation type="unfinished" />
     </message>
 </context>
@@ -670,8 +670,8 @@
         <translation>Ограничение скорости загрузки</translation>
     </message>
     <message>
-        <source>Are you sure you want to quit qBittorrent?</source>
-        <translation>Уверены, что хотите выйти из qBittorrent?</translation>
+        <source>Are you sure you want to quit TTorent?</source>
+        <translation>Уверены, что хотите выйти из TTorent?</translation>
     </message>
     <message>
         <source>Alternative speed limits</source>
@@ -1411,8 +1411,8 @@
         <translation>Удалить торрент и его файлы</translation>
     </message>
     <message>
-        <source>qBittorrent Section</source>
-        <translation>Раздел qBittorrent</translation>
+        <source>TTorent Section</source>
+        <translation>Раздел TTorent</translation>
     </message>
     <message>
         <source>Send buffer watermark factor:</source>
@@ -2008,7 +2008,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
     </message>
     <message>
         <source>It appends the text to the window title to help distinguish qBittorent instances</source>
-        <translation type="vanished">Добавляет текст к заголовку окна с целью различения экземпляров qBittorrent</translation>
+        <translation type="vanished">Добавляет текст к заголовку окна с целью различения экземпляров TTorent</translation>
     </message>
     <message>
         <source>The WebUI username must be at least 3 characters long.</source>
@@ -2311,7 +2311,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation type="unfinished" />
     </message>
     <message>
-        <source>It appends the text to the window title to help distinguish qBittorrent instances</source>
+        <source>It appends the text to the window title to help distinguish TTorent instances</source>
         <translation type="unfinished" />
     </message>
     <message>
@@ -4158,8 +4158,8 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation>Имя:</translation>
     </message>
     <message>
-        <source>About qBittorrent</source>
-        <translation>О qBittorrent</translation>
+        <source>About TTorent</source>
+        <translation>О TTorent</translation>
     </message>
     <message>
         <source>License</source>
@@ -4170,8 +4170,8 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation>Перевод</translation>
     </message>
     <message>
-        <source>qBittorrent was built with the following libraries:</source>
-        <translation>Эта сборка qBittorrent использует следующие библиотеки:</translation>
+        <source>TTorent was built with the following libraries:</source>
+        <translation>Эта сборка TTorent использует следующие библиотеки:</translation>
     </message>
     <message>
         <source>Nationality:</source>
@@ -4194,12 +4194,12 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation>Франция</translation>
     </message>
     <message>
-        <source>qBittorrent Mascot</source>
-        <translation>Талисман qBittorrent</translation>
+        <source>TTorent Mascot</source>
+        <translation>Талисман TTorent</translation>
     </message>
     <message>
-        <source>qBittorrent icon</source>
-        <translation>Значок qBittorrent</translation>
+        <source>TTorent icon</source>
+        <translation>Значок TTorent</translation>
     </message>
 </context>
 <context>
@@ -5005,8 +5005,8 @@ Supports the formats: S01E01, 1x1, 2017.12.31 and 31.12.2017 (Date formats also 
 <context>
     <name>Login</name>
     <message>
-        <source>qBittorrent WebUI</source>
-        <translation>Веб-интерфейс qBittorrent</translation>
+        <source>TTorent WebUI</source>
+        <translation>Веб-интерфейс TTorent</translation>
     </message>
     <message>
         <source>Password</source>
@@ -5298,8 +5298,8 @@ Supports the formats: S01E01, 1x1, 2017.12.31 and 31.12.2017 (Date formats also 
 <context>
     <name>confirmRotateAPIKeyDialog</name>
     <message>
-        <source>Generate an API key? This key can be used to interact with qBittorrent's API.</source>
-        <translation>Создать ключ API? Этот ключ можно использовать для взаимодействия с API qBittorrent.</translation>
+        <source>Generate an API key? This key can be used to interact with TTorent's API.</source>
+        <translation>Создать ключ API? Этот ключ можно использовать для взаимодействия с API TTorent.</translation>
     </message>
     <message>
         <source>Delete this API key? The current key will immediately stop working.</source>

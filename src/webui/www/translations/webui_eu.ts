@@ -260,8 +260,8 @@
 <context>
     <name>HttpServer</name>
     <message>
-        <source>Exit qBittorrent</source>
-        <translation>Irten qBittorrent-etik</translation>
+        <source>Exit TTorent</source>
+        <translation>Irten TTorent-etik</translation>
     </message>
     <message>
         <source>Global upload rate limit must be greater than 0 or disabled.</source>
@@ -304,8 +304,8 @@
         <translation>Gehienezko igoera aho zenbatekoa torrent bakoitzeko muga 0 baino handiagoa edo ezgaituta izan behar da.</translation>
     </message>
     <message>
-        <source>Unable to save program preferences, qBittorrent is probably unreachable.</source>
-        <translation type="vanished">Ezinezkoa programa hobespenak gordetzea, qBittorrent zihurrenik erdietsiezina da.</translation>
+        <source>Unable to save program preferences, TTorent is probably unreachable.</source>
+        <translation type="vanished">Ezinezkoa programa hobespenak gordetzea, TTorent zihurrenik erdietsiezina da.</translation>
     </message>
     <message>
         <source>Unknown</source>
@@ -375,8 +375,8 @@
         <translation>Gorde</translation>
     </message>
     <message>
-        <source>qBittorrent client is not reachable</source>
-        <translation>qBittorrent bezeroa erdietsiezina da</translation>
+        <source>TTorent client is not reachable</source>
+        <translation>TTorent bezeroa erdietsiezina da</translation>
     </message>
     <message>
         <source>Global number of upload slots limit must be greater than 0 or disabled.</source>
@@ -467,8 +467,8 @@
         <translation type="unfinished" />
     </message>
     <message>
-        <source>Could not contact qBittorrent</source>
-        <translation type="vanished">Ezin izan da qBittorrent-ekin harremanetan jarri</translation>
+        <source>Could not contact TTorent</source>
+        <translation type="vanished">Ezin izan da TTorent-ekin harremanetan jarri</translation>
     </message>
     <message>
         <source>Remember choice</source>
@@ -563,7 +563,7 @@
         <translation type="unfinished" />
     </message>
     <message>
-        <source>Unable to load program preferences, qBittorrent is probably unreachable.</source>
+        <source>Unable to load program preferences, TTorent is probably unreachable.</source>
         <translation type="unfinished" />
     </message>
     <message>
@@ -579,7 +579,7 @@
         <translation type="unfinished" />
     </message>
     <message>
-        <source>Unable to save preferences, qBittorrent is probably unreachable.</source>
+        <source>Unable to save preferences, TTorent is probably unreachable.</source>
         <translation type="unfinished" />
     </message>
     <message>
@@ -587,7 +587,7 @@
         <translation type="unfinished" />
     </message>
     <message>
-        <source>Could not contact qBittorrent.</source>
+        <source>Could not contact TTorent.</source>
         <translation type="unfinished" />
     </message>
 </context>
@@ -670,8 +670,8 @@
         <translation>Jeisketa Abiadura Muga Orokorra</translation>
     </message>
     <message>
-        <source>Are you sure you want to quit qBittorrent?</source>
-        <translation>Zihur zaude qBittorrent uztea nahi duzula?</translation>
+        <source>Are you sure you want to quit TTorent?</source>
+        <translation>Zihur zaude TTorent uztea nahi duzula?</translation>
     </message>
     <message>
         <source>Alternative speed limits</source>
@@ -1411,7 +1411,7 @@
         <translation>Kendu torrenta eta bere fitxategiak</translation>
     </message>
     <message>
-        <source>qBittorrent Section</source>
+        <source>TTorent Section</source>
         <translation>qBitorrent atala</translation>
     </message>
     <message>
@@ -2307,7 +2307,7 @@ Erabili ';' sarrera ugari banantzeko. '*' ordez-hizkia erabili daiteke.</transla
         <translation type="unfinished" />
     </message>
     <message>
-        <source>It appends the text to the window title to help distinguish qBittorrent instances</source>
+        <source>It appends the text to the window title to help distinguish TTorent instances</source>
         <translation type="unfinished" />
     </message>
     <message>
@@ -4154,8 +4154,8 @@ Erabili ';' sarrera ugari banantzeko. '*' ordez-hizkia erabili daiteke.</transla
         <translation>Izena:</translation>
     </message>
     <message>
-        <source>About qBittorrent</source>
-        <translation>qBittorrent-i buruz</translation>
+        <source>About TTorent</source>
+        <translation>TTorent-i buruz</translation>
     </message>
     <message>
         <source>License</source>
@@ -4166,8 +4166,8 @@ Erabili ';' sarrera ugari banantzeko. '*' ordez-hizkia erabili daiteke.</transla
         <translation>Itzultzaileak</translation>
     </message>
     <message>
-        <source>qBittorrent was built with the following libraries:</source>
-        <translation>qBittorrent hurrengo liburutegiekin eraiki da:</translation>
+        <source>TTorent was built with the following libraries:</source>
+        <translation>TTorent hurrengo liburutegiekin eraiki da:</translation>
     </message>
     <message>
         <source>Nationality:</source>
@@ -4190,12 +4190,12 @@ Erabili ';' sarrera ugari banantzeko. '*' ordez-hizkia erabili daiteke.</transla
         <translation>Frantzia</translation>
     </message>
     <message>
-        <source>qBittorrent Mascot</source>
-        <translation>qBittorrent Maskota</translation>
+        <source>TTorent Mascot</source>
+        <translation>TTorent Maskota</translation>
     </message>
     <message>
-        <source>qBittorrent icon</source>
-        <translation>qBittorrent ikonoa</translation>
+        <source>TTorent icon</source>
+        <translation>TTorent ikonoa</translation>
     </message>
 </context>
 <context>
@@ -5001,7 +5001,7 @@ Sostengatutako heuskarriak: S01E01, 1x1, 2017.12.31 eta 31.12.2017 (Data heuskar
 <context>
     <name>Login</name>
     <message>
-        <source>qBittorrent WebUI</source>
+        <source>TTorent WebUI</source>
         <translation type="unfinished" />
     </message>
     <message>
@@ -5289,7 +5289,7 @@ Sostengatutako heuskarriak: S01E01, 1x1, 2017.12.31 eta 31.12.2017 (Data heuskar
 <context>
     <name>confirmRotateAPIKeyDialog</name>
     <message>
-        <source>Generate an API key? This key can be used to interact with qBittorrent's API.</source>
+        <source>Generate an API key? This key can be used to interact with TTorent's API.</source>
         <translation type="unfinished" />
     </message>
     <message>

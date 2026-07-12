@@ -260,8 +260,8 @@
 <context>
     <name>HttpServer</name>
     <message>
-        <source>Exit qBittorrent</source>
-        <translation>Chiudi qBittorrent</translation>
+        <source>Exit TTorent</source>
+        <translation>Chiudi TTorent</translation>
     </message>
     <message>
         <source>Global upload rate limit must be greater than 0 or disabled.</source>
@@ -304,8 +304,8 @@
         <translation>Il numero massimo di posizioni in invio deve essere 0 o disattivato.</translation>
     </message>
     <message>
-        <source>Unable to save program preferences, qBittorrent is probably unreachable.</source>
-        <translation type="vanished">Impossibile salvare le preferenze, qBittorrent potrebbe essere irraggiungibile.</translation>
+        <source>Unable to save program preferences, TTorent is probably unreachable.</source>
+        <translation type="vanished">Impossibile salvare le preferenze, TTorent potrebbe essere irraggiungibile.</translation>
     </message>
     <message>
         <source>Unknown</source>
@@ -375,8 +375,8 @@
         <translation>Salva</translation>
     </message>
     <message>
-        <source>qBittorrent client is not reachable</source>
-        <translation>Il client qBittorrent non è raggiungibile</translation>
+        <source>TTorent client is not reachable</source>
+        <translation>Il client TTorent non è raggiungibile</translation>
     </message>
     <message>
         <source>Global number of upload slots limit must be greater than 0 or disabled.</source>
@@ -468,8 +468,8 @@ Per un funzionamento corretto della WebUI va abilitato JavaScript.</translation>
         <translation>Esempi di configurazione proxy inverso</translation>
     </message>
     <message>
-        <source>Could not contact qBittorrent</source>
-        <translation type="vanished">Impossibile contattare qBittorrent</translation>
+        <source>Could not contact TTorent</source>
+        <translation type="vanished">Impossibile contattare TTorent</translation>
     </message>
     <message>
         <source>Remember choice</source>
@@ -564,8 +564,8 @@ Per un funzionamento corretto della WebUI va abilitato JavaScript.</translation>
         <translation>La memoria disponibile durante il controllo dei torrent deve essere maggiore di 0 e minore di 1024.</translation>
     </message>
     <message>
-        <source>Unable to load program preferences, qBittorrent is probably unreachable.</source>
-        <translation>Impossibile caricare le preferenze del programma, qBittorrent probabilmente non è raggiungibile.</translation>
+        <source>Unable to load program preferences, TTorent is probably unreachable.</source>
+        <translation>Impossibile caricare le preferenze del programma, TTorent probabilmente non è raggiungibile.</translation>
     </message>
     <message>
         <source>Peer turnover cutoff must be between 0 and 100.</source>
@@ -580,7 +580,7 @@ Per un funzionamento corretto della WebUI va abilitato JavaScript.</translation>
         <translation type="unfinished" />
     </message>
     <message>
-        <source>Unable to save preferences, qBittorrent is probably unreachable.</source>
+        <source>Unable to save preferences, TTorent is probably unreachable.</source>
         <translation type="unfinished" />
     </message>
     <message>
@@ -588,7 +588,7 @@ Per un funzionamento corretto della WebUI va abilitato JavaScript.</translation>
         <translation type="unfinished" />
     </message>
     <message>
-        <source>Could not contact qBittorrent.</source>
+        <source>Could not contact TTorent.</source>
         <translation type="unfinished" />
     </message>
 </context>
@@ -671,8 +671,8 @@ Per un funzionamento corretto della WebUI va abilitato JavaScript.</translation>
         <translation>Limite globale download</translation>
     </message>
     <message>
-        <source>Are you sure you want to quit qBittorrent?</source>
-        <translation>Sei sicuro di voler uscire da qBittorrent?</translation>
+        <source>Are you sure you want to quit TTorent?</source>
+        <translation>Sei sicuro di voler uscire da TTorent?</translation>
     </message>
     <message>
         <source>Alternative speed limits</source>
@@ -1412,8 +1412,8 @@ Per un funzionamento corretto della WebUI va abilitato JavaScript.</translation>
         <translation>Rimuovi torrent e file relativi</translation>
     </message>
     <message>
-        <source>qBittorrent Section</source>
-        <translation>Sezione qBittorrent</translation>
+        <source>TTorent Section</source>
+        <translation>Sezione TTorent</translation>
     </message>
     <message>
         <source>Send buffer watermark factor:</source>
@@ -2316,7 +2316,7 @@ Controlla la posta in arrivo per confermare la ricezione</translation>
         <translation type="unfinished" />
     </message>
     <message>
-        <source>It appends the text to the window title to help distinguish qBittorrent instances</source>
+        <source>It appends the text to the window title to help distinguish TTorent instances</source>
         <translation type="unfinished" />
     </message>
     <message>
@@ -4163,8 +4163,8 @@ Controlla la posta in arrivo per confermare la ricezione</translation>
         <translation>Nome:</translation>
     </message>
     <message>
-        <source>About qBittorrent</source>
-        <translation>Info su qBittorrent</translation>
+        <source>About TTorent</source>
+        <translation>Info su TTorent</translation>
     </message>
     <message>
         <source>License</source>
@@ -4175,8 +4175,8 @@ Controlla la posta in arrivo per confermare la ricezione</translation>
         <translation>Traduttori</translation>
     </message>
     <message>
-        <source>qBittorrent was built with the following libraries:</source>
-        <translation>qBittorrent è stato costruito con le seguenti librerie:</translation>
+        <source>TTorent was built with the following libraries:</source>
+        <translation>TTorent è stato costruito con le seguenti librerie:</translation>
     </message>
     <message>
         <source>Nationality:</source>
@@ -4200,12 +4200,12 @@ Il database è concesso in licenza con la licenza internazionale Creative Common
         <translation>Francia</translation>
     </message>
     <message>
-        <source>qBittorrent Mascot</source>
-        <translation>Mascotte qBittorrent</translation>
+        <source>TTorent Mascot</source>
+        <translation>Mascotte TTorent</translation>
     </message>
     <message>
-        <source>qBittorrent icon</source>
-        <translation>Icona qBittorrent</translation>
+        <source>TTorent icon</source>
+        <translation>Icona TTorent</translation>
     </message>
 </context>
 <context>
@@ -5013,8 +5013,8 @@ I torrent potranno essere spostati.</translation>
 <context>
     <name>Login</name>
     <message>
-        <source>qBittorrent WebUI</source>
-        <translation>WebUI qBittorrent</translation>
+        <source>TTorent WebUI</source>
+        <translation>WebUI TTorent</translation>
     </message>
     <message>
         <source>Password</source>
@@ -5307,9 +5307,9 @@ Per un funzionamento corretto della WebUI va abilitato JavaScript.</translation>
 <context>
     <name>confirmRotateAPIKeyDialog</name>
     <message>
-        <source>Generate an API key? This key can be used to interact with qBittorrent's API.</source>
+        <source>Generate an API key? This key can be used to interact with TTorent's API.</source>
         <translation>Vuoi generare una chiave API? 
-Questa chiave può essere usata per interagire con l'API di qBittorrent.</translation>
+Questa chiave può essere usata per interagire con l'API di TTorent.</translation>
     </message>
     <message>
         <source>Delete this API key? The current key will immediately stop working.</source>

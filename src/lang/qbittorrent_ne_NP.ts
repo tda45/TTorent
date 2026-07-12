@@ -18,8 +18,8 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../gui/aboutdialog.ui" line="15"/>
-        <source>About qBittorrent</source>
-        <translation>qBittorrent को बारेमा</translation>
+        <source>About TTorent</source>
+        <translation>TTorent को बारेमा</translation>
     </message>
     <message>
         <location filename="../gui/aboutdialog.ui" line="55"/>
@@ -91,8 +91,8 @@
     </message>
     <message>
         <location filename="../gui/aboutdialog.ui" line="336"/>
-        <source>qBittorrent was built with the following libraries:</source>
-        <translation>qBittorrent निम्नानुसारका लाइब्रेरीहरूको प्रयोगद्वारा बनाइएको हो:</translation>
+        <source>TTorent was built with the following libraries:</source>
+        <translation>TTorent निम्नानुसारका लाइब्रेरीहरूको प्रयोगद्वारा बनाइएको हो:</translation>
     </message>
     <message>
         <location filename="../gui/aboutdialog.ui" line="356"/>
@@ -105,12 +105,12 @@
         <translation>Qt toolkit र libtorrent-rasterbar मा आधारित C++ मा प्रोग्राम गरिएको उन्नत BitTorrent क्लाइन्ट।</translation>
     </message>
     <message>
-        <source>Copyright %1 2006-2025 The qBittorrent project</source>
+        <source>Copyright %1 2006-2025 The TTorent project</source>
         <translation type="vanished">सर्वाधिकार %1 2006-2025 The qBittorent Project</translation>
     </message>
     <message>
         <location filename="../gui/aboutdialog.cpp" line="70"/>
-        <source>Copyright %1 2006-2026 The qBittorrent project</source>
+        <source>Copyright %1 2006-2026 The TTorent project</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -749,8 +749,8 @@
     </message>
     <message>
         <location filename="../gui/advancedsettings.cpp" line="478"/>
-        <source>qBittorrent Section</source>
-        <translation>qBittorrent खण्ड</translation>
+        <source>TTorent Section</source>
+        <translation>TTorent खण्ड</translation>
     </message>
     <message>
         <location filename="../gui/advancedsettings.cpp" line="475"/>
@@ -926,7 +926,7 @@
     </message>
     <message>
         <location filename="../gui/advancedsettings.cpp" line="779"/>
-        <source>It appends the text to the window title to help distinguish qBittorrent instances</source>
+        <source>It appends the text to the window title to help distinguish TTorent instances</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1494,7 +1494,7 @@
     <message>
         <location filename="../app/application.cpp" line="744"/>
         <location filename="../app/application.cpp" line="762"/>
-        <source>Thank you for using qBittorrent.</source>
+        <source>Thank you for using TTorent.</source>
         <translation>क्युबिटटोरेण्ट प्रयोग गर्नुभएकोमा धन्यवाद।</translation>
     </message>
     <message>
@@ -1596,9 +1596,9 @@
     </message>
     <message>
         <location filename="../app/application.cpp" line="356"/>
-        <source>qBittorrent %1 started. Process ID: %2</source>
-        <comment>qBittorrent v3.2.0alpha started</comment>
-        <translation>qBittorrent %1 सुरु भयो। प्रक्रिया ID: %2</translation>
+        <source>TTorent %1 started. Process ID: %2</source>
+        <comment>TTorent v3.2.0alpha started</comment>
+        <translation>TTorent %1 सुरु भयो। प्रक्रिया ID: %2</translation>
     </message>
     <message>
         <location filename="../app/application.cpp" line="761"/>
@@ -1628,8 +1628,8 @@
     </message>
     <message>
         <location filename="../app/application.cpp" line="1031"/>
-        <source>To control qBittorrent, access the WebUI at: %1</source>
-        <translation>qBittorrent नियन्त्रण गर्न, %1 मा WebUI पहुँच गर्नुहोस्।</translation>
+        <source>To control TTorent, access the WebUI at: %1</source>
+        <translation>TTorent नियन्त्रण गर्न, %1 मा WebUI पहुँच गर्नुहोस्।</translation>
     </message>
     <message>
         <location filename="../app/application.cpp" line="1074"/>
@@ -1668,13 +1668,13 @@
     </message>
     <message>
         <location filename="../app/application.cpp" line="1405"/>
-        <source>qBittorrent termination initiated</source>
-        <translation>qBittorrent समाप्ति सुरु गरियो</translation>
+        <source>TTorent termination initiated</source>
+        <translation>TTorent समाप्ति सुरु गरियो</translation>
     </message>
     <message>
         <location filename="../app/application.cpp" line="1411"/>
-        <source>qBittorrent is shutting down...</source>
-        <translation>qBittorrent बन्द हुँदैछ...</translation>
+        <source>TTorent is shutting down...</source>
+        <translation>TTorent बन्द हुँदैछ...</translation>
     </message>
     <message>
         <location filename="../app/application.cpp" line="1439"/>
@@ -1683,8 +1683,8 @@
     </message>
     <message>
         <location filename="../app/application.cpp" line="1476"/>
-        <source>qBittorrent is now ready to exit</source>
-        <translation>qBittorrent अब बाहिर निस्कन तयार छ।</translation>
+        <source>TTorent is now ready to exit</source>
+        <translation>TTorent अब बाहिर निस्कन तयार छ।</translation>
     </message>
 </context>
 <context>
@@ -3034,8 +3034,8 @@ Supports the formats: S01E01, 1x1, 2017.12.31 and 31.12.2017 (Date formats also 
     </message>
     <message>
         <location filename="../app/cmdoptions.cpp" line="390"/>
-        <source>Store configuration files in directories qBittorrent_&lt;name&gt;</source>
-        <translation>कन्फिगरेसन फाइलहरू qBittorrent_&lt;name&gt; डाइरेक्टरीहरूमा भण्डारण गर्नुहोस्&#xa0;</translation>
+        <source>Store configuration files in directories TTorent_&lt;name&gt;</source>
+        <translation>कन्फिगरेसन फाइलहरू TTorent_&lt;name&gt; डाइरेक्टरीहरूमा भण्डारण गर्नुहोस्&#xa0;</translation>
     </message>
     <message>
         <location filename="../app/cmdoptions.cpp" line="392"/>
@@ -3727,7 +3727,7 @@ Supports the formats: S01E01, 1x1, 2017.12.31 and 31.12.2017 (Date formats also 
     <message>
         <location filename="../gui/powermanagement/inhibitormacos.cpp" line="36"/>
         <source>PMMacOS</source>
-        <comment>qBittorrent is active</comment>
+        <comment>TTorent is active</comment>
         <translation>PMMacOS</translation>
     </message>
 </context>
@@ -3740,8 +3740,8 @@ Supports the formats: S01E01, 1x1, 2017.12.31 and 31.12.2017 (Date formats also 
     </message>
     <message>
         <location filename="../app/legalnotice.cpp" line="51"/>
-        <source>qBittorrent is a file sharing program. When you run a torrent, its data will be made available to others by means of upload. Any content you share is your sole responsibility.</source>
-        <translation>qBittorrent एउटा फाइल सेयरिङ प्रोग्राम हो। जब तपाईंले टोरेन्ट चलाउनुहुन्छ, यसको डेटा अपलोडको माध्यमबाट अरूलाई उपलब्ध गराइनेछ। तपाईंले साझा गर्नुभएको कुनै पनि सामग्री तपाईंको एकल जिम्मेवारी हो।</translation>
+        <source>TTorent is a file sharing program. When you run a torrent, its data will be made available to others by means of upload. Any content you share is your sole responsibility.</source>
+        <translation>TTorent एउटा फाइल सेयरिङ प्रोग्राम हो। जब तपाईंले टोरेन्ट चलाउनुहुन्छ, यसको डेटा अपलोडको माध्यमबाट अरूलाई उपलब्ध गराइनेछ। तपाईंले साझा गर्नुभएको कुनै पनि सामग्री तपाईंको एकल जिम्मेवारी हो।</translation>
     </message>
     <message>
         <location filename="../app/legalnotice.cpp" line="52"/>
@@ -3805,23 +3805,23 @@ Supports the formats: S01E01, 1x1, 2017.12.31 and 31.12.2017 (Date formats also 
     <message>
         <location filename="../app/main.cpp" line="124"/>
         <location filename="../app/main.cpp" line="128"/>
-        <source>qBittorrent has encountered an unrecoverable error.</source>
-        <translation>qBittorrent ले पुन: प्राप्ति गर्न नसकिने त्रुटिको सामना गरेको छ।</translation>
+        <source>TTorent has encountered an unrecoverable error.</source>
+        <translation>TTorent ले पुन: प्राप्ति गर्न नसकिने त्रुटिको सामना गरेको छ।</translation>
     </message>
     <message>
         <location filename="../app/main.cpp" line="237"/>
-        <source>You cannot use %1: qBittorrent is already running.</source>
-        <translation>तपाईँले %1 प्रयोग गर्न सक्नुहुन्न: qBittorrent पहिले नै चलिरहेको छ।</translation>
+        <source>You cannot use %1: TTorent is already running.</source>
+        <translation>तपाईँले %1 प्रयोग गर्न सक्नुहुन्न: TTorent पहिले नै चलिरहेको छ।</translation>
     </message>
     <message>
         <location filename="../app/main.cpp" line="244"/>
-        <source>Another qBittorrent instance is already running.</source>
-        <translation>अर्को qBittorrent इन्स्ट्यान्स पहिले नै चलिरहेको छ।</translation>
+        <source>Another TTorent instance is already running.</source>
+        <translation>अर्को TTorent इन्स्ट्यान्स पहिले नै चलिरहेको छ।</translation>
     </message>
     <message>
         <location filename="../app/main.cpp" line="300"/>
-        <source>Found unexpected qBittorrent instance. Exiting this instance. Current process ID: %1.</source>
-        <translation>अप्रत्याशित qBittorrent इन्स्ट्यान्स फेला पर्यो। यो इन्स्ट्यान्सबाट बाहिर निस्कँदै। हालको प्रक्रिया ID: %1।</translation>
+        <source>Found unexpected TTorent instance. Exiting this instance. Current process ID: %1.</source>
+        <translation>अप्रत्याशित TTorent इन्स्ट्यान्स फेला पर्यो। यो इन्स्ट्यान्सबाट बाहिर निस्कँदै। हालको प्रक्रिया ID: %1।</translation>
     </message>
     <message>
         <location filename="../app/main.cpp" line="309"/>
@@ -3924,8 +3924,8 @@ Supports the formats: S01E01, 1x1, 2017.12.31 and 31.12.2017 (Date formats also 
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="352"/>
-        <source>L&amp;ock qBittorrent</source>
-        <translation>qBittorrent लक गर्नुहोस् (&amp;O)</translation>
+        <source>L&amp;ock TTorent</source>
+        <translation>TTorent लक गर्नुहोस् (&amp;O)</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="363"/>
@@ -4054,8 +4054,8 @@ Supports the formats: S01E01, 1x1, 2017.12.31 and 31.12.2017 (Date formats also 
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="374"/>
-        <source>&amp;Exit qBittorrent</source>
-        <translation>qBittorrent बाट बाहिर निस्कनुहोस् (&amp;E)</translation>
+        <source>&amp;Exit TTorent</source>
+        <translation>TTorent बाट बाहिर निस्कनुहोस् (&amp;E)</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="382"/>
@@ -4136,8 +4136,8 @@ Supports the formats: S01E01, 1x1, 2017.12.31 and 31.12.2017 (Date formats also 
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="366"/>
-        <source>If you like qBittorrent, please donate!</source>
-        <translation>यदि तपाईंलाई qBittorrent मन पर्छ भने, कृपया दान गर्नुहोस्!</translation>
+        <source>If you like TTorent, please donate!</source>
+        <translation>यदि तपाईंलाई TTorent मन पर्छ भने, कृपया दान गर्नुहोस्!</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.cpp" line="1754"/>
@@ -4178,8 +4178,8 @@ Supports the formats: S01E01, 1x1, 2017.12.31 and 31.12.2017 (Date formats also 
     <message>
         <location filename="../gui/mainwindow.cpp" line="471"/>
         <location filename="../gui/mainwindow.cpp" line="1287"/>
-        <source>qBittorrent is minimized to tray</source>
-        <translation>qBittorrent ट्रेमा न्यूनतम गरिएको छ</translation>
+        <source>TTorent is minimized to tray</source>
+        <translation>TTorent ट्रेमा न्यूनतम गरिएको छ</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.cpp" line="471"/>
@@ -4263,13 +4263,13 @@ Supports the formats: S01E01, 1x1, 2017.12.31 and 31.12.2017 (Date formats also 
     </message>
     <message>
         <location filename="../gui/mainwindow.cpp" line="1058"/>
-        <source>qBittorrent was just updated and needs to be restarted for the changes to be effective.</source>
-        <translation>qBittorrent भर्खरै अद्यावधिक गरिएको थियो र परिवर्तनहरू प्रभावकारी हुनको लागि पुन: सुरु गर्न आवश्यक छ।</translation>
+        <source>TTorent was just updated and needs to be restarted for the changes to be effective.</source>
+        <translation>TTorent भर्खरै अद्यावधिक गरिएको थियो र परिवर्तनहरू प्रभावकारी हुनको लागि पुन: सुरु गर्न आवश्यक छ।</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.cpp" line="1194"/>
-        <source>qBittorrent is closed to tray</source>
-        <translation>qBittorrent ट्रेमा बन्द छ।</translation>
+        <source>TTorent is closed to tray</source>
+        <translation>TTorent ट्रेमा बन्द छ।</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.cpp" line="1214"/>
@@ -4278,8 +4278,8 @@ Supports the formats: S01E01, 1x1, 2017.12.31 and 31.12.2017 (Date formats also 
     </message>
     <message>
         <location filename="../gui/mainwindow.cpp" line="1214"/>
-        <source>Are you sure you want to quit qBittorrent?</source>
-        <translation>के तपाईं qBittorrent बन्द गर्न निश्चित हुनुहुन्छ?</translation>
+        <source>Are you sure you want to quit TTorent?</source>
+        <translation>के तपाईं TTorent बन्द गर्न निश्चित हुनुहुन्छ?</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.cpp" line="1216"/>
@@ -4358,8 +4358,8 @@ Please install it manually.</source>
     </message>
     <message>
         <location filename="../gui/mainwindow.cpp" line="1689"/>
-        <source>qBittorrent Update Available</source>
-        <translation>qBittorrent अपडेट उपलब्ध छ</translation>
+        <source>TTorent Update Available</source>
+        <translation>TTorent अपडेट उपलब्ध छ</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.cpp" line="1617"/>
@@ -4512,8 +4512,8 @@ Minimum requirement: %2.</source>
     </message>
     <message>
         <location filename="../gui/mainwindow.cpp" line="1212"/>
-        <source>Exiting qBittorrent</source>
-        <translation>qBittorrent बाट बाहिर निस्कँदै</translation>
+        <source>Exiting TTorent</source>
+        <translation>TTorent बाट बाहिर निस्कँदै</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.cpp" line="1320"/>
@@ -4550,13 +4550,13 @@ Minimum requirement: %2.</source>
     </message>
     <message>
         <location filename="../base/net/dnsupdater.cpp" line="218"/>
-        <source>Dynamic DNS error: qBittorrent was blacklisted by the service, please submit a bug report at https://bugs.qbittorrent.org.</source>
-        <translation>गतिशील DNS त्रुटि: qBittorrent लाई सेवाद्वारा कालोसूचीमा राखिएको थियो, कृपया https://bugs.qbittorrent.org मा बग रिपोर्ट पेश गर्नुहोस्।</translation>
+        <source>Dynamic DNS error: TTorent was blacklisted by the service, please submit a bug report at https://bugs.TTorent.org.</source>
+        <translation>गतिशील DNS त्रुटि: TTorent लाई सेवाद्वारा कालोसूचीमा राखिएको थियो, कृपया https://bugs.TTorent.org मा बग रिपोर्ट पेश गर्नुहोस्।</translation>
     </message>
     <message>
         <location filename="../base/net/dnsupdater.cpp" line="226"/>
-        <source>Dynamic DNS error: %1 was returned by the service, please submit a bug report at https://bugs.qbittorrent.org.</source>
-        <translation>गतिशील DNS त्रुटि: सेवाद्वारा %1 फिर्ता गरिएको थियो, कृपया https://bugs.qbittorrent.org मा बग रिपोर्ट पेश गर्नुहोस्।</translation>
+        <source>Dynamic DNS error: %1 was returned by the service, please submit a bug report at https://bugs.TTorent.org.</source>
+        <translation>गतिशील DNS त्रुटि: सेवाद्वारा %1 फिर्ता गरिएको थियो, कृपया https://bugs.TTorent.org मा बग रिपोर्ट पेश गर्नुहोस्।</translation>
     </message>
     <message>
         <location filename="../base/net/dnsupdater.cpp" line="234"/>
@@ -6201,8 +6201,8 @@ Minimum requirement: %2.</source>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="500"/>
-        <source>Start qBittorrent on Windows start up</source>
-        <translation>विन्डोज स्टार्टअपमा qBittorrent सुरु गर्नुहोस्</translation>
+        <source>Start TTorent on Windows start up</source>
+        <translation>विन्डोज स्टार्टअपमा TTorent सुरु गर्नुहोस्</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="507"/>
@@ -6226,8 +6226,8 @@ Minimum requirement: %2.</source>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="697"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;To set qBittorrent as default program for .torrent files and/or Magnet links&lt;br/&gt;you can use &lt;span style=&quot; font-weight:600;&quot;&gt;Default Programs&lt;/span&gt; dialog from &lt;span style=&quot; font-weight:600;&quot;&gt;Control Panel&lt;/span&gt;.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head&gt;&lt;body&gt;&lt;p&gt;.torrent फाइलहरू र/वा म्याग्नेट लिङ्कहरू&lt;br/&gt;को लागि पूर्वनिर्धारित कार्यक्रमको रूपमा qBittorrent सेट गर्न तपाईंले &lt;span style=&quot; font-weight:600;&quot;&gt;कन्ट्रोल प्यानल&lt;/span&gt; बाट &lt;span style=&quot; font-weight:600;&quot;&gt;पूर्वनिर्धारित कार्यक्रम&lt;/span&gt; संवाद प्रयोग गर्न सक्नुहुन्छ।&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;To set TTorent as default program for .torrent files and/or Magnet links&lt;br/&gt;you can use &lt;span style=&quot; font-weight:600;&quot;&gt;Default Programs&lt;/span&gt; dialog from &lt;span style=&quot; font-weight:600;&quot;&gt;Control Panel&lt;/span&gt;.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head&gt;&lt;body&gt;&lt;p&gt;.torrent फाइलहरू र/वा म्याग्नेट लिङ्कहरू&lt;br/&gt;को लागि पूर्वनिर्धारित कार्यक्रमको रूपमा TTorent सेट गर्न तपाईंले &lt;span style=&quot; font-weight:600;&quot;&gt;कन्ट्रोल प्यानल&lt;/span&gt; बाट &lt;span style=&quot; font-weight:600;&quot;&gt;पूर्वनिर्धारित कार्यक्रम&lt;/span&gt; संवाद प्रयोग गर्न सक्नुहुन्छ।&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="717"/>
@@ -6236,7 +6236,7 @@ Minimum requirement: %2.</source>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="724"/>
-        <source>Show qBittorrent in menu bar</source>
+        <source>Show TTorent in menu bar</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6433,8 +6433,8 @@ Disable encryption: Only connect to peers without protocol encryption</source>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2860"/>
-        <source>(&lt;a href=&quot;https://github.com/qbittorrent/qBittorrent/wiki/Anonymous-Mode&quot;&gt;More information&lt;/a&gt;)</source>
-        <translation>(&lt;a href=&quot;https://github.com/qbittorrent/qBittorrent/wiki/Anonymous-Mode&quot;&gt;थप जानकारी&lt;/a&gt;)</translation>
+        <source>(&lt;a href=&quot;https://github.com/TTorent/TTorent/wiki/Anonymous-Mode&quot;&gt;More information&lt;/a&gt;)</source>
+        <translation>(&lt;a href=&quot;https://github.com/TTorent/TTorent/wiki/Anonymous-Mode&quot;&gt;थप जानकारी&lt;/a&gt;)</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2893"/>
@@ -6741,8 +6741,8 @@ DNS रिबाइन्डिङ आक्रमणबाट बचाउन�
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="583"/>
-        <source>Minimize qBittorrent to notification area</source>
-        <translation>qBittorrent लाई सूचना क्षेत्रमा न्यूनतम गर्नुहोस्</translation>
+        <source>Minimize TTorent to notification area</source>
+        <translation>TTorent लाई सूचना क्षेत्रमा न्यूनतम गर्नुहोस्</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="77"/>
@@ -6814,8 +6814,8 @@ DNS रिबाइन्डिङ आक्रमणबाट बचाउन�
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="484"/>
-        <source>Drag content from qBittorrent</source>
-        <translation>qBittorrent बाट सामग्री तान्नुहोस्</translation>
+        <source>Drag content from TTorent</source>
+        <translation>TTorent बाट सामग्री तान्नुहोस्</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="605"/>
@@ -6835,13 +6835,13 @@ DNS रिबाइन्डिङ आक्रमणबाट बचाउन�
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="665"/>
-        <source>Use qBittorrent for .torrent files</source>
-        <translation>.torrent फाइलहरूको लागि qBittorrent प्रयोग गर्नुहोस्</translation>
+        <source>Use TTorent for .torrent files</source>
+        <translation>.torrent फाइलहरूको लागि TTorent प्रयोग गर्नुहोस्</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="672"/>
-        <source>Use qBittorrent for magnet links</source>
-        <translation>म्याग्नेट लिङ्कहरूको लागि qBittorrent प्रयोग गर्नुहोस्</translation>
+        <source>Use TTorent for magnet links</source>
+        <translation>म्याग्नेट लिङ्कहरूको लागि TTorent प्रयोग गर्नुहोस्</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="710"/>
@@ -6977,8 +6977,8 @@ DNS रिबाइन्डिङ आक्रमणबाट बचाउन�
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="571"/>
-        <source>Show &amp;qBittorrent in notification area</source>
-        <translation>सूचना क्षेत्रमा &amp;qBittorrent देखाउनुहोस्</translation>
+        <source>Show &amp;TTorent in notification area</source>
+        <translation>सूचना क्षेत्रमा &amp;TTorent देखाउनुहोस्</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="969"/>
@@ -7043,7 +7043,7 @@ DNS रिबाइन्डिङ आक्रमणबाट बचाउन�
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="596"/>
-        <source>Close qBittorrent to notification area</source>
+        <source>Close TTorent to notification area</source>
         <extracomment>The systray icon will still be visible when closing the main window</extracomment>
         <translation type="unfinished"></translation>
     </message>
@@ -7154,7 +7154,7 @@ Manual: Various torrent properties (e.g. save path) must be assigned manually</s
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="526"/>
-        <source>qBittorrent window state on start up</source>
+        <source>TTorent window state on start up</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7636,7 +7636,7 @@ readme[0-9].txt: filter &apos;readme1.txt&apos;, &apos;readme2.txt&apos; but not
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="4088"/>
-        <source>&lt;a href=&quot;https://github.com/qbittorrent/qBittorrent/wiki/List-of-known-alternate-WebUIs&quot;&gt;List of alternative WebUI&lt;/a&gt;</source>
+        <source>&lt;a href=&quot;https://github.com/TTorent/TTorent/wiki/List-of-known-alternate-WebUIs&quot;&gt;List of alternative WebUI&lt;/a&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7686,7 +7686,7 @@ readme[0-9].txt: filter &apos;readme1.txt&apos;, &apos;readme2.txt&apos; but not
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="4220"/>
-        <source>&lt;a href=https://github.com/qbittorrent/qBittorrent/wiki#reverse-proxy-setup-for-webui-access&gt;Reverse proxy setup examples&lt;/a&gt;</source>
+        <source>&lt;a href=https://github.com/TTorent/TTorent/wiki#reverse-proxy-setup-for-webui-access&gt;Reverse proxy setup examples&lt;/a&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7716,7 +7716,7 @@ readme[0-9].txt: filter &apos;readme1.txt&apos;, &apos;readme2.txt&apos; but not
     </message>
     <message>
         <location filename="../gui/optionsdialog.cpp" line="264"/>
-        <source>Select qBittorrent UI Theme file</source>
+        <source>Select TTorent UI Theme file</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7916,7 +7916,7 @@ readme[0-9].txt: filter &apos;readme1.txt&apos;, &apos;readme2.txt&apos; but not
     </message>
     <message>
         <location filename="../gui/optionsdialog.cpp" line="1537"/>
-        <source>Generate an API key? This key can be used to interact with qBittorrent&apos;s API.</source>
+        <source>Generate an API key? This key can be used to interact with TTorent&apos;s API.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8012,12 +8012,12 @@ readme[0-9].txt: filter &apos;readme1.txt&apos;, &apos;readme2.txt&apos; but not
     </message>
     <message>
         <location filename="../gui/optionsdialog.cpp" line="610"/>
-        <source>When these options are enabled, qBittorrent will &lt;strong&gt;delete&lt;/strong&gt; .torrent files after they were successfully (the first option) or not (the second option) added to its download queue. This will be applied &lt;strong&gt;not only&lt;/strong&gt; to the files opened via &amp;ldquo;Add torrent&amp;rdquo; menu action but to those opened via &lt;strong&gt;file type association&lt;/strong&gt; as well</source>
+        <source>When these options are enabled, TTorent will &lt;strong&gt;delete&lt;/strong&gt; .torrent files after they were successfully (the first option) or not (the second option) added to its download queue. This will be applied &lt;strong&gt;not only&lt;/strong&gt; to the files opened via &amp;ldquo;Add torrent&amp;rdquo; menu action but to those opened via &lt;strong&gt;file type association&lt;/strong&gt; as well</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.cpp" line="265"/>
-        <source>qBittorrent UI Theme file (*.qbtheme config.json)</source>
+        <source>TTorent UI Theme file (*.qbtheme config.json)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8483,7 +8483,7 @@ Check the Execution Log for errors.</source>
     </message>
     <message>
         <location filename="../gui/search/pluginselectdialog.ui" line="95"/>
-        <source>You can get new search engine plugins here: &lt;a href=&quot;https://plugins.qbittorrent.org&quot;&gt;https://plugins.qbittorrent.org&lt;/a&gt;</source>
+        <source>You can get new search engine plugins here: &lt;a href=&quot;https://plugins.TTorent.org&quot;&gt;https://plugins.TTorent.org&lt;/a&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8528,7 +8528,7 @@ Check the Execution Log for errors.</source>
     </message>
     <message>
         <location filename="../gui/search/pluginselectdialog.cpp" line="216"/>
-        <source>Some plugins could not be uninstalled because they are included in qBittorrent. Only the ones you added yourself can be uninstalled.
+        <source>Some plugins could not be uninstalled because they are included in TTorent. Only the ones you added yourself can be uninstalled.
 Those plugins were disabled.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8584,7 +8584,7 @@ Those plugins were disabled.</source>
     </message>
     <message>
         <location filename="../gui/search/pluginselectdialog.cpp" line="387"/>
-        <source>qBittorrent search plugin</source>
+        <source>TTorent search plugin</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10113,7 +10113,7 @@ Click the &quot;Search plugins...&quot; button at the bottom right of the window
     </message>
     <message>
         <location filename="../gui/shutdownconfirmdialog.cpp" line="118"/>
-        <source>qBittorrent will now exit.</source>
+        <source>TTorent will now exit.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10533,7 +10533,7 @@ Click the &quot;Search plugins...&quot; button at the bottom right of the window
     </message>
     <message>
         <location filename="../gui/statusbar.cpp" line="157"/>
-        <source>qBittorrent needs to be restarted!</source>
+        <source>TTorent needs to be restarted!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10545,7 +10545,7 @@ Click the &quot;Search plugins...&quot; button at the bottom right of the window
     </message>
     <message>
         <location filename="../gui/statusbar.cpp" line="177"/>
-        <source>Offline. This usually means that qBittorrent failed to listen on the selected port for incoming connections.</source>
+        <source>Offline. This usually means that TTorent failed to listen on the selected port for incoming connections.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -13464,13 +13464,13 @@ Please choose a different name and try again.</source>
     </message>
     <message>
         <location filename="../base/utils/os.cpp" line="92"/>
-        <source>qBittorrent will shutdown the computer now because all downloads are complete.</source>
-        <translation>सबै डाउनलोडहरू पूरा भएकाले qBittorrent ले अब कम्प्युटर बन्द गर्नेछ।</translation>
+        <source>TTorent will shutdown the computer now because all downloads are complete.</source>
+        <translation>सबै डाउनलोडहरू पूरा भएकाले TTorent ले अब कम्प्युटर बन्द गर्नेछ।</translation>
     </message>
     <message>
         <location filename="../base/utils/os.cpp" line="98"/>
-        <source>qBittorrent will reboot the computer now because all downloads are complete.</source>
-        <translation>सबै डाउनलोडहरू पूरा भएकाले qBittorrent ले अब कम्प्युटर रिबुट गर्नेछ।</translation>
+        <source>TTorent will reboot the computer now because all downloads are complete.</source>
+        <translation>सबै डाउनलोडहरू पूरा भएकाले TTorent ले अब कम्प्युटर रिबुट गर्नेछ।</translation>
     </message>
     <message>
         <location filename="../base/utils/misc.cpp" line="237"/>

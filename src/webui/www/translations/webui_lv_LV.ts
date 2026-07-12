@@ -260,8 +260,8 @@
 <context>
     <name>HttpServer</name>
     <message>
-        <source>Exit qBittorrent</source>
-        <translation>Aizvērt qBittorrent</translation>
+        <source>Exit TTorent</source>
+        <translation>Aizvērt TTorent</translation>
     </message>
     <message>
         <source>Global upload rate limit must be greater than 0 or disabled.</source>
@@ -304,8 +304,8 @@
         <translation>Atļautajam augšupielādes slotu skaitam uz katru torrentu jābūt lielākam par 0 vai arī atslēgtam.</translation>
     </message>
     <message>
-        <source>Unable to save program preferences, qBittorrent is probably unreachable.</source>
-        <translation type="vanished">Neizdevās saglabāt programmas iestatījumus, qBittorrent droši vien nav sasniedzams.</translation>
+        <source>Unable to save program preferences, TTorent is probably unreachable.</source>
+        <translation type="vanished">Neizdevās saglabāt programmas iestatījumus, TTorent droši vien nav sasniedzams.</translation>
     </message>
     <message>
         <source>Unknown</source>
@@ -375,8 +375,8 @@
         <translation>Saglabāt</translation>
     </message>
     <message>
-        <source>qBittorrent client is not reachable</source>
-        <translation>qBittorrent klients nav sasniedzams</translation>
+        <source>TTorent client is not reachable</source>
+        <translation>TTorent klients nav sasniedzams</translation>
     </message>
     <message>
         <source>Global number of upload slots limit must be greater than 0 or disabled.</source>
@@ -559,7 +559,7 @@
         <translation type="unfinished" />
     </message>
     <message>
-        <source>Unable to load program preferences, qBittorrent is probably unreachable.</source>
+        <source>Unable to load program preferences, TTorent is probably unreachable.</source>
         <translation type="unfinished" />
     </message>
     <message>
@@ -575,7 +575,7 @@
         <translation type="unfinished" />
     </message>
     <message>
-        <source>Unable to save preferences, qBittorrent is probably unreachable.</source>
+        <source>Unable to save preferences, TTorent is probably unreachable.</source>
         <translation type="unfinished" />
     </message>
     <message>
@@ -583,7 +583,7 @@
         <translation type="unfinished" />
     </message>
     <message>
-        <source>Could not contact qBittorrent.</source>
+        <source>Could not contact TTorent.</source>
         <translation type="unfinished" />
     </message>
 </context>
@@ -666,8 +666,8 @@
         <translation>Atļautais kopējais lejupielādes ātrums</translation>
     </message>
     <message>
-        <source>Are you sure you want to quit qBittorrent?</source>
-        <translation>Vai esat pārliecināts, ka vēlaties aizvērt qBittorrent?</translation>
+        <source>Are you sure you want to quit TTorent?</source>
+        <translation>Vai esat pārliecināts, ka vēlaties aizvērt TTorent?</translation>
     </message>
     <message>
         <source>Alternative speed limits</source>
@@ -1407,8 +1407,8 @@
         <translation>Izdzēst torrentu un failus</translation>
     </message>
     <message>
-        <source>qBittorrent Section</source>
-        <translation>qBittorrent sadaļa</translation>
+        <source>TTorent Section</source>
+        <translation>TTorent sadaļa</translation>
     </message>
     <message>
         <source>Send buffer watermark factor:</source>
@@ -2303,7 +2303,7 @@ Izmantojiet ';' lai atdalītu vairākus vārdus. Varat izmantot vietturi '*'.</t
         <translation type="unfinished" />
     </message>
     <message>
-        <source>It appends the text to the window title to help distinguish qBittorrent instances</source>
+        <source>It appends the text to the window title to help distinguish TTorent instances</source>
         <translation type="unfinished" />
     </message>
     <message>
@@ -4150,8 +4150,8 @@ Izmantojiet ';' lai atdalītu vairākus vārdus. Varat izmantot vietturi '*'.</t
         <translation>Vārds:</translation>
     </message>
     <message>
-        <source>About qBittorrent</source>
-        <translation>Par qBittorrent</translation>
+        <source>About TTorent</source>
+        <translation>Par TTorent</translation>
     </message>
     <message>
         <source>License</source>
@@ -4162,8 +4162,8 @@ Izmantojiet ';' lai atdalītu vairākus vārdus. Varat izmantot vietturi '*'.</t
         <translation>Tulkotāji</translation>
     </message>
     <message>
-        <source>qBittorrent was built with the following libraries:</source>
-        <translation>Šī qBittorrent versija tika uzbūvēta, izmantojot šīs bibliotēkas:</translation>
+        <source>TTorent was built with the following libraries:</source>
+        <translation>Šī TTorent versija tika uzbūvēta, izmantojot šīs bibliotēkas:</translation>
     </message>
     <message>
         <source>Nationality:</source>
@@ -4186,12 +4186,12 @@ Izmantojiet ';' lai atdalītu vairākus vārdus. Varat izmantot vietturi '*'.</t
         <translation>Francija</translation>
     </message>
     <message>
-        <source>qBittorrent Mascot</source>
-        <translation>qBittorrent talismans</translation>
+        <source>TTorent Mascot</source>
+        <translation>TTorent talismans</translation>
     </message>
     <message>
-        <source>qBittorrent icon</source>
-        <translation>qBittorrent ikona</translation>
+        <source>TTorent icon</source>
+        <translation>TTorent ikona</translation>
     </message>
 </context>
 <context>
@@ -4997,7 +4997,7 @@ Atbalsta formātus: S01E01, 1x1, 2017.12.31 un 31.12.2017 (Datumu formātos kā 
 <context>
     <name>Login</name>
     <message>
-        <source>qBittorrent WebUI</source>
+        <source>TTorent WebUI</source>
         <translation type="unfinished" />
     </message>
     <message>
@@ -5285,7 +5285,7 @@ Atbalsta formātus: S01E01, 1x1, 2017.12.31 un 31.12.2017 (Datumu formātos kā 
 <context>
     <name>confirmRotateAPIKeyDialog</name>
     <message>
-        <source>Generate an API key? This key can be used to interact with qBittorrent's API.</source>
+        <source>Generate an API key? This key can be used to interact with TTorent's API.</source>
         <translation type="unfinished" />
     </message>
     <message>

@@ -260,8 +260,8 @@
 <context>
     <name>HttpServer</name>
     <message>
-        <source>Exit qBittorrent</source>
-        <translation>退出 qBittorrent</translation>
+        <source>Exit TTorent</source>
+        <translation>退出 TTorent</translation>
     </message>
     <message>
         <source>Global upload rate limit must be greater than 0 or disabled.</source>
@@ -304,7 +304,7 @@
         <translation>每个 torrent 上传窗口数上限必须大于 0 或禁用。</translation>
     </message>
     <message>
-        <source>Unable to save program preferences, qBittorrent is probably unreachable.</source>
+        <source>Unable to save program preferences, TTorent is probably unreachable.</source>
         <translation type="vanished">无法保存程序偏好选项，可能是无法连接到 qBttorrent。</translation>
     </message>
     <message>
@@ -375,8 +375,8 @@
         <translation>保存</translation>
     </message>
     <message>
-        <source>qBittorrent client is not reachable</source>
-        <translation>无法访问 qBittorrent 客户端</translation>
+        <source>TTorent client is not reachable</source>
+        <translation>无法访问 TTorent 客户端</translation>
     </message>
     <message>
         <source>Global number of upload slots limit must be greater than 0 or disabled.</source>
@@ -467,8 +467,8 @@
         <translation>反向代理设置示例</translation>
     </message>
     <message>
-        <source>Could not contact qBittorrent</source>
-        <translation type="vanished">无法联系 qBittorrent</translation>
+        <source>Could not contact TTorent</source>
+        <translation type="vanished">无法联系 TTorent</translation>
     </message>
     <message>
         <source>Remember choice</source>
@@ -563,8 +563,8 @@
         <translation>检查种子时的剩余内存必须大于 0 并小于 1024</translation>
     </message>
     <message>
-        <source>Unable to load program preferences, qBittorrent is probably unreachable.</source>
-        <translation>无法加载程序首选项，可能无法抵达 qBittorrent</translation>
+        <source>Unable to load program preferences, TTorent is probably unreachable.</source>
+        <translation>无法加载程序首选项，可能无法抵达 TTorent</translation>
     </message>
     <message>
         <source>Peer turnover cutoff must be between 0 and 100.</source>
@@ -579,7 +579,7 @@
         <translation type="unfinished" />
     </message>
     <message>
-        <source>Unable to save preferences, qBittorrent is probably unreachable.</source>
+        <source>Unable to save preferences, TTorent is probably unreachable.</source>
         <translation type="unfinished" />
     </message>
     <message>
@@ -587,7 +587,7 @@
         <translation type="unfinished" />
     </message>
     <message>
-        <source>Could not contact qBittorrent.</source>
+        <source>Could not contact TTorent.</source>
         <translation type="unfinished" />
     </message>
 </context>
@@ -670,8 +670,8 @@
         <translation>全局下载速度限制</translation>
     </message>
     <message>
-        <source>Are you sure you want to quit qBittorrent?</source>
-        <translation>您确定要退出 qBittorrent 吗？</translation>
+        <source>Are you sure you want to quit TTorent?</source>
+        <translation>您确定要退出 TTorent 吗？</translation>
     </message>
     <message>
         <source>Alternative speed limits</source>
@@ -1411,8 +1411,8 @@
         <translation>删除 torrent 及所属文件</translation>
     </message>
     <message>
-        <source>qBittorrent Section</source>
-        <translation>qBittorrent 相关</translation>
+        <source>TTorent Section</source>
+        <translation>TTorent 相关</translation>
     </message>
     <message>
         <source>Send buffer watermark factor:</source>
@@ -2008,7 +2008,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
     </message>
     <message>
         <source>It appends the text to the window title to help distinguish qBittorent instances</source>
-        <translation type="vanished">它将文件附加到窗口标题来区分不同的 qBittorrent 实例</translation>
+        <translation type="vanished">它将文件附加到窗口标题来区分不同的 TTorent 实例</translation>
     </message>
     <message>
         <source>The WebUI username must be at least 3 characters long.</source>
@@ -2311,7 +2311,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation type="unfinished" />
     </message>
     <message>
-        <source>It appends the text to the window title to help distinguish qBittorrent instances</source>
+        <source>It appends the text to the window title to help distinguish TTorent instances</source>
         <translation type="unfinished" />
     </message>
     <message>
@@ -4158,8 +4158,8 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation>姓名：</translation>
     </message>
     <message>
-        <source>About qBittorrent</source>
-        <translation>关于 qBittorrent</translation>
+        <source>About TTorent</source>
+        <translation>关于 TTorent</translation>
     </message>
     <message>
         <source>License</source>
@@ -4170,8 +4170,8 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation>译者</translation>
     </message>
     <message>
-        <source>qBittorrent was built with the following libraries:</source>
-        <translation>qBittorrent 的构建使用了以下库：</translation>
+        <source>TTorent was built with the following libraries:</source>
+        <translation>TTorent 的构建使用了以下库：</translation>
     </message>
     <message>
         <source>Nationality:</source>
@@ -4194,12 +4194,12 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation>法国</translation>
     </message>
     <message>
-        <source>qBittorrent Mascot</source>
-        <translation>qBittorrent 吉祥物</translation>
+        <source>TTorent Mascot</source>
+        <translation>TTorent 吉祥物</translation>
     </message>
     <message>
-        <source>qBittorrent icon</source>
-        <translation>qBittorrent 图标</translation>
+        <source>TTorent icon</source>
+        <translation>TTorent 图标</translation>
     </message>
 </context>
 <context>
@@ -5005,8 +5005,8 @@ Supports the formats: S01E01, 1x1, 2017.12.31 and 31.12.2017 (Date formats also 
 <context>
     <name>Login</name>
     <message>
-        <source>qBittorrent WebUI</source>
-        <translation>qBittorrent WebUI</translation>
+        <source>TTorent WebUI</source>
+        <translation>TTorent WebUI</translation>
     </message>
     <message>
         <source>Password</source>
@@ -5293,8 +5293,8 @@ Supports the formats: S01E01, 1x1, 2017.12.31 and 31.12.2017 (Date formats also 
 <context>
     <name>confirmRotateAPIKeyDialog</name>
     <message>
-        <source>Generate an API key? This key can be used to interact with qBittorrent's API.</source>
-        <translation>生成 API key 吗？这枚 key 可用于和 qBittorrent 的 API 互动。</translation>
+        <source>Generate an API key? This key can be used to interact with TTorent's API.</source>
+        <translation>生成 API key 吗？这枚 key 可用于和 TTorent 的 API 互动。</translation>
     </message>
     <message>
         <source>Delete this API key? The current key will immediately stop working.</source>

@@ -18,8 +18,8 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../gui/aboutdialog.ui" line="15"/>
-        <source>About qBittorrent</source>
-        <translation>qBittorrent buruz</translation>
+        <source>About TTorent</source>
+        <translation>TTorent buruz</translation>
     </message>
     <message>
         <location filename="../gui/aboutdialog.ui" line="55"/>
@@ -91,8 +91,8 @@
     </message>
     <message>
         <location filename="../gui/aboutdialog.ui" line="336"/>
-        <source>qBittorrent was built with the following libraries:</source>
-        <translation>qBittorrent hurrengo liburutegiekin eraiki da:</translation>
+        <source>TTorent was built with the following libraries:</source>
+        <translation>TTorent hurrengo liburutegiekin eraiki da:</translation>
     </message>
     <message>
         <location filename="../gui/aboutdialog.ui" line="356"/>
@@ -105,12 +105,12 @@
         <translation>BitTorrent bezero aurreratua C++-rekin programatua, Qt toolkit-ean eta libtorrent-rasterbar-en ohinarrituta.</translation>
     </message>
     <message>
-        <source>Copyright %1 2006-2025 The qBittorrent project</source>
-        <translation type="vanished">Copyright %1 2006-2025 qBittorrent proiektua</translation>
+        <source>Copyright %1 2006-2025 The TTorent project</source>
+        <translation type="vanished">Copyright %1 2006-2025 TTorent proiektua</translation>
     </message>
     <message>
         <location filename="../gui/aboutdialog.cpp" line="70"/>
-        <source>Copyright %1 2006-2026 The qBittorrent project</source>
+        <source>Copyright %1 2006-2026 The TTorent project</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -749,8 +749,8 @@
     </message>
     <message>
         <location filename="../gui/advancedsettings.cpp" line="478"/>
-        <source>qBittorrent Section</source>
-        <translation>qBittorrent Atala</translation>
+        <source>TTorent Section</source>
+        <translation>TTorent Atala</translation>
     </message>
     <message>
         <location filename="../gui/advancedsettings.cpp" line="475"/>
@@ -926,7 +926,7 @@
     </message>
     <message>
         <location filename="../gui/advancedsettings.cpp" line="779"/>
-        <source>It appends the text to the window title to help distinguish qBittorrent instances</source>
+        <source>It appends the text to the window title to help distinguish TTorent instances</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1494,8 +1494,8 @@
     <message>
         <location filename="../app/application.cpp" line="744"/>
         <location filename="../app/application.cpp" line="762"/>
-        <source>Thank you for using qBittorrent.</source>
-        <translation>Mila esker qBittorrent erabiltzeagaitik.</translation>
+        <source>Thank you for using TTorent.</source>
+        <translation>Mila esker TTorent erabiltzeagaitik.</translation>
     </message>
     <message>
         <location filename="../app/application.cpp" line="793"/>
@@ -1596,9 +1596,9 @@ Zergaitia: %2</translation>
     </message>
     <message>
         <location filename="../app/application.cpp" line="356"/>
-        <source>qBittorrent %1 started. Process ID: %2</source>
-        <comment>qBittorrent v3.2.0alpha started</comment>
-        <translation>qBittorrent %1 hasi da. Prozesuaren ID: %2</translation>
+        <source>TTorent %1 started. Process ID: %2</source>
+        <comment>TTorent v3.2.0alpha started</comment>
+        <translation>TTorent %1 hasi da. Prozesuaren ID: %2</translation>
     </message>
     <message>
         <location filename="../app/application.cpp" line="761"/>
@@ -1628,8 +1628,8 @@ Zergaitia: %2</translation>
     </message>
     <message>
         <location filename="../app/application.cpp" line="1031"/>
-        <source>To control qBittorrent, access the WebUI at: %1</source>
-        <translation>qBittorrent kontrolatzeko, sartu WebUI-ra hemen: %1</translation>
+        <source>To control TTorent, access the WebUI at: %1</source>
+        <translation>TTorent kontrolatzeko, sartu WebUI-ra hemen: %1</translation>
     </message>
     <message>
         <location filename="../app/application.cpp" line="1074"/>
@@ -1668,13 +1668,13 @@ Zergaitia: %2</translation>
     </message>
     <message>
         <location filename="../app/application.cpp" line="1405"/>
-        <source>qBittorrent termination initiated</source>
-        <translation>qBittorrent-en amaiera hasi da</translation>
+        <source>TTorent termination initiated</source>
+        <translation>TTorent-en amaiera hasi da</translation>
     </message>
     <message>
         <location filename="../app/application.cpp" line="1411"/>
-        <source>qBittorrent is shutting down...</source>
-        <translation>qBittorrent itzaltzen ari da...</translation>
+        <source>TTorent is shutting down...</source>
+        <translation>TTorent itzaltzen ari da...</translation>
     </message>
     <message>
         <location filename="../app/application.cpp" line="1439"/>
@@ -1683,8 +1683,8 @@ Zergaitia: %2</translation>
     </message>
     <message>
         <location filename="../app/application.cpp" line="1476"/>
-        <source>qBittorrent is now ready to exit</source>
-        <translation>qBittorrent irteteko prest dago</translation>
+        <source>TTorent is now ready to exit</source>
+        <translation>TTorent irteteko prest dago</translation>
     </message>
 </context>
 <context>
@@ -3034,8 +3034,8 @@ Sostengatutako heuskarriak: S01E01, 1x1, 2017.12.31 eta 31.12.2017 (Data heuskar
     </message>
     <message>
         <location filename="../app/cmdoptions.cpp" line="390"/>
-        <source>Store configuration files in directories qBittorrent_&lt;name&gt;</source>
-        <translation>Biltegiratu itxurapen agiriak qBittorrent zuzenbideetan_&lt;name&gt;</translation>
+        <source>Store configuration files in directories TTorent_&lt;name&gt;</source>
+        <translation>Biltegiratu itxurapen agiriak TTorent zuzenbideetan_&lt;name&gt;</translation>
     </message>
     <message>
         <location filename="../app/cmdoptions.cpp" line="392"/>
@@ -3727,7 +3727,7 @@ Sostengatutako heuskarriak: S01E01, 1x1, 2017.12.31 eta 31.12.2017 (Data heuskar
     <message>
         <location filename="../gui/powermanagement/inhibitormacos.cpp" line="36"/>
         <source>PMMacOS</source>
-        <comment>qBittorrent is active</comment>
+        <comment>TTorent is active</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3740,8 +3740,8 @@ Sostengatutako heuskarriak: S01E01, 1x1, 2017.12.31 eta 31.12.2017 (Data heuskar
     </message>
     <message>
         <location filename="../app/legalnotice.cpp" line="51"/>
-        <source>qBittorrent is a file sharing program. When you run a torrent, its data will be made available to others by means of upload. Any content you share is your sole responsibility.</source>
-        <translation>qBittorrent agiri elkarbanatze programa bat da. Torrent bati ekiten diozunean, datu hauek eskuragarriak izango dira besteentzako igoeraren bidez. Elkarbanatzen duzun edozein eduki zure erantzunkizunekoa da.</translation>
+        <source>TTorent is a file sharing program. When you run a torrent, its data will be made available to others by means of upload. Any content you share is your sole responsibility.</source>
+        <translation>TTorent agiri elkarbanatze programa bat da. Torrent bati ekiten diozunean, datu hauek eskuragarriak izango dira besteentzako igoeraren bidez. Elkarbanatzen duzun edozein eduki zure erantzunkizunekoa da.</translation>
     </message>
     <message>
         <location filename="../app/legalnotice.cpp" line="52"/>
@@ -3805,23 +3805,23 @@ Sostengatutako heuskarriak: S01E01, 1x1, 2017.12.31 eta 31.12.2017 (Data heuskar
     <message>
         <location filename="../app/main.cpp" line="124"/>
         <location filename="../app/main.cpp" line="128"/>
-        <source>qBittorrent has encountered an unrecoverable error.</source>
-        <translation>qBittorrent-ek errore berreskuraezin bat aurkitu du.</translation>
+        <source>TTorent has encountered an unrecoverable error.</source>
+        <translation>TTorent-ek errore berreskuraezin bat aurkitu du.</translation>
     </message>
     <message>
         <location filename="../app/main.cpp" line="237"/>
-        <source>You cannot use %1: qBittorrent is already running.</source>
-        <translation>Ezin duzu %1 erabili: qBittorrent dagoeneko martxan dago.</translation>
+        <source>You cannot use %1: TTorent is already running.</source>
+        <translation>Ezin duzu %1 erabili: TTorent dagoeneko martxan dago.</translation>
     </message>
     <message>
         <location filename="../app/main.cpp" line="244"/>
-        <source>Another qBittorrent instance is already running.</source>
-        <translation>Beste qBittorrent instantzia bat dagoeneko martxan dago.</translation>
+        <source>Another TTorent instance is already running.</source>
+        <translation>Beste TTorent instantzia bat dagoeneko martxan dago.</translation>
     </message>
     <message>
         <location filename="../app/main.cpp" line="300"/>
-        <source>Found unexpected qBittorrent instance. Exiting this instance. Current process ID: %1.</source>
-        <translation>Ustekabeko qBittorrent instantzia aurkitu da. Instantzia honetatik irteten. Uneko prozesuaren IDa: %1.</translation>
+        <source>Found unexpected TTorent instance. Exiting this instance. Current process ID: %1.</source>
+        <translation>Ustekabeko TTorent instantzia aurkitu da. Instantzia honetatik irteten. Uneko prozesuaren IDa: %1.</translation>
     </message>
     <message>
         <location filename="../app/main.cpp" line="309"/>
@@ -3924,8 +3924,8 @@ Sostengatutako heuskarriak: S01E01, 1x1, 2017.12.31 eta 31.12.2017 (Data heuskar
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="352"/>
-        <source>L&amp;ock qBittorrent</source>
-        <translation>&amp;Blokeatu qBittorrent</translation>
+        <source>L&amp;ock TTorent</source>
+        <translation>&amp;Blokeatu TTorent</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="363"/>
@@ -4054,8 +4054,8 @@ Sostengatutako heuskarriak: S01E01, 1x1, 2017.12.31 eta 31.12.2017 (Data heuskar
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="374"/>
-        <source>&amp;Exit qBittorrent</source>
-        <translation>I&amp;rten qBittorrent-etik</translation>
+        <source>&amp;Exit TTorent</source>
+        <translation>I&amp;rten TTorent-etik</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="382"/>
@@ -4136,8 +4136,8 @@ Sostengatutako heuskarriak: S01E01, 1x1, 2017.12.31 eta 31.12.2017 (Data heuskar
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="366"/>
-        <source>If you like qBittorrent, please donate!</source>
-        <translation>qBittorrent gogoko baduzu, mesedez eman dirulaguntza!</translation>
+        <source>If you like TTorent, please donate!</source>
+        <translation>TTorent gogoko baduzu, mesedez eman dirulaguntza!</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.cpp" line="1754"/>
@@ -4178,8 +4178,8 @@ Sostengatutako heuskarriak: S01E01, 1x1, 2017.12.31 eta 31.12.2017 (Data heuskar
     <message>
         <location filename="../gui/mainwindow.cpp" line="471"/>
         <location filename="../gui/mainwindow.cpp" line="1287"/>
-        <source>qBittorrent is minimized to tray</source>
-        <translation>qBittorrent erretilura txikiendu da</translation>
+        <source>TTorent is minimized to tray</source>
+        <translation>TTorent erretilura txikiendu da</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.cpp" line="471"/>
@@ -4263,13 +4263,13 @@ Sostengatutako heuskarriak: S01E01, 1x1, 2017.12.31 eta 31.12.2017 (Data heuskar
     </message>
     <message>
         <location filename="../gui/mainwindow.cpp" line="1058"/>
-        <source>qBittorrent was just updated and needs to be restarted for the changes to be effective.</source>
-        <translation>qBittorrent eguneratua izan da eta berrabiarazpena behar du aldaketek eragina izateko.</translation>
+        <source>TTorent was just updated and needs to be restarted for the changes to be effective.</source>
+        <translation>TTorent eguneratua izan da eta berrabiarazpena behar du aldaketek eragina izateko.</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.cpp" line="1194"/>
-        <source>qBittorrent is closed to tray</source>
-        <translation>qBittorrent erretilura itxi da</translation>
+        <source>TTorent is closed to tray</source>
+        <translation>TTorent erretilura itxi da</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.cpp" line="1214"/>
@@ -4278,8 +4278,8 @@ Sostengatutako heuskarriak: S01E01, 1x1, 2017.12.31 eta 31.12.2017 (Data heuskar
     </message>
     <message>
         <location filename="../gui/mainwindow.cpp" line="1214"/>
-        <source>Are you sure you want to quit qBittorrent?</source>
-        <translation>Zihur zaude qBittorrent uztea nahi duzula?</translation>
+        <source>Are you sure you want to quit TTorent?</source>
+        <translation>Zihur zaude TTorent uztea nahi duzula?</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.cpp" line="1216"/>
@@ -4357,8 +4357,8 @@ Please install it manually.</source>
     </message>
     <message>
         <location filename="../gui/mainwindow.cpp" line="1689"/>
-        <source>qBittorrent Update Available</source>
-        <translation>qBittorrent Eguneraketa Eskuragarri</translation>
+        <source>TTorent Update Available</source>
+        <translation>TTorent Eguneraketa Eskuragarri</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.cpp" line="1617"/>
@@ -4511,8 +4511,8 @@ Beharrezko gutxiena: %2.</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.cpp" line="1212"/>
-        <source>Exiting qBittorrent</source>
-        <translation>qBittorrentetik irtetzen</translation>
+        <source>Exiting TTorent</source>
+        <translation>TTorentetik irtetzen</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.cpp" line="1320"/>
@@ -4549,13 +4549,13 @@ Beharrezko gutxiena: %2.</translation>
     </message>
     <message>
         <location filename="../base/net/dnsupdater.cpp" line="218"/>
-        <source>Dynamic DNS error: qBittorrent was blacklisted by the service, please submit a bug report at https://bugs.qbittorrent.org.</source>
-        <translation>DNS dinamikoaren errorea: zerbitzuak qBittorrent zerrenda beltzean sartu su, bidali akatsen txostena https://bugs.qbittorrent.org helbidera.</translation>
+        <source>Dynamic DNS error: TTorent was blacklisted by the service, please submit a bug report at https://bugs.TTorent.org.</source>
+        <translation>DNS dinamikoaren errorea: zerbitzuak TTorent zerrenda beltzean sartu su, bidali akatsen txostena https://bugs.TTorent.org helbidera.</translation>
     </message>
     <message>
         <location filename="../base/net/dnsupdater.cpp" line="226"/>
-        <source>Dynamic DNS error: %1 was returned by the service, please submit a bug report at https://bugs.qbittorrent.org.</source>
-        <translation>DNS dinamikoaren errorea: zerbitzuak %1 itzuli du, mesedez bidali akatsen txostena https://bugs.qbittorrent.org helbidera.</translation>
+        <source>Dynamic DNS error: %1 was returned by the service, please submit a bug report at https://bugs.TTorent.org.</source>
+        <translation>DNS dinamikoaren errorea: zerbitzuak %1 itzuli du, mesedez bidali akatsen txostena https://bugs.TTorent.org helbidera.</translation>
     </message>
     <message>
         <location filename="../base/net/dnsupdater.cpp" line="234"/>
@@ -6200,8 +6200,8 @@ Beharrezko gutxiena: %2.</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="500"/>
-        <source>Start qBittorrent on Windows start up</source>
-        <translation>Hasi qBittorrent Windows hasterakoan</translation>
+        <source>Start TTorent on Windows start up</source>
+        <translation>Hasi TTorent Windows hasterakoan</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="507"/>
@@ -6225,8 +6225,8 @@ Beharrezko gutxiena: %2.</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="697"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;To set qBittorrent as default program for .torrent files and/or Magnet links&lt;br/&gt;you can use &lt;span style=&quot; font-weight:600;&quot;&gt;Default Programs&lt;/span&gt; dialog from &lt;span style=&quot; font-weight:600;&quot;&gt;Control Panel&lt;/span&gt;.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;qBittorrent .torrent fitxategietarako eta/edo Magnet esteketarako&lt;br/&gt; programa lehenetsi gisa ezartzeko, &lt;span style=&quot; font-weight:600;&quot;&gt;Kontrol Paneleko&lt;/span&gt; &lt;span style=&quot; font-weight:600;&quot;&gt;Lehenetsitako Programak&lt;/span&gt; elkarrizketa-koadroa erabili dezakezu.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;To set TTorent as default program for .torrent files and/or Magnet links&lt;br/&gt;you can use &lt;span style=&quot; font-weight:600;&quot;&gt;Default Programs&lt;/span&gt; dialog from &lt;span style=&quot; font-weight:600;&quot;&gt;Control Panel&lt;/span&gt;.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;TTorent .torrent fitxategietarako eta/edo Magnet esteketarako&lt;br/&gt; programa lehenetsi gisa ezartzeko, &lt;span style=&quot; font-weight:600;&quot;&gt;Kontrol Paneleko&lt;/span&gt; &lt;span style=&quot; font-weight:600;&quot;&gt;Lehenetsitako Programak&lt;/span&gt; elkarrizketa-koadroa erabili dezakezu.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="717"/>
@@ -6235,7 +6235,7 @@ Beharrezko gutxiena: %2.</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="724"/>
-        <source>Show qBittorrent in menu bar</source>
+        <source>Show TTorent in menu bar</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6432,8 +6432,8 @@ Ezagaitu enkriptaketa: Elkartu hartzaileetara enkriptaketa protokolo gabe bakarr
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2860"/>
-        <source>(&lt;a href=&quot;https://github.com/qbittorrent/qBittorrent/wiki/Anonymous-Mode&quot;&gt;More information&lt;/a&gt;)</source>
-        <translation>(&lt;a href=&quot;https://github.com/qbittorrent/qBittorrent/wiki/Anonymous-Mode&quot;&gt;Argibide gehiago&lt;/a&gt;)</translation>
+        <source>(&lt;a href=&quot;https://github.com/TTorent/TTorent/wiki/Anonymous-Mode&quot;&gt;More information&lt;/a&gt;)</source>
+        <translation>(&lt;a href=&quot;https://github.com/TTorent/TTorent/wiki/Anonymous-Mode&quot;&gt;Argibide gehiago&lt;/a&gt;)</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2893"/>
@@ -6740,8 +6740,8 @@ Erabili &apos;;&apos; sarrera ugari banantzeko. &apos;*&apos; ordez-hizkia erabi
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="583"/>
-        <source>Minimize qBittorrent to notification area</source>
-        <translation>Txikiendu qBittorrent jakinarazpen eremura</translation>
+        <source>Minimize TTorent to notification area</source>
+        <translation>Txikiendu TTorent jakinarazpen eremura</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="77"/>
@@ -6813,7 +6813,7 @@ Erabili &apos;;&apos; sarrera ugari banantzeko. &apos;*&apos; ordez-hizkia erabi
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="484"/>
-        <source>Drag content from qBittorrent</source>
+        <source>Drag content from TTorent</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6834,13 +6834,13 @@ Erabili &apos;;&apos; sarrera ugari banantzeko. &apos;*&apos; ordez-hizkia erabi
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="665"/>
-        <source>Use qBittorrent for .torrent files</source>
-        <translation>Erabili qBittorrent .torrent agirientzat</translation>
+        <source>Use TTorent for .torrent files</source>
+        <translation>Erabili TTorent .torrent agirientzat</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="672"/>
-        <source>Use qBittorrent for magnet links</source>
-        <translation>Erabili qBittorrent magnet loturentzat</translation>
+        <source>Use TTorent for magnet links</source>
+        <translation>Erabili TTorent magnet loturentzat</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="710"/>
@@ -6976,8 +6976,8 @@ Erabili &apos;;&apos; sarrera ugari banantzeko. &apos;*&apos; ordez-hizkia erabi
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="571"/>
-        <source>Show &amp;qBittorrent in notification area</source>
-        <translation>Erakutsi &amp;qBittorrent jakinarazpen eremuan</translation>
+        <source>Show &amp;TTorent in notification area</source>
+        <translation>Erakutsi &amp;TTorent jakinarazpen eremuan</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="969"/>
@@ -7042,9 +7042,9 @@ Erabili &apos;;&apos; sarrera ugari banantzeko. &apos;*&apos; ordez-hizkia erabi
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="596"/>
-        <source>Close qBittorrent to notification area</source>
+        <source>Close TTorent to notification area</source>
         <extracomment>The systray icon will still be visible when closing the main window</extracomment>
-        <translation>Itxi qBittorrent jakinarazpen eremura</translation>
+        <translation>Itxi TTorent jakinarazpen eremura</translation>
     </message>
     <message>
         <source>Monochrome (for dark theme)</source>
@@ -7162,8 +7162,8 @@ Eskuzkoa: Torrent ezaugarri ugari (adib. gordetze helburua) eskuz esleitu behar 
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="526"/>
-        <source>qBittorrent window state on start up</source>
-        <translation>qBittorrent leihoaren egoera abiaraztean</translation>
+        <source>TTorent window state on start up</source>
+        <translation>TTorent leihoaren egoera abiaraztean</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1059"/>
@@ -7660,7 +7660,7 @@ readme[0-9].txt: iragazi &apos;readme1.txt&apos;, &apos;readme2.txt&apos; baina 
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="4088"/>
-        <source>&lt;a href=&quot;https://github.com/qbittorrent/qBittorrent/wiki/List-of-known-alternate-WebUIs&quot;&gt;List of alternative WebUI&lt;/a&gt;</source>
+        <source>&lt;a href=&quot;https://github.com/TTorent/TTorent/wiki/List-of-known-alternate-WebUIs&quot;&gt;List of alternative WebUI&lt;/a&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7710,7 +7710,7 @@ readme[0-9].txt: iragazi &apos;readme1.txt&apos;, &apos;readme2.txt&apos; baina 
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="4220"/>
-        <source>&lt;a href=https://github.com/qbittorrent/qBittorrent/wiki#reverse-proxy-setup-for-webui-access&gt;Reverse proxy setup examples&lt;/a&gt;</source>
+        <source>&lt;a href=https://github.com/TTorent/TTorent/wiki#reverse-proxy-setup-for-webui-access&gt;Reverse proxy setup examples&lt;/a&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7740,8 +7740,8 @@ readme[0-9].txt: iragazi &apos;readme1.txt&apos;, &apos;readme2.txt&apos; baina 
     </message>
     <message>
         <location filename="../gui/optionsdialog.cpp" line="264"/>
-        <source>Select qBittorrent UI Theme file</source>
-        <translation>Hautatu qBittorrent EI Azalgai agiria</translation>
+        <source>Select TTorent UI Theme file</source>
+        <translation>Hautatu TTorent EI Azalgai agiria</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.cpp" line="1383"/>
@@ -7944,7 +7944,7 @@ readme[0-9].txt: iragazi &apos;readme1.txt&apos;, &apos;readme2.txt&apos; baina 
     </message>
     <message>
         <location filename="../gui/optionsdialog.cpp" line="1537"/>
-        <source>Generate an API key? This key can be used to interact with qBittorrent&apos;s API.</source>
+        <source>Generate an API key? This key can be used to interact with TTorent&apos;s API.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8040,13 +8040,13 @@ readme[0-9].txt: iragazi &apos;readme1.txt&apos;, &apos;readme2.txt&apos; baina 
     </message>
     <message>
         <location filename="../gui/optionsdialog.cpp" line="610"/>
-        <source>When these options are enabled, qBittorrent will &lt;strong&gt;delete&lt;/strong&gt; .torrent files after they were successfully (the first option) or not (the second option) added to its download queue. This will be applied &lt;strong&gt;not only&lt;/strong&gt; to the files opened via &amp;ldquo;Add torrent&amp;rdquo; menu action but to those opened via &lt;strong&gt;file type association&lt;/strong&gt; as well</source>
+        <source>When these options are enabled, TTorent will &lt;strong&gt;delete&lt;/strong&gt; .torrent files after they were successfully (the first option) or not (the second option) added to its download queue. This will be applied &lt;strong&gt;not only&lt;/strong&gt; to the files opened via &amp;ldquo;Add torrent&amp;rdquo; menu action but to those opened via &lt;strong&gt;file type association&lt;/strong&gt; as well</source>
         <translation>Aukera hauek gaitzen direnean, qBittorent-ek .torrent agiriak &lt;strong&gt;ezabatuko&lt;/strong&gt; ditu beren jeitsiera lerrora ongi (lehen aukera) edo ez (bigarren aukera) gehitutakoan. Hau &lt;strong&gt;ez da bakarrik&lt;/strong&gt; &amp;ldquo;Gehitu torrenta&amp;rdquo; menu ekintzaren bidez irekitako agirietan ezarriko, baita &lt;strong&gt;agiri mota elkarketa&lt;/strong&gt; bidez irekitakoetan ere.</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.cpp" line="265"/>
-        <source>qBittorrent UI Theme file (*.qbtheme config.json)</source>
-        <translation>qBittorrent UI gaiaren fitxategia (*.qbtheme config.json)</translation>
+        <source>TTorent UI Theme file (*.qbtheme config.json)</source>
+        <translation>TTorent UI gaiaren fitxategia (*.qbtheme config.json)</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.cpp" line="709"/>
@@ -8511,8 +8511,8 @@ Check the Execution Log for errors.</source>
     </message>
     <message>
         <location filename="../gui/search/pluginselectdialog.ui" line="95"/>
-        <source>You can get new search engine plugins here: &lt;a href=&quot;https://plugins.qbittorrent.org&quot;&gt;https://plugins.qbittorrent.org&lt;/a&gt;</source>
-        <translation>Bilatzaileen plugin berriak lor ditzakezu hemen: &lt;a href=&quot;https://plugins.qbittorrent.org&quot;&gt;https://plugins.qbittorrent.org&lt;/a&gt;</translation>
+        <source>You can get new search engine plugins here: &lt;a href=&quot;https://plugins.TTorent.org&quot;&gt;https://plugins.TTorent.org&lt;/a&gt;</source>
+        <translation>Bilatzaileen plugin berriak lor ditzakezu hemen: &lt;a href=&quot;https://plugins.TTorent.org&quot;&gt;https://plugins.TTorent.org&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../gui/search/pluginselectdialog.ui" line="107"/>
@@ -8556,9 +8556,9 @@ Check the Execution Log for errors.</source>
     </message>
     <message>
         <location filename="../gui/search/pluginselectdialog.cpp" line="216"/>
-        <source>Some plugins could not be uninstalled because they are included in qBittorrent. Only the ones you added yourself can be uninstalled.
+        <source>Some plugins could not be uninstalled because they are included in TTorent. Only the ones you added yourself can be uninstalled.
 Those plugins were disabled.</source>
-        <translation>Zenbait plugin ezin dira kendu qBittorrenten barnekoak direlako. Zeuk gehitutakoak bakarrik kendu daitezke.
+        <translation>Zenbait plugin ezin dira kendu TTorenten barnekoak direlako. Zeuk gehitutakoak bakarrik kendu daitezke.
 Plugin hauek ezgaituta daude.</translation>
     </message>
     <message>
@@ -8613,8 +8613,8 @@ Plugin hauek ezgaituta daude.</translation>
     </message>
     <message>
         <location filename="../gui/search/pluginselectdialog.cpp" line="387"/>
-        <source>qBittorrent search plugin</source>
-        <translation>qBittorrent bilaketa plugina</translation>
+        <source>TTorent search plugin</source>
+        <translation>TTorent bilaketa plugina</translation>
     </message>
     <message>
         <location filename="../gui/search/pluginselectdialog.cpp" line="448"/>
@@ -10143,8 +10143,8 @@ Klikatu &quot;Bilatu pluginak...&quot; botoia leihoaren behe eskuinean zenbait e
     </message>
     <message>
         <location filename="../gui/shutdownconfirmdialog.cpp" line="118"/>
-        <source>qBittorrent will now exit.</source>
-        <translation>qBittorrent orain irten egingo da.</translation>
+        <source>TTorent will now exit.</source>
+        <translation>TTorent orain irten egingo da.</translation>
     </message>
     <message>
         <location filename="../gui/shutdownconfirmdialog.cpp" line="119"/>
@@ -10563,8 +10563,8 @@ Klikatu &quot;Bilatu pluginak...&quot; botoia leihoaren behe eskuinean zenbait e
     </message>
     <message>
         <location filename="../gui/statusbar.cpp" line="157"/>
-        <source>qBittorrent needs to be restarted!</source>
-        <translation>qBittorrentek berrabiaraztea behar du!</translation>
+        <source>TTorent needs to be restarted!</source>
+        <translation>TTorentek berrabiaraztea behar du!</translation>
     </message>
     <message>
         <location filename="../gui/statusbar.cpp" line="177"/>
@@ -10575,8 +10575,8 @@ Klikatu &quot;Bilatu pluginak...&quot; botoia leihoaren behe eskuinean zenbait e
     </message>
     <message>
         <location filename="../gui/statusbar.cpp" line="177"/>
-        <source>Offline. This usually means that qBittorrent failed to listen on the selected port for incoming connections.</source>
-        <translation>Lineaz-kanpo. Honek arrunt esanahi du qBittorrentek huts egin duela hautatutako barrurako elkarketen atakan aditzean.</translation>
+        <source>Offline. This usually means that TTorent failed to listen on the selected port for incoming connections.</source>
+        <translation>Lineaz-kanpo. Honek arrunt esanahi du TTorentek huts egin duela hautatutako barrurako elkarketen atakan aditzean.</translation>
     </message>
     <message>
         <location filename="../gui/statusbar.cpp" line="186"/>
@@ -13506,12 +13506,12 @@ Mesedez hautatu beste izen bat eta saiatu berriro.</translation>
     </message>
     <message>
         <location filename="../base/utils/os.cpp" line="92"/>
-        <source>qBittorrent will shutdown the computer now because all downloads are complete.</source>
-        <translation>qBittorrent-ek orain ordenagailua itzaliko du jeisketa guztiak osatu direlako.</translation>
+        <source>TTorent will shutdown the computer now because all downloads are complete.</source>
+        <translation>TTorent-ek orain ordenagailua itzaliko du jeisketa guztiak osatu direlako.</translation>
     </message>
     <message>
         <location filename="../base/utils/os.cpp" line="98"/>
-        <source>qBittorrent will reboot the computer now because all downloads are complete.</source>
+        <source>TTorent will reboot the computer now because all downloads are complete.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

@@ -260,8 +260,8 @@
 <context>
     <name>HttpServer</name>
     <message>
-        <source>Exit qBittorrent</source>
-        <translation>Έξοδος qBittorrent</translation>
+        <source>Exit TTorent</source>
+        <translation>Έξοδος TTorent</translation>
     </message>
     <message>
         <source>Global upload rate limit must be greater than 0 or disabled.</source>
@@ -304,8 +304,8 @@
         <translation>Το όριο του μέγιστου αριθμού slots αποστολής ανά torrent πρέπει να είναι μεγαλύτερο από 0 ή απενεργοποιημένο.</translation>
     </message>
     <message>
-        <source>Unable to save program preferences, qBittorrent is probably unreachable.</source>
-        <translation type="vanished">Δεν είναι δυνατή η αποθήκευση των προτιμήσεων του προγράμματος, το qBittorrent είναι πιθανώς μη διαθέσιμο.</translation>
+        <source>Unable to save program preferences, TTorent is probably unreachable.</source>
+        <translation type="vanished">Δεν είναι δυνατή η αποθήκευση των προτιμήσεων του προγράμματος, το TTorent είναι πιθανώς μη διαθέσιμο.</translation>
     </message>
     <message>
         <source>Unknown</source>
@@ -375,8 +375,8 @@
         <translation>Αποθήκευση</translation>
     </message>
     <message>
-        <source>qBittorrent client is not reachable</source>
-        <translation>Ο qBittorrent client δεν είναι διαθέσιμος</translation>
+        <source>TTorent client is not reachable</source>
+        <translation>Ο TTorent client δεν είναι διαθέσιμος</translation>
     </message>
     <message>
         <source>Global number of upload slots limit must be greater than 0 or disabled.</source>
@@ -467,8 +467,8 @@
         <translation type="unfinished" />
     </message>
     <message>
-        <source>Could not contact qBittorrent</source>
-        <translation type="vanished">Αδυναμία επικοινωνίας με qBittorrent</translation>
+        <source>Could not contact TTorent</source>
+        <translation type="vanished">Αδυναμία επικοινωνίας με TTorent</translation>
     </message>
     <message>
         <source>Remember choice</source>
@@ -563,7 +563,7 @@
         <translation type="unfinished" />
     </message>
     <message>
-        <source>Unable to load program preferences, qBittorrent is probably unreachable.</source>
+        <source>Unable to load program preferences, TTorent is probably unreachable.</source>
         <translation type="unfinished" />
     </message>
     <message>
@@ -579,7 +579,7 @@
         <translation type="unfinished" />
     </message>
     <message>
-        <source>Unable to save preferences, qBittorrent is probably unreachable.</source>
+        <source>Unable to save preferences, TTorent is probably unreachable.</source>
         <translation type="unfinished" />
     </message>
     <message>
@@ -587,7 +587,7 @@
         <translation type="unfinished" />
     </message>
     <message>
-        <source>Could not contact qBittorrent.</source>
+        <source>Could not contact TTorent.</source>
         <translation type="unfinished" />
     </message>
 </context>
@@ -670,8 +670,8 @@
         <translation>Γενικό Όριο Ταχύτητας Λήψης</translation>
     </message>
     <message>
-        <source>Are you sure you want to quit qBittorrent?</source>
-        <translation>Είστε σίγουροι ότι θέλετε να κλείσετε το qBittorrent?</translation>
+        <source>Are you sure you want to quit TTorent?</source>
+        <translation>Είστε σίγουροι ότι θέλετε να κλείσετε το TTorent?</translation>
     </message>
     <message>
         <source>Alternative speed limits</source>
@@ -1411,8 +1411,8 @@
         <translation>Αφαίρεση του torrent και των αρχείων του</translation>
     </message>
     <message>
-        <source>qBittorrent Section</source>
-        <translation>Ενότητα qBittorrent</translation>
+        <source>TTorent Section</source>
+        <translation>Ενότητα TTorent</translation>
     </message>
     <message>
         <source>Send buffer watermark factor:</source>
@@ -2307,7 +2307,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation type="unfinished" />
     </message>
     <message>
-        <source>It appends the text to the window title to help distinguish qBittorrent instances</source>
+        <source>It appends the text to the window title to help distinguish TTorent instances</source>
         <translation type="unfinished" />
     </message>
     <message>
@@ -4154,7 +4154,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation>Όνομα:</translation>
     </message>
     <message>
-        <source>About qBittorrent</source>
+        <source>About TTorent</source>
         <translation>Σχετικά με το qBittorent</translation>
     </message>
     <message>
@@ -4166,8 +4166,8 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation>Μεταφραστές</translation>
     </message>
     <message>
-        <source>qBittorrent was built with the following libraries:</source>
-        <translation>Το qBittorrent φτιάχτηκε με τις ακόλουθες βιβλιοθήκες:</translation>
+        <source>TTorent was built with the following libraries:</source>
+        <translation>Το TTorent φτιάχτηκε με τις ακόλουθες βιβλιοθήκες:</translation>
     </message>
     <message>
         <source>Nationality:</source>
@@ -4190,12 +4190,12 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation>Γαλλία</translation>
     </message>
     <message>
-        <source>qBittorrent Mascot</source>
-        <translation>Μασκότ του qBittorrent</translation>
+        <source>TTorent Mascot</source>
+        <translation>Μασκότ του TTorent</translation>
     </message>
     <message>
-        <source>qBittorrent icon</source>
-        <translation>Εικονίδιο του qBittorrent</translation>
+        <source>TTorent icon</source>
+        <translation>Εικονίδιο του TTorent</translation>
     </message>
 </context>
 <context>
@@ -5001,7 +5001,7 @@ Supports the formats: S01E01, 1x1, 2017.12.31 and 31.12.2017 (Date formats also 
 <context>
     <name>Login</name>
     <message>
-        <source>qBittorrent WebUI</source>
+        <source>TTorent WebUI</source>
         <translation type="unfinished" />
     </message>
     <message>
@@ -5290,7 +5290,7 @@ Supports the formats: S01E01, 1x1, 2017.12.31 and 31.12.2017 (Date formats also 
 <context>
     <name>confirmRotateAPIKeyDialog</name>
     <message>
-        <source>Generate an API key? This key can be used to interact with qBittorrent's API.</source>
+        <source>Generate an API key? This key can be used to interact with TTorent's API.</source>
         <translation type="unfinished" />
     </message>
     <message>

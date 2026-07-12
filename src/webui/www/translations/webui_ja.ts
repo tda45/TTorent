@@ -260,8 +260,8 @@
 <context>
     <name>HttpServer</name>
     <message>
-        <source>Exit qBittorrent</source>
-        <translation>qBittorrentの終了</translation>
+        <source>Exit TTorent</source>
+        <translation>TTorentの終了</translation>
     </message>
     <message>
         <source>Global upload rate limit must be greater than 0 or disabled.</source>
@@ -304,8 +304,8 @@
         <translation>最大アップロートスロット数は0より大きいか無効でなくてはなりません。</translation>
     </message>
     <message>
-        <source>Unable to save program preferences, qBittorrent is probably unreachable.</source>
-        <translation type="vanished">プログラム設定の保存ができません。qBittorrentはおそらく通信可能状態にありません。</translation>
+        <source>Unable to save program preferences, TTorent is probably unreachable.</source>
+        <translation type="vanished">プログラム設定の保存ができません。TTorentはおそらく通信可能状態にありません。</translation>
     </message>
     <message>
         <source>Unknown</source>
@@ -375,8 +375,8 @@
         <translation>保存</translation>
     </message>
     <message>
-        <source>qBittorrent client is not reachable</source>
-        <translation>qBittorrentクライアントと通信できません</translation>
+        <source>TTorent client is not reachable</source>
+        <translation>TTorentクライアントと通信できません</translation>
     </message>
     <message>
         <source>Global number of upload slots limit must be greater than 0 or disabled.</source>
@@ -559,7 +559,7 @@
         <translation type="unfinished" />
     </message>
     <message>
-        <source>Unable to load program preferences, qBittorrent is probably unreachable.</source>
+        <source>Unable to load program preferences, TTorent is probably unreachable.</source>
         <translation type="unfinished" />
     </message>
     <message>
@@ -575,7 +575,7 @@
         <translation type="unfinished" />
     </message>
     <message>
-        <source>Unable to save preferences, qBittorrent is probably unreachable.</source>
+        <source>Unable to save preferences, TTorent is probably unreachable.</source>
         <translation type="unfinished" />
     </message>
     <message>
@@ -583,7 +583,7 @@
         <translation type="unfinished" />
     </message>
     <message>
-        <source>Could not contact qBittorrent.</source>
+        <source>Could not contact TTorent.</source>
         <translation type="unfinished" />
     </message>
 </context>
@@ -666,8 +666,8 @@
         <translation>全体のダウンロード速度上限</translation>
     </message>
     <message>
-        <source>Are you sure you want to quit qBittorrent?</source>
-        <translation>qBittorrentを終了しますか?</translation>
+        <source>Are you sure you want to quit TTorent?</source>
+        <translation>TTorentを終了しますか?</translation>
     </message>
     <message>
         <source>Alternative speed limits</source>
@@ -1407,8 +1407,8 @@
         <translation>Torrentとそのファイルを削除</translation>
     </message>
     <message>
-        <source>qBittorrent Section</source>
-        <translation>qBittorrent 部分</translation>
+        <source>TTorent Section</source>
+        <translation>TTorent 部分</translation>
     </message>
     <message>
         <source>Send buffer watermark factor:</source>
@@ -2303,7 +2303,7 @@ DNSリバインディング攻撃を防ぐために、WebUIサーバーが使用
         <translation type="unfinished" />
     </message>
     <message>
-        <source>It appends the text to the window title to help distinguish qBittorrent instances</source>
+        <source>It appends the text to the window title to help distinguish TTorent instances</source>
         <translation type="unfinished" />
     </message>
     <message>
@@ -4150,8 +4150,8 @@ DNSリバインディング攻撃を防ぐために、WebUIサーバーが使用
         <translation>名前:</translation>
     </message>
     <message>
-        <source>About qBittorrent</source>
-        <translation>qBittorrentについて</translation>
+        <source>About TTorent</source>
+        <translation>TTorentについて</translation>
     </message>
     <message>
         <source>License</source>
@@ -4162,8 +4162,8 @@ DNSリバインディング攻撃を防ぐために、WebUIサーバーが使用
         <translation>翻訳</translation>
     </message>
     <message>
-        <source>qBittorrent was built with the following libraries:</source>
-        <translation>qBittorrentを構成するライブラリ:</translation>
+        <source>TTorent was built with the following libraries:</source>
+        <translation>TTorentを構成するライブラリ:</translation>
     </message>
     <message>
         <source>Nationality:</source>
@@ -4186,12 +4186,12 @@ DNSリバインディング攻撃を防ぐために、WebUIサーバーが使用
         <translation>フランス</translation>
     </message>
     <message>
-        <source>qBittorrent Mascot</source>
-        <translation>qBittorrentマスコット</translation>
+        <source>TTorent Mascot</source>
+        <translation>TTorentマスコット</translation>
     </message>
     <message>
-        <source>qBittorrent icon</source>
-        <translation>qBittorrentアイコン</translation>
+        <source>TTorent icon</source>
+        <translation>TTorentアイコン</translation>
     </message>
 </context>
 <context>
@@ -4997,7 +4997,7 @@ Supports the formats: S01E01, 1x1, 2017.12.31 and 31.12.2017 (Date formats also 
 <context>
     <name>Login</name>
     <message>
-        <source>qBittorrent WebUI</source>
+        <source>TTorent WebUI</source>
         <translation type="unfinished" />
     </message>
     <message>
@@ -5285,7 +5285,7 @@ Supports the formats: S01E01, 1x1, 2017.12.31 and 31.12.2017 (Date formats also 
 <context>
     <name>confirmRotateAPIKeyDialog</name>
     <message>
-        <source>Generate an API key? This key can be used to interact with qBittorrent's API.</source>
+        <source>Generate an API key? This key can be used to interact with TTorent's API.</source>
         <translation type="unfinished" />
     </message>
     <message>

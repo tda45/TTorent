@@ -260,8 +260,8 @@
 <context>
     <name>HttpServer</name>
     <message>
-        <source>Exit qBittorrent</source>
-        <translation>Изађи из qBittorrent-а</translation>
+        <source>Exit TTorent</source>
+        <translation>Изађи из TTorent-а</translation>
     </message>
     <message>
         <source>Global upload rate limit must be greater than 0 or disabled.</source>
@@ -304,8 +304,8 @@
         <translation>Максимални број слотова за слање Торента при лимитирању мора бити већи од 0 или онемогућен.</translation>
     </message>
     <message>
-        <source>Unable to save program preferences, qBittorrent is probably unreachable.</source>
-        <translation type="vanished">Не могу да сачувам програмска подешавања, qBittorrent је вероватно недоступан.</translation>
+        <source>Unable to save program preferences, TTorent is probably unreachable.</source>
+        <translation type="vanished">Не могу да сачувам програмска подешавања, TTorent је вероватно недоступан.</translation>
     </message>
     <message>
         <source>Unknown</source>
@@ -375,8 +375,8 @@
         <translation>Сачувај</translation>
     </message>
     <message>
-        <source>qBittorrent client is not reachable</source>
-        <translation>qBittorrent клијент није доступан</translation>
+        <source>TTorent client is not reachable</source>
+        <translation>TTorent клијент није доступан</translation>
     </message>
     <message>
         <source>Global number of upload slots limit must be greater than 0 or disabled.</source>
@@ -467,8 +467,8 @@
         <translation>Примери подешавања обрнутог проксија</translation>
     </message>
     <message>
-        <source>Could not contact qBittorrent</source>
-        <translation type="vanished">Није могуће контактирати qBittorrent</translation>
+        <source>Could not contact TTorent</source>
+        <translation type="vanished">Није могуће контактирати TTorent</translation>
     </message>
     <message>
         <source>Remember choice</source>
@@ -563,7 +563,7 @@
         <translation type="unfinished" />
     </message>
     <message>
-        <source>Unable to load program preferences, qBittorrent is probably unreachable.</source>
+        <source>Unable to load program preferences, TTorent is probably unreachable.</source>
         <translation type="unfinished" />
     </message>
     <message>
@@ -579,7 +579,7 @@
         <translation type="unfinished" />
     </message>
     <message>
-        <source>Unable to save preferences, qBittorrent is probably unreachable.</source>
+        <source>Unable to save preferences, TTorent is probably unreachable.</source>
         <translation type="unfinished" />
     </message>
     <message>
@@ -587,7 +587,7 @@
         <translation type="unfinished" />
     </message>
     <message>
-        <source>Could not contact qBittorrent.</source>
+        <source>Could not contact TTorent.</source>
         <translation type="unfinished" />
     </message>
 </context>
@@ -670,8 +670,8 @@
         <translation>Општи лимит брзине преузимања</translation>
     </message>
     <message>
-        <source>Are you sure you want to quit qBittorrent?</source>
-        <translation>Да ли сте сигурни да желите да изађете из qBittorrent-а?</translation>
+        <source>Are you sure you want to quit TTorent?</source>
+        <translation>Да ли сте сигурни да желите да изађете из TTorent-а?</translation>
     </message>
     <message>
         <source>Alternative speed limits</source>
@@ -1411,8 +1411,8 @@
         <translation>Уклони торент и његове фајлове</translation>
     </message>
     <message>
-        <source>qBittorrent Section</source>
-        <translation>qBittorrent Одељак</translation>
+        <source>TTorent Section</source>
+        <translation>TTorent Одељак</translation>
     </message>
     <message>
         <source>Send buffer watermark factor:</source>
@@ -2311,7 +2311,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation type="unfinished" />
     </message>
     <message>
-        <source>It appends the text to the window title to help distinguish qBittorrent instances</source>
+        <source>It appends the text to the window title to help distinguish TTorent instances</source>
         <translation type="unfinished" />
     </message>
     <message>
@@ -4158,8 +4158,8 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation>Име:</translation>
     </message>
     <message>
-        <source>About qBittorrent</source>
-        <translation>O qBittorrent-у</translation>
+        <source>About TTorent</source>
+        <translation>O TTorent-у</translation>
     </message>
     <message>
         <source>License</source>
@@ -4170,8 +4170,8 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation>Преводиоци</translation>
     </message>
     <message>
-        <source>qBittorrent was built with the following libraries:</source>
-        <translation>qBittorrent је направљен са следећим библиотекама:</translation>
+        <source>TTorent was built with the following libraries:</source>
+        <translation>TTorent је направљен са следећим библиотекама:</translation>
     </message>
     <message>
         <source>Nationality:</source>
@@ -4194,12 +4194,12 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation>Француска</translation>
     </message>
     <message>
-        <source>qBittorrent Mascot</source>
-        <translation>Маскота qBittorrent-а</translation>
+        <source>TTorent Mascot</source>
+        <translation>Маскота TTorent-а</translation>
     </message>
     <message>
-        <source>qBittorrent icon</source>
-        <translation>Икона qBittorrent-а</translation>
+        <source>TTorent icon</source>
+        <translation>Икона TTorent-а</translation>
     </message>
 </context>
 <context>
@@ -5005,8 +5005,8 @@ Supports the formats: S01E01, 1x1, 2017.12.31 and 31.12.2017 (Date formats also 
 <context>
     <name>Login</name>
     <message>
-        <source>qBittorrent WebUI</source>
-        <translation>qBittorrent веб кориснички интерфејс</translation>
+        <source>TTorent WebUI</source>
+        <translation>TTorent веб кориснички интерфејс</translation>
     </message>
     <message>
         <source>Password</source>
@@ -5293,8 +5293,8 @@ Supports the formats: S01E01, 1x1, 2017.12.31 and 31.12.2017 (Date formats also 
 <context>
     <name>confirmRotateAPIKeyDialog</name>
     <message>
-        <source>Generate an API key? This key can be used to interact with qBittorrent's API.</source>
-        <translation>Генериши API кључ? Овај кључ може да се користи за итеракцију са API-јем qBittorrent-а.</translation>
+        <source>Generate an API key? This key can be used to interact with TTorent's API.</source>
+        <translation>Генериши API кључ? Овај кључ може да се користи за итеракцију са API-јем TTorent-а.</translation>
     </message>
     <message>
         <source>Delete this API key? The current key will immediately stop working.</source>

@@ -260,8 +260,8 @@
 <context>
     <name>HttpServer</name>
     <message>
-        <source>Exit qBittorrent</source>
-        <translation>Thoát qBittorrent</translation>
+        <source>Exit TTorent</source>
+        <translation>Thoát TTorent</translation>
     </message>
     <message>
         <source>Global upload rate limit must be greater than 0 or disabled.</source>
@@ -304,8 +304,8 @@
         <translation>Giới hạn số lượng tối đa các phần tải lên của mỗi torrent phải lớn hơn 0 nếu không sẽ bị vô hiệu hóa.</translation>
     </message>
     <message>
-        <source>Unable to save program preferences, qBittorrent is probably unreachable.</source>
-        <translation type="vanished">Không thể lưu tùy chọn chương trình, qBittorrent có thể không truy cập được.</translation>
+        <source>Unable to save program preferences, TTorent is probably unreachable.</source>
+        <translation type="vanished">Không thể lưu tùy chọn chương trình, TTorent có thể không truy cập được.</translation>
     </message>
     <message>
         <source>Unknown</source>
@@ -375,7 +375,7 @@
         <translation>Lưu</translation>
     </message>
     <message>
-        <source>qBittorrent client is not reachable</source>
+        <source>TTorent client is not reachable</source>
         <translation>Ứng dụng khách QbittTorrent không thể truy cập được</translation>
     </message>
     <message>
@@ -467,8 +467,8 @@
         <translation>Ví dụ thiết lập proxy ngược</translation>
     </message>
     <message>
-        <source>Could not contact qBittorrent</source>
-        <translation type="vanished">Không thể liên hệ với qBittorrent</translation>
+        <source>Could not contact TTorent</source>
+        <translation type="vanished">Không thể liên hệ với TTorent</translation>
     </message>
     <message>
         <source>Remember choice</source>
@@ -563,8 +563,8 @@
         <translation>Bộ nhớ vượt trội khi kiểm tra torrent phải lớn hơn 0 và nhỏ hơn 1024.</translation>
     </message>
     <message>
-        <source>Unable to load program preferences, qBittorrent is probably unreachable.</source>
-        <translation>Không thể tải tùy chọn chương trình, qBittorrent có thể không truy cập được.</translation>
+        <source>Unable to load program preferences, TTorent is probably unreachable.</source>
+        <translation>Không thể tải tùy chọn chương trình, TTorent có thể không truy cập được.</translation>
     </message>
     <message>
         <source>Peer turnover cutoff must be between 0 and 100.</source>
@@ -579,7 +579,7 @@
         <translation type="unfinished" />
     </message>
     <message>
-        <source>Unable to save preferences, qBittorrent is probably unreachable.</source>
+        <source>Unable to save preferences, TTorent is probably unreachable.</source>
         <translation type="unfinished" />
     </message>
     <message>
@@ -587,7 +587,7 @@
         <translation type="unfinished" />
     </message>
     <message>
-        <source>Could not contact qBittorrent.</source>
+        <source>Could not contact TTorent.</source>
         <translation type="unfinished" />
     </message>
 </context>
@@ -670,8 +670,8 @@
         <translation>Giới Hạn Tốc Độ Tải Xuống Chung</translation>
     </message>
     <message>
-        <source>Are you sure you want to quit qBittorrent?</source>
-        <translation>Bạn có chắc muốn thoát qBittorrent không?</translation>
+        <source>Are you sure you want to quit TTorent?</source>
+        <translation>Bạn có chắc muốn thoát TTorent không?</translation>
     </message>
     <message>
         <source>Alternative speed limits</source>
@@ -1411,8 +1411,8 @@
         <translation>Xóa torrent và các tệp của nó</translation>
     </message>
     <message>
-        <source>qBittorrent Section</source>
-        <translation>Phần qBittorrent</translation>
+        <source>TTorent Section</source>
+        <translation>Phần TTorent</translation>
     </message>
     <message>
         <source>Send buffer watermark factor:</source>
@@ -2311,7 +2311,7 @@ Sử dụng ';' để chia nhiều mục nhập. Có thể sử dụng ký tự 
         <translation type="unfinished" />
     </message>
     <message>
-        <source>It appends the text to the window title to help distinguish qBittorrent instances</source>
+        <source>It appends the text to the window title to help distinguish TTorent instances</source>
         <translation type="unfinished" />
     </message>
     <message>
@@ -4158,8 +4158,8 @@ Sử dụng ';' để chia nhiều mục nhập. Có thể sử dụng ký tự 
         <translation>Tên:</translation>
     </message>
     <message>
-        <source>About qBittorrent</source>
-        <translation>Thông tin qBittorrent</translation>
+        <source>About TTorent</source>
+        <translation>Thông tin TTorent</translation>
     </message>
     <message>
         <source>License</source>
@@ -4170,8 +4170,8 @@ Sử dụng ';' để chia nhiều mục nhập. Có thể sử dụng ký tự 
         <translation>Người dịch</translation>
     </message>
     <message>
-        <source>qBittorrent was built with the following libraries:</source>
-        <translation>qBittorrent được xây dựng với các thư viện sau:</translation>
+        <source>TTorent was built with the following libraries:</source>
+        <translation>TTorent được xây dựng với các thư viện sau:</translation>
     </message>
     <message>
         <source>Nationality:</source>
@@ -4194,12 +4194,12 @@ Sử dụng ';' để chia nhiều mục nhập. Có thể sử dụng ký tự 
         <translation>Pháp</translation>
     </message>
     <message>
-        <source>qBittorrent Mascot</source>
-        <translation>Linh Vật qBittorrent</translation>
+        <source>TTorent Mascot</source>
+        <translation>Linh Vật TTorent</translation>
     </message>
     <message>
-        <source>qBittorrent icon</source>
-        <translation>biểu tượng qBittorrent</translation>
+        <source>TTorent icon</source>
+        <translation>biểu tượng TTorent</translation>
     </message>
 </context>
 <context>
@@ -5005,8 +5005,8 @@ Hỗ trợ định dạng: S01E01, 1x1, 2017.12.31 và 31.12.2017 (Hỗ trợ đ
 <context>
     <name>Login</name>
     <message>
-        <source>qBittorrent WebUI</source>
-        <translation>qBittorrent WebUI</translation>
+        <source>TTorent WebUI</source>
+        <translation>TTorent WebUI</translation>
     </message>
     <message>
         <source>Password</source>
@@ -5298,8 +5298,8 @@ Hỗ trợ định dạng: S01E01, 1x1, 2017.12.31 và 31.12.2017 (Hỗ trợ đ
 <context>
     <name>confirmRotateAPIKeyDialog</name>
     <message>
-        <source>Generate an API key? This key can be used to interact with qBittorrent's API.</source>
-        <translation>Tạo khóa API? Khóa này có thể được sử dụng để tương tác với API của qBittorrent.</translation>
+        <source>Generate an API key? This key can be used to interact with TTorent's API.</source>
+        <translation>Tạo khóa API? Khóa này có thể được sử dụng để tương tác với API của TTorent.</translation>
     </message>
     <message>
         <source>Delete this API key? The current key will immediately stop working.</source>

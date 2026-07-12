@@ -387,7 +387,7 @@ namespace
             + PROFILE_OPTION.usage(QCoreApplication::translate("CMD Options", "dir"))
             + wrapText(QCoreApplication::translate("CMD Options", "Store configuration files in <dir>")) + u'\n'
             + CONFIGURATION_OPTION.usage(QCoreApplication::translate("CMD Options", "name"))
-            + wrapText(QCoreApplication::translate("CMD Options", "Store configuration files in directories qBittorrent_<name>")) + u'\n'
+            + wrapText(QCoreApplication::translate("CMD Options", "Store configuration files in directories TTorent_<name>")) + u'\n'
             + RELATIVE_FASTRESUME.usage()
             + wrapText(QCoreApplication::translate("CMD Options", "Hack into libtorrent fastresume files and make file paths relative "
                                     "to the profile directory")) + u'\n'

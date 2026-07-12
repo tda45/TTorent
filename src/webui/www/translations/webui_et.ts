@@ -260,8 +260,8 @@
 <context>
     <name>HttpServer</name>
     <message>
-        <source>Exit qBittorrent</source>
-        <translation>Sule qBittorrent</translation>
+        <source>Exit TTorent</source>
+        <translation>Sule TTorent</translation>
     </message>
     <message>
         <source>Global upload rate limit must be greater than 0 or disabled.</source>
@@ -304,8 +304,8 @@
         <translation>Maksimum hulk üleslaadimiste kohti ühele torrenti limiidile peab olema enam kui 0 või väljalülitatud.</translation>
     </message>
     <message>
-        <source>Unable to save program preferences, qBittorrent is probably unreachable.</source>
-        <translation type="vanished">Ei saa salvestada programmi eelistusi, qBittorrent arvatavasti pole kättesaadav. </translation>
+        <source>Unable to save program preferences, TTorent is probably unreachable.</source>
+        <translation type="vanished">Ei saa salvestada programmi eelistusi, TTorent arvatavasti pole kättesaadav. </translation>
     </message>
     <message>
         <source>Unknown</source>
@@ -375,8 +375,8 @@
         <translation>Salvesta</translation>
     </message>
     <message>
-        <source>qBittorrent client is not reachable</source>
-        <translation>qBittorrenti klient ei ole kättesaadav</translation>
+        <source>TTorent client is not reachable</source>
+        <translation>TTorenti klient ei ole kättesaadav</translation>
     </message>
     <message>
         <source>Global number of upload slots limit must be greater than 0 or disabled.</source>
@@ -467,8 +467,8 @@
         <translation type="unfinished" />
     </message>
     <message>
-        <source>Could not contact qBittorrent</source>
-        <translation type="vanished">Ei saa ühendust qBittorrentiga</translation>
+        <source>Could not contact TTorent</source>
+        <translation type="vanished">Ei saa ühendust TTorentiga</translation>
     </message>
     <message>
         <source>Remember choice</source>
@@ -563,7 +563,7 @@
         <translation type="unfinished" />
     </message>
     <message>
-        <source>Unable to load program preferences, qBittorrent is probably unreachable.</source>
+        <source>Unable to load program preferences, TTorent is probably unreachable.</source>
         <translation type="unfinished" />
     </message>
     <message>
@@ -579,7 +579,7 @@
         <translation type="unfinished" />
     </message>
     <message>
-        <source>Unable to save preferences, qBittorrent is probably unreachable.</source>
+        <source>Unable to save preferences, TTorent is probably unreachable.</source>
         <translation type="unfinished" />
     </message>
     <message>
@@ -587,7 +587,7 @@
         <translation type="unfinished" />
     </message>
     <message>
-        <source>Could not contact qBittorrent.</source>
+        <source>Could not contact TTorent.</source>
         <translation type="unfinished" />
     </message>
 </context>
@@ -670,8 +670,8 @@
         <translation>Üleüldine Allalaadimise Kiiruse Limiit</translation>
     </message>
     <message>
-        <source>Are you sure you want to quit qBittorrent?</source>
-        <translation>Oled kindel, et soovid täielikult sulgeda qBittorrenti?</translation>
+        <source>Are you sure you want to quit TTorent?</source>
+        <translation>Oled kindel, et soovid täielikult sulgeda TTorenti?</translation>
     </message>
     <message>
         <source>Alternative speed limits</source>
@@ -1411,8 +1411,8 @@
         <translation>Eemalda torrent ja selle failid</translation>
     </message>
     <message>
-        <source>qBittorrent Section</source>
-        <translation>qBittorrenti jaotis</translation>
+        <source>TTorent Section</source>
+        <translation>TTorenti jaotis</translation>
     </message>
     <message>
         <source>Send buffer watermark factor:</source>
@@ -2299,7 +2299,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation type="unfinished" />
     </message>
     <message>
-        <source>It appends the text to the window title to help distinguish qBittorrent instances</source>
+        <source>It appends the text to the window title to help distinguish TTorent instances</source>
         <translation type="unfinished" />
     </message>
     <message>
@@ -4136,8 +4136,8 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation>Nimi:</translation>
     </message>
     <message>
-        <source>About qBittorrent</source>
-        <translation>qBittorrenti info</translation>
+        <source>About TTorent</source>
+        <translation>TTorenti info</translation>
     </message>
     <message>
         <source>License</source>
@@ -4148,8 +4148,8 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation>Tõlkijad</translation>
     </message>
     <message>
-        <source>qBittorrent was built with the following libraries:</source>
-        <translation>qBittorrent ehitati järgnevate teekidega:</translation>
+        <source>TTorent was built with the following libraries:</source>
+        <translation>TTorent ehitati järgnevate teekidega:</translation>
     </message>
     <message>
         <source>Nationality:</source>
@@ -4172,12 +4172,12 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation>Prantsuse</translation>
     </message>
     <message>
-        <source>qBittorrent Mascot</source>
-        <translation>qBittorrenti maskott</translation>
+        <source>TTorent Mascot</source>
+        <translation>TTorenti maskott</translation>
     </message>
     <message>
-        <source>qBittorrent icon</source>
-        <translation>qBittorrenti ikoon</translation>
+        <source>TTorent icon</source>
+        <translation>TTorenti ikoon</translation>
     </message>
 </context>
 <context>
@@ -4983,7 +4983,7 @@ Toetab formaate: S01E01, 1x1, 2017.12.31 ja 31.12.2017 (kuupäevade formaate toe
 <context>
     <name>Login</name>
     <message>
-        <source>qBittorrent WebUI</source>
+        <source>TTorent WebUI</source>
         <translation type="unfinished" />
     </message>
     <message>
@@ -5271,7 +5271,7 @@ Toetab formaate: S01E01, 1x1, 2017.12.31 ja 31.12.2017 (kuupäevade formaate toe
 <context>
     <name>confirmRotateAPIKeyDialog</name>
     <message>
-        <source>Generate an API key? This key can be used to interact with qBittorrent's API.</source>
+        <source>Generate an API key? This key can be used to interact with TTorent's API.</source>
         <translation type="unfinished" />
     </message>
     <message>

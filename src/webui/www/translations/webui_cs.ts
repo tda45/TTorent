@@ -260,8 +260,8 @@
 <context>
     <name>HttpServer</name>
     <message>
-        <source>Exit qBittorrent</source>
-        <translation>Ukončit qBittorrent</translation>
+        <source>Exit TTorent</source>
+        <translation>Ukončit TTorent</translation>
     </message>
     <message>
         <source>Global upload rate limit must be greater than 0 or disabled.</source>
@@ -304,8 +304,8 @@
         <translation>Limit maximálního počtu slotů na torrent musí být větší než 0 nebo vypnut.</translation>
     </message>
     <message>
-        <source>Unable to save program preferences, qBittorrent is probably unreachable.</source>
-        <translation type="vanished">Nelze uložit předvolby programu, qBittorrent klient je pravděpodobně nedosažitelný.</translation>
+        <source>Unable to save program preferences, TTorent is probably unreachable.</source>
+        <translation type="vanished">Nelze uložit předvolby programu, TTorent klient je pravděpodobně nedosažitelný.</translation>
     </message>
     <message>
         <source>Unknown</source>
@@ -375,8 +375,8 @@
         <translation>Uložit</translation>
     </message>
     <message>
-        <source>qBittorrent client is not reachable</source>
-        <translation>Klient qBittorrent není dostupný</translation>
+        <source>TTorent client is not reachable</source>
+        <translation>Klient TTorent není dostupný</translation>
     </message>
     <message>
         <source>Global number of upload slots limit must be greater than 0 or disabled.</source>
@@ -467,8 +467,8 @@
         <translation>Příklady nastavení reverzní proxy</translation>
     </message>
     <message>
-        <source>Could not contact qBittorrent</source>
-        <translation type="vanished">Nepodařilo se kontaktovat qBittorrent</translation>
+        <source>Could not contact TTorent</source>
+        <translation type="vanished">Nepodařilo se kontaktovat TTorent</translation>
     </message>
     <message>
         <source>Remember choice</source>
@@ -563,8 +563,8 @@
         <translation>Nevyřízená paměť při kontrole torrentů musí být více než 0 a méně než 1024.</translation>
     </message>
     <message>
-        <source>Unable to load program preferences, qBittorrent is probably unreachable.</source>
-        <translation>Nelze načíst předvolby programu, qBittorrent je pravděpodobně nedosažitelný.</translation>
+        <source>Unable to load program preferences, TTorent is probably unreachable.</source>
+        <translation>Nelze načíst předvolby programu, TTorent je pravděpodobně nedosažitelný.</translation>
     </message>
     <message>
         <source>Peer turnover cutoff must be between 0 and 100.</source>
@@ -579,7 +579,7 @@
         <translation type="unfinished" />
     </message>
     <message>
-        <source>Unable to save preferences, qBittorrent is probably unreachable.</source>
+        <source>Unable to save preferences, TTorent is probably unreachable.</source>
         <translation type="unfinished" />
     </message>
     <message>
@@ -587,7 +587,7 @@
         <translation type="unfinished" />
     </message>
     <message>
-        <source>Could not contact qBittorrent.</source>
+        <source>Could not contact TTorent.</source>
         <translation type="unfinished" />
     </message>
 </context>
@@ -670,8 +670,8 @@
         <translation>Celkový limit rychlosti stahování</translation>
     </message>
     <message>
-        <source>Are you sure you want to quit qBittorrent?</source>
-        <translation>Určitě chcete ukončit qBittorrent?</translation>
+        <source>Are you sure you want to quit TTorent?</source>
+        <translation>Určitě chcete ukončit TTorent?</translation>
     </message>
     <message>
         <source>Alternative speed limits</source>
@@ -1411,8 +1411,8 @@
         <translation>Odstranit torrent a jeho soubory</translation>
     </message>
     <message>
-        <source>qBittorrent Section</source>
-        <translation>Sekce qBittorrentu</translation>
+        <source>TTorent Section</source>
+        <translation>Sekce TTorentu</translation>
     </message>
     <message>
         <source>Send buffer watermark factor:</source>
@@ -2008,7 +2008,7 @@ Použijte ';' pro oddělení více položek. Můžete použít masku '*'.</trans
     </message>
     <message>
         <source>It appends the text to the window title to help distinguish qBittorent instances</source>
-        <translation type="vanished">Přidává text na konec titulku okna pro odlišení od ostatních instancí qBittorrentu</translation>
+        <translation type="vanished">Přidává text na konec titulku okna pro odlišení od ostatních instancí TTorentu</translation>
     </message>
     <message>
         <source>The WebUI username must be at least 3 characters long.</source>
@@ -2311,7 +2311,7 @@ Použijte ';' pro oddělení více položek. Můžete použít masku '*'.</trans
         <translation type="unfinished" />
     </message>
     <message>
-        <source>It appends the text to the window title to help distinguish qBittorrent instances</source>
+        <source>It appends the text to the window title to help distinguish TTorent instances</source>
         <translation type="unfinished" />
     </message>
     <message>
@@ -4158,8 +4158,8 @@ Použijte ';' pro oddělení více položek. Můžete použít masku '*'.</trans
         <translation>Jméno:</translation>
     </message>
     <message>
-        <source>About qBittorrent</source>
-        <translation>O qBittorrentu</translation>
+        <source>About TTorent</source>
+        <translation>O TTorentu</translation>
     </message>
     <message>
         <source>License</source>
@@ -4170,8 +4170,8 @@ Použijte ';' pro oddělení více položek. Můžete použít masku '*'.</trans
         <translation>Překladatelé</translation>
     </message>
     <message>
-        <source>qBittorrent was built with the following libraries:</source>
-        <translation>qBittorrent byl vytvořen s následujícími knihovnami:</translation>
+        <source>TTorent was built with the following libraries:</source>
+        <translation>TTorent byl vytvořen s následujícími knihovnami:</translation>
     </message>
     <message>
         <source>Nationality:</source>
@@ -4194,12 +4194,12 @@ Použijte ';' pro oddělení více položek. Můžete použít masku '*'.</trans
         <translation>Francie</translation>
     </message>
     <message>
-        <source>qBittorrent Mascot</source>
-        <translation>qBittorrent Mascot</translation>
+        <source>TTorent Mascot</source>
+        <translation>TTorent Mascot</translation>
     </message>
     <message>
-        <source>qBittorrent icon</source>
-        <translation>ikona qBittorrent</translation>
+        <source>TTorent icon</source>
+        <translation>ikona TTorent</translation>
     </message>
 </context>
 <context>
@@ -5005,8 +5005,8 @@ Podporuje formáty: S01E01, 1x1, 2017.12.31 a 31.12.2017 (Formáty dat také pod
 <context>
     <name>Login</name>
     <message>
-        <source>qBittorrent WebUI</source>
-        <translation>qBittorrent WebUI</translation>
+        <source>TTorent WebUI</source>
+        <translation>TTorent WebUI</translation>
     </message>
     <message>
         <source>Password</source>
@@ -5298,8 +5298,8 @@ Podporuje formáty: S01E01, 1x1, 2017.12.31 a 31.12.2017 (Formáty dat také pod
 <context>
     <name>confirmRotateAPIKeyDialog</name>
     <message>
-        <source>Generate an API key? This key can be used to interact with qBittorrent's API.</source>
-        <translation>Vytvořit API klíč? Klíč bude možné použít pro komunikaci s qBittorrent's API.</translation>
+        <source>Generate an API key? This key can be used to interact with TTorent's API.</source>
+        <translation>Vytvořit API klíč? Klíč bude možné použít pro komunikaci s TTorent's API.</translation>
     </message>
     <message>
         <source>Delete this API key? The current key will immediately stop working.</source>

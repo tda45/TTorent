@@ -260,8 +260,8 @@
 <context>
     <name>HttpServer</name>
     <message>
-        <source>Exit qBittorrent</source>
-        <translation>qBittorrent-г хаах</translation>
+        <source>Exit TTorent</source>
+        <translation>TTorent-г хаах</translation>
     </message>
     <message>
         <source>Global upload rate limit must be greater than 0 or disabled.</source>
@@ -304,8 +304,8 @@
         <translation>Нэгж торрентод харгалзах хуулалтын үүрийн дээд хязгаар нь 0-ээс илүү биш бол хязгаарлалт тавигдахгүй.</translation>
     </message>
     <message>
-        <source>Unable to save program preferences, qBittorrent is probably unreachable.</source>
-        <translation type="vanished">Тохиргоог хадгалж чадсангүй, qBittorrent-н хандалт таслалдсан байж болно.</translation>
+        <source>Unable to save program preferences, TTorent is probably unreachable.</source>
+        <translation type="vanished">Тохиргоог хадгалж чадсангүй, TTorent-н хандалт таслалдсан байж болно.</translation>
     </message>
     <message>
         <source>Unknown</source>
@@ -375,8 +375,8 @@
         <translation>Хадгалах</translation>
     </message>
     <message>
-        <source>qBittorrent client is not reachable</source>
-        <translation>qBittorrent татагчид хандах боломжгүй байна</translation>
+        <source>TTorent client is not reachable</source>
+        <translation>TTorent татагчид хандах боломжгүй байна</translation>
     </message>
     <message>
         <source>Global number of upload slots limit must be greater than 0 or disabled.</source>
@@ -559,7 +559,7 @@
         <translation type="unfinished" />
     </message>
     <message>
-        <source>Unable to load program preferences, qBittorrent is probably unreachable.</source>
+        <source>Unable to load program preferences, TTorent is probably unreachable.</source>
         <translation type="unfinished" />
     </message>
     <message>
@@ -575,7 +575,7 @@
         <translation type="unfinished" />
     </message>
     <message>
-        <source>Unable to save preferences, qBittorrent is probably unreachable.</source>
+        <source>Unable to save preferences, TTorent is probably unreachable.</source>
         <translation type="unfinished" />
     </message>
     <message>
@@ -583,7 +583,7 @@
         <translation type="unfinished" />
     </message>
     <message>
-        <source>Could not contact qBittorrent.</source>
+        <source>Could not contact TTorent.</source>
         <translation type="unfinished" />
     </message>
 </context>
@@ -666,8 +666,8 @@
         <translation>Татах хурдны ерөнхий хязгаар</translation>
     </message>
     <message>
-        <source>Are you sure you want to quit qBittorrent?</source>
-        <translation>qBittorrent-ийг хаахдаа итгэлтэй байна уу?</translation>
+        <source>Are you sure you want to quit TTorent?</source>
+        <translation>TTorent-ийг хаахдаа итгэлтэй байна уу?</translation>
     </message>
     <message>
         <source>Alternative speed limits</source>
@@ -1407,8 +1407,8 @@
         <translation type="unfinished" />
     </message>
     <message>
-        <source>qBittorrent Section</source>
-        <translation>qBittorrent Хэсэг</translation>
+        <source>TTorent Section</source>
+        <translation>TTorent Хэсэг</translation>
     </message>
     <message>
         <source>Send buffer watermark factor:</source>
@@ -2291,7 +2291,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation type="unfinished" />
     </message>
     <message>
-        <source>It appends the text to the window title to help distinguish qBittorrent instances</source>
+        <source>It appends the text to the window title to help distinguish TTorent instances</source>
         <translation type="unfinished" />
     </message>
     <message>
@@ -4128,8 +4128,8 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation>Нэр:</translation>
     </message>
     <message>
-        <source>About qBittorrent</source>
-        <translation>qBittorrent-ийн тухай</translation>
+        <source>About TTorent</source>
+        <translation>TTorent-ийн тухай</translation>
     </message>
     <message>
         <source>License</source>
@@ -4140,8 +4140,8 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation>Орчуулагчид</translation>
     </message>
     <message>
-        <source>qBittorrent was built with the following libraries:</source>
-        <translation>qBittorrent-ийг дараах сангууд дээр тулгуурлан бүтээсэн:</translation>
+        <source>TTorent was built with the following libraries:</source>
+        <translation>TTorent-ийг дараах сангууд дээр тулгуурлан бүтээсэн:</translation>
     </message>
     <message>
         <source>Nationality:</source>
@@ -4164,11 +4164,11 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation>Франц</translation>
     </message>
     <message>
-        <source>qBittorrent Mascot</source>
+        <source>TTorent Mascot</source>
         <translation type="unfinished" />
     </message>
     <message>
-        <source>qBittorrent icon</source>
+        <source>TTorent icon</source>
         <translation type="unfinished" />
     </message>
 </context>
@@ -4975,7 +4975,7 @@ Supports the formats: S01E01, 1x1, 2017.12.31 and 31.12.2017 (Date formats also 
 <context>
     <name>Login</name>
     <message>
-        <source>qBittorrent WebUI</source>
+        <source>TTorent WebUI</source>
         <translation type="unfinished" />
     </message>
     <message>
@@ -5263,7 +5263,7 @@ Supports the formats: S01E01, 1x1, 2017.12.31 and 31.12.2017 (Date formats also 
 <context>
     <name>confirmRotateAPIKeyDialog</name>
     <message>
-        <source>Generate an API key? This key can be used to interact with qBittorrent's API.</source>
+        <source>Generate an API key? This key can be used to interact with TTorent's API.</source>
         <translation type="unfinished" />
     </message>
     <message>

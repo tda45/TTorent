@@ -260,8 +260,8 @@
 <context>
     <name>HttpServer</name>
     <message>
-        <source>Exit qBittorrent</source>
-        <translation>結束 qbittorrent</translation>
+        <source>Exit TTorent</source>
+        <translation>結束 TTorent</translation>
     </message>
     <message>
         <source>Global upload rate limit must be greater than 0 or disabled.</source>
@@ -304,8 +304,8 @@
         <translation>每個 torrent 上傳通道的最大數限制必須大於 0 或停用。</translation>
     </message>
     <message>
-        <source>Unable to save program preferences, qBittorrent is probably unreachable.</source>
-        <translation type="vanished">無法儲存程式偏好設定，qBittorrent 可能無法連線。</translation>
+        <source>Unable to save program preferences, TTorent is probably unreachable.</source>
+        <translation type="vanished">無法儲存程式偏好設定，TTorent 可能無法連線。</translation>
     </message>
     <message>
         <source>Unknown</source>
@@ -375,8 +375,8 @@
         <translation>儲存</translation>
     </message>
     <message>
-        <source>qBittorrent client is not reachable</source>
-        <translation>無法連線到 qBittorrent 用戶端</translation>
+        <source>TTorent client is not reachable</source>
+        <translation>無法連線到 TTorent 用戶端</translation>
     </message>
     <message>
         <source>Global number of upload slots limit must be greater than 0 or disabled.</source>
@@ -467,8 +467,8 @@
         <translation>反向代理設定範例</translation>
     </message>
     <message>
-        <source>Could not contact qBittorrent</source>
-        <translation type="vanished">無法聯絡 qBittorrent</translation>
+        <source>Could not contact TTorent</source>
+        <translation type="vanished">無法聯絡 TTorent</translation>
     </message>
     <message>
         <source>Remember choice</source>
@@ -563,8 +563,8 @@
         <translation>檢查 torrent 時的可用記憶體必須大於 0 且小於 1024。</translation>
     </message>
     <message>
-        <source>Unable to load program preferences, qBittorrent is probably unreachable.</source>
-        <translation>無法載入程式偏好設定，可能無法連線至 qBittorrent。</translation>
+        <source>Unable to load program preferences, TTorent is probably unreachable.</source>
+        <translation>無法載入程式偏好設定，可能無法連線至 TTorent。</translation>
     </message>
     <message>
         <source>Peer turnover cutoff must be between 0 and 100.</source>
@@ -579,7 +579,7 @@
         <translation type="unfinished" />
     </message>
     <message>
-        <source>Unable to save preferences, qBittorrent is probably unreachable.</source>
+        <source>Unable to save preferences, TTorent is probably unreachable.</source>
         <translation type="unfinished" />
     </message>
     <message>
@@ -587,7 +587,7 @@
         <translation type="unfinished" />
     </message>
     <message>
-        <source>Could not contact qBittorrent.</source>
+        <source>Could not contact TTorent.</source>
         <translation type="unfinished" />
     </message>
 </context>
@@ -670,8 +670,8 @@
         <translation>全域下載速率限制</translation>
     </message>
     <message>
-        <source>Are you sure you want to quit qBittorrent?</source>
-        <translation>您確定要退出 qBittorrent 嗎？</translation>
+        <source>Are you sure you want to quit TTorent?</source>
+        <translation>您確定要退出 TTorent 嗎？</translation>
     </message>
     <message>
         <source>Alternative speed limits</source>
@@ -1411,8 +1411,8 @@
         <translation>移除 torrent 與其檔案</translation>
     </message>
     <message>
-        <source>qBittorrent Section</source>
-        <translation>qBittorrent 小節</translation>
+        <source>TTorent Section</source>
+        <translation>TTorent 小節</translation>
     </message>
     <message>
         <source>Send buffer watermark factor:</source>
@@ -2008,7 +2008,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
     </message>
     <message>
         <source>It appends the text to the window title to help distinguish qBittorent instances</source>
-        <translation type="vanished">其將文字附加到視窗標題以協助區分 qBittorrent 實體</translation>
+        <translation type="vanished">其將文字附加到視窗標題以協助區分 TTorent 實體</translation>
     </message>
     <message>
         <source>The WebUI username must be at least 3 characters long.</source>
@@ -2311,7 +2311,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation type="unfinished" />
     </message>
     <message>
-        <source>It appends the text to the window title to help distinguish qBittorrent instances</source>
+        <source>It appends the text to the window title to help distinguish TTorent instances</source>
         <translation type="unfinished" />
     </message>
     <message>
@@ -4158,8 +4158,8 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation>名稱：</translation>
     </message>
     <message>
-        <source>About qBittorrent</source>
-        <translation>關於 qBittorrent</translation>
+        <source>About TTorent</source>
+        <translation>關於 TTorent</translation>
     </message>
     <message>
         <source>License</source>
@@ -4170,8 +4170,8 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation>翻譯者</translation>
     </message>
     <message>
-        <source>qBittorrent was built with the following libraries:</source>
-        <translation>qBittorrent 是使用下列函式庫建構：</translation>
+        <source>TTorent was built with the following libraries:</source>
+        <translation>TTorent 是使用下列函式庫建構：</translation>
     </message>
     <message>
         <source>Nationality:</source>
@@ -4194,12 +4194,12 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation>法國</translation>
     </message>
     <message>
-        <source>qBittorrent Mascot</source>
-        <translation>qBittorrent 吉祥物</translation>
+        <source>TTorent Mascot</source>
+        <translation>TTorent 吉祥物</translation>
     </message>
     <message>
-        <source>qBittorrent icon</source>
-        <translation>qBittorrent 圖示</translation>
+        <source>TTorent icon</source>
+        <translation>TTorent 圖示</translation>
     </message>
 </context>
 <context>
@@ -5005,8 +5005,8 @@ Supports the formats: S01E01, 1x1, 2017.12.31 and 31.12.2017 (Date formats also 
 <context>
     <name>Login</name>
     <message>
-        <source>qBittorrent WebUI</source>
-        <translation>qBittorrent WebUI</translation>
+        <source>TTorent WebUI</source>
+        <translation>TTorent WebUI</translation>
     </message>
     <message>
         <source>Password</source>
@@ -5298,8 +5298,8 @@ Supports the formats: S01E01, 1x1, 2017.12.31 and 31.12.2017 (Date formats also 
 <context>
     <name>confirmRotateAPIKeyDialog</name>
     <message>
-        <source>Generate an API key? This key can be used to interact with qBittorrent's API.</source>
-        <translation>產生 API 金鑰？這把金鑰可用於與 qBittorrent 的 API 互動。</translation>
+        <source>Generate an API key? This key can be used to interact with TTorent's API.</source>
+        <translation>產生 API 金鑰？這把金鑰可用於與 TTorent 的 API 互動。</translation>
     </message>
     <message>
         <source>Delete this API key? The current key will immediately stop working.</source>

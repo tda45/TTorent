@@ -233,15 +233,15 @@ QIcon UIThemeManager::getSystrayIcon() const
             ? ColorMode::Dark : ColorMode::Light;
 #endif
     const QString fallback = (colorMode == ColorMode::Light)
-            ? u"qbittorrent-tray-light"_s : u"qbittorrent-tray-dark"_s;
+            ? u"TTorent-tray-light"_s : u"TTorent-tray-dark"_s;
 
     switch (trayIconStyle())
     {
     case TrayIconStyle::Normal:
-        return getIcon(u"qbittorrent-tray"_s, {}, colorMode);
+        return getIcon(u"TTorent-tray"_s, {}, colorMode);
 
     case TrayIconStyle::Monochrome:
-        return getIcon(u"qbittorrent-tray-mono"_s, fallback, colorMode);
+        return getIcon(u"TTorent-tray-mono"_s, fallback, colorMode);
     }
 
     Q_UNREACHABLE_RETURN({});

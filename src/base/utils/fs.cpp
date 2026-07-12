@@ -317,7 +317,7 @@ qint64 Utils::Fs::freeDiskSpaceOnPath(const Path &path)
 
 Path Utils::Fs::tempPath()
 {
-    static const Path path = Path(QDir::tempPath()) / Path(u".qBittorrent"_s);
+    static const Path path = Path(QDir::tempPath()) / Path(u".TTorent"_s);
     mkdir(path);
     return path;
 }

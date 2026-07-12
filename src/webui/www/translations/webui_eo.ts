@@ -260,8 +260,8 @@
 <context>
     <name>HttpServer</name>
     <message>
-        <source>Exit qBittorrent</source>
-        <translation>Ĉesigi la qBittorrent-klienton</translation>
+        <source>Exit TTorent</source>
+        <translation>Ĉesigi la TTorent-klienton</translation>
     </message>
     <message>
         <source>Global upload rate limit must be greater than 0 or disabled.</source>
@@ -371,8 +371,8 @@
         <translation>Konservi</translation>
     </message>
     <message>
-        <source>qBittorrent client is not reachable</source>
-        <translation>La qBittorrent-kliento ne atingiĝeblas.</translation>
+        <source>TTorent client is not reachable</source>
+        <translation>La TTorent-kliento ne atingiĝeblas.</translation>
     </message>
     <message>
         <source>Global number of upload slots limit must be greater than 0 or disabled.</source>
@@ -555,7 +555,7 @@
         <translation type="unfinished" />
     </message>
     <message>
-        <source>Unable to load program preferences, qBittorrent is probably unreachable.</source>
+        <source>Unable to load program preferences, TTorent is probably unreachable.</source>
         <translation type="unfinished" />
     </message>
     <message>
@@ -571,7 +571,7 @@
         <translation type="unfinished" />
     </message>
     <message>
-        <source>Unable to save preferences, qBittorrent is probably unreachable.</source>
+        <source>Unable to save preferences, TTorent is probably unreachable.</source>
         <translation type="unfinished" />
     </message>
     <message>
@@ -579,7 +579,7 @@
         <translation type="unfinished" />
     </message>
     <message>
-        <source>Could not contact qBittorrent.</source>
+        <source>Could not contact TTorent.</source>
         <translation type="unfinished" />
     </message>
 </context>
@@ -662,7 +662,7 @@
         <translation>Malloka Elŝutrapidlimo</translation>
     </message>
     <message>
-        <source>Are you sure you want to quit qBittorrent?</source>
+        <source>Are you sure you want to quit TTorent?</source>
         <translation type="unfinished" />
     </message>
     <message>
@@ -1399,7 +1399,7 @@
         <translation>Forigi torenton kaj ĝiaj dosierojn</translation>
     </message>
     <message>
-        <source>qBittorrent Section</source>
+        <source>TTorent Section</source>
         <translation type="unfinished" />
     </message>
     <message>
@@ -2283,7 +2283,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation type="unfinished" />
     </message>
     <message>
-        <source>It appends the text to the window title to help distinguish qBittorrent instances</source>
+        <source>It appends the text to the window title to help distinguish TTorent instances</source>
         <translation type="unfinished" />
     </message>
     <message>
@@ -4130,8 +4130,8 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation>Nomo:</translation>
     </message>
     <message>
-        <source>About qBittorrent</source>
-        <translation>Pri qBittorrent</translation>
+        <source>About TTorent</source>
+        <translation>Pri TTorent</translation>
     </message>
     <message>
         <source>License</source>
@@ -4142,8 +4142,8 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation>Tradukistoj</translation>
     </message>
     <message>
-        <source>qBittorrent was built with the following libraries:</source>
-        <translation>qBittorrent konstruiĝis kun la sekvaj bibliotekoj:</translation>
+        <source>TTorent was built with the following libraries:</source>
+        <translation>TTorent konstruiĝis kun la sekvaj bibliotekoj:</translation>
     </message>
     <message>
         <source>Nationality:</source>
@@ -4166,11 +4166,11 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation>Francujo</translation>
     </message>
     <message>
-        <source>qBittorrent Mascot</source>
+        <source>TTorent Mascot</source>
         <translation type="unfinished" />
     </message>
     <message>
-        <source>qBittorrent icon</source>
+        <source>TTorent icon</source>
         <translation type="unfinished" />
     </message>
 </context>
@@ -4976,7 +4976,7 @@ Supports the formats: S01E01, 1x1, 2017.12.31 and 31.12.2017 (Date formats also 
 <context>
     <name>Login</name>
     <message>
-        <source>qBittorrent WebUI</source>
+        <source>TTorent WebUI</source>
         <translation type="unfinished" />
     </message>
     <message>
@@ -5264,7 +5264,7 @@ Supports the formats: S01E01, 1x1, 2017.12.31 and 31.12.2017 (Date formats also 
 <context>
     <name>confirmRotateAPIKeyDialog</name>
     <message>
-        <source>Generate an API key? This key can be used to interact with qBittorrent's API.</source>
+        <source>Generate an API key? This key can be used to interact with TTorent's API.</source>
         <translation type="unfinished" />
     </message>
     <message>

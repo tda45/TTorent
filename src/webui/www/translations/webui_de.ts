@@ -260,8 +260,8 @@
 <context>
     <name>HttpServer</name>
     <message>
-        <source>Exit qBittorrent</source>
-        <translation>qBittorrent beenden</translation>
+        <source>Exit TTorent</source>
+        <translation>TTorent beenden</translation>
     </message>
     <message>
         <source>Global upload rate limit must be greater than 0 or disabled.</source>
@@ -304,8 +304,8 @@
         <translation>Maximale Anzahle der Upload-Slots muss größer als 0 sein oder deaktiviert werden.</translation>
     </message>
     <message>
-        <source>Unable to save program preferences, qBittorrent is probably unreachable.</source>
-        <translation type="vanished">Programmeinstellungen konnten nicht gespeichert werden – qBittorrent ist vermutlich nicht erreichbar.</translation>
+        <source>Unable to save program preferences, TTorent is probably unreachable.</source>
+        <translation type="vanished">Programmeinstellungen konnten nicht gespeichert werden – TTorent ist vermutlich nicht erreichbar.</translation>
     </message>
     <message>
         <source>Unknown</source>
@@ -375,8 +375,8 @@
         <translation>Speichern</translation>
     </message>
     <message>
-        <source>qBittorrent client is not reachable</source>
-        <translation>qBittorrent-Programm ist nicht erreichbar</translation>
+        <source>TTorent client is not reachable</source>
+        <translation>TTorent-Programm ist nicht erreichbar</translation>
     </message>
     <message>
         <source>Global number of upload slots limit must be greater than 0 or disabled.</source>
@@ -467,8 +467,8 @@
         <translation>Beispiele für die Einrichtung eines Reverse-Proxys</translation>
     </message>
     <message>
-        <source>Could not contact qBittorrent</source>
-        <translation type="vanished">Kein Kontakt mit qBittorrent möglich</translation>
+        <source>Could not contact TTorent</source>
+        <translation type="vanished">Kein Kontakt mit TTorent möglich</translation>
     </message>
     <message>
         <source>Remember choice</source>
@@ -563,8 +563,8 @@
         <translation>Der verfügbare Speicherplatz beim Überprüfen von Torrents muss größer als 0 und kleiner als 1024 sein.</translation>
     </message>
     <message>
-        <source>Unable to load program preferences, qBittorrent is probably unreachable.</source>
-        <translation>Programmeinstellungen konnten nicht geladen werden – qBittorrent ist vermutlich nicht erreichbar.</translation>
+        <source>Unable to load program preferences, TTorent is probably unreachable.</source>
+        <translation>Programmeinstellungen konnten nicht geladen werden – TTorent ist vermutlich nicht erreichbar.</translation>
     </message>
     <message>
         <source>Peer turnover cutoff must be between 0 and 100.</source>
@@ -579,7 +579,7 @@
         <translation type="unfinished" />
     </message>
     <message>
-        <source>Unable to save preferences, qBittorrent is probably unreachable.</source>
+        <source>Unable to save preferences, TTorent is probably unreachable.</source>
         <translation type="unfinished" />
     </message>
     <message>
@@ -587,7 +587,7 @@
         <translation type="unfinished" />
     </message>
     <message>
-        <source>Could not contact qBittorrent.</source>
+        <source>Could not contact TTorent.</source>
         <translation type="unfinished" />
     </message>
 </context>
@@ -670,8 +670,8 @@
         <translation>Globale Begrenzung der Downloadgeschwindigkeit</translation>
     </message>
     <message>
-        <source>Are you sure you want to quit qBittorrent?</source>
-        <translation>Sind Sie sicher, dass sie qBittorrent beenden möchten?</translation>
+        <source>Are you sure you want to quit TTorent?</source>
+        <translation>Sind Sie sicher, dass sie TTorent beenden möchten?</translation>
     </message>
     <message>
         <source>Alternative speed limits</source>
@@ -1411,8 +1411,8 @@
         <translation>Torrent und seine Dateien entfernen</translation>
     </message>
     <message>
-        <source>qBittorrent Section</source>
-        <translation>qBittorrent-Abschnitt</translation>
+        <source>TTorent Section</source>
+        <translation>TTorent-Abschnitt</translation>
     </message>
     <message>
         <source>Send buffer watermark factor:</source>
@@ -2313,7 +2313,7 @@ Platzhalter '*' kann verwendet werden.</translation>
         <translation type="unfinished" />
     </message>
     <message>
-        <source>It appends the text to the window title to help distinguish qBittorrent instances</source>
+        <source>It appends the text to the window title to help distinguish TTorent instances</source>
         <translation type="unfinished" />
     </message>
     <message>
@@ -4160,8 +4160,8 @@ Platzhalter '*' kann verwendet werden.</translation>
         <translation>Name:</translation>
     </message>
     <message>
-        <source>About qBittorrent</source>
-        <translation>Über qBittorrent</translation>
+        <source>About TTorent</source>
+        <translation>Über TTorent</translation>
     </message>
     <message>
         <source>License</source>
@@ -4172,8 +4172,8 @@ Platzhalter '*' kann verwendet werden.</translation>
         <translation>Übersetzer</translation>
     </message>
     <message>
-        <source>qBittorrent was built with the following libraries:</source>
-        <translation>qBittorrent wurde unter Verwendung folgender Bibliotheken erstellt:</translation>
+        <source>TTorent was built with the following libraries:</source>
+        <translation>TTorent wurde unter Verwendung folgender Bibliotheken erstellt:</translation>
     </message>
     <message>
         <source>Nationality:</source>
@@ -4196,12 +4196,12 @@ Platzhalter '*' kann verwendet werden.</translation>
         <translation>Frankreich</translation>
     </message>
     <message>
-        <source>qBittorrent Mascot</source>
-        <translation>qBittorrent-Maskottchen</translation>
+        <source>TTorent Mascot</source>
+        <translation>TTorent-Maskottchen</translation>
     </message>
     <message>
-        <source>qBittorrent icon</source>
-        <translation>qBittorrent-Icon</translation>
+        <source>TTorent icon</source>
+        <translation>TTorent-Icon</translation>
     </message>
 </context>
 <context>
@@ -5007,8 +5007,8 @@ Er unterstützt die Formate: S01E01, 1x1, 2017.12.31 und 31.12.2017 (Datums-Form
 <context>
     <name>Login</name>
     <message>
-        <source>qBittorrent WebUI</source>
-        <translation>qBittorrent Webinterface</translation>
+        <source>TTorent WebUI</source>
+        <translation>TTorent Webinterface</translation>
     </message>
     <message>
         <source>Password</source>
@@ -5300,7 +5300,7 @@ Er unterstützt die Formate: S01E01, 1x1, 2017.12.31 und 31.12.2017 (Datums-Form
 <context>
     <name>confirmRotateAPIKeyDialog</name>
     <message>
-        <source>Generate an API key? This key can be used to interact with qBittorrent's API.</source>
+        <source>Generate an API key? This key can be used to interact with TTorent's API.</source>
         <translation>Einen API-Schlüssel generieren? Dieser Schlüssel kann zur Kommunikation mit der qBittorent-API verwendet werden.</translation>
     </message>
     <message>

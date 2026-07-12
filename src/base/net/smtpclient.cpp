@@ -181,7 +181,7 @@ Net::SMTPClient::SMTPClient(const QString &sender, const QStringList &recipients
     const Preferences *const pref = Preferences::instance();
 
     m_message = "Date: " + getCurrentDateTime().toLatin1() + "\r\n"
-            + encodeMimeHeader(u"From"_s, u"qBittorrent <%1>"_s.arg(m_sender))
+            + encodeMimeHeader(u"From"_s, u"TTorent <%1>"_s.arg(m_sender))
             + encodeMimeHeader(u"Subject"_s, subject)
             + encodeMimeHeader(u"To"_s, m_recipients.join(u", "_s))
             + "MIME-Version: 1.0\r\n"

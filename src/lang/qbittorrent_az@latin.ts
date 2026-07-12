@@ -16,8 +16,8 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../gui/aboutdialog.ui" line="15"/>
-        <source>About qBittorrent</source>
-        <translation>qBittorrent haqqında</translation>
+        <source>About TTorent</source>
+        <translation>TTorent haqqında</translation>
     </message>
     <message>
         <location filename="../gui/aboutdialog.ui" line="55"/>
@@ -89,8 +89,8 @@
     </message>
     <message>
         <location filename="../gui/aboutdialog.ui" line="336"/>
-        <source>qBittorrent was built with the following libraries:</source>
-        <translation>qBittorrent aşağıdakı kitabxanalar ilə hazılandı:</translation>
+        <source>TTorent was built with the following libraries:</source>
+        <translation>TTorent aşağıdakı kitabxanalar ilə hazılandı:</translation>
     </message>
     <message>
         <location filename="../gui/aboutdialog.ui" line="356"/>
@@ -104,8 +104,8 @@
     </message>
     <message>
         <location filename="../gui/aboutdialog.cpp" line="70"/>
-        <source>Copyright %1 2006-2025 The qBittorrent project</source>
-        <translation>Müəllif Hüquqları: %1 2006-2025 qBittorrent layihəsi</translation>
+        <source>Copyright %1 2006-2025 The TTorent project</source>
+        <translation>Müəllif Hüquqları: %1 2006-2025 TTorent layihəsi</translation>
     </message>
     <message>
         <location filename="../gui/aboutdialog.cpp" line="71"/>
@@ -733,8 +733,8 @@
     </message>
     <message>
         <location filename="../gui/advancedsettings.cpp" line="476"/>
-        <source>qBittorrent Section</source>
-        <translation>qBittorrent Bölməsi</translation>
+        <source>TTorent Section</source>
+        <translation>TTorent Bölməsi</translation>
     </message>
     <message>
         <location filename="../gui/advancedsettings.cpp" line="473"/>
@@ -1454,8 +1454,8 @@
     <message>
         <location filename="../app/application.cpp" line="703"/>
         <location filename="../app/application.cpp" line="721"/>
-        <source>Thank you for using qBittorrent.</source>
-        <translation>qBittorrent istifadə etdiyiniz üçün sizə təşəkkür edirik.</translation>
+        <source>Thank you for using TTorent.</source>
+        <translation>TTorent istifadə etdiyiniz üçün sizə təşəkkür edirik.</translation>
     </message>
     <message>
         <location filename="../app/application.cpp" line="752"/>
@@ -1556,9 +1556,9 @@
     </message>
     <message>
         <location filename="../app/application.cpp" line="315"/>
-        <source>qBittorrent %1 started. Process ID: %2</source>
-        <comment>qBittorrent v3.2.0alpha started</comment>
-        <translation>qBittorrent %1 başladıldı. Proses İD-si: %2</translation>
+        <source>TTorent %1 started. Process ID: %2</source>
+        <comment>TTorent v3.2.0alpha started</comment>
+        <translation>TTorent %1 başladıldı. Proses İD-si: %2</translation>
     </message>
     <message>
         <location filename="../app/application.cpp" line="720"/>
@@ -1588,8 +1588,8 @@
     </message>
     <message>
         <location filename="../app/application.cpp" line="985"/>
-        <source>To control qBittorrent, access the WebUI at: %1</source>
-        <translation>qBittorrent&apos;i idarə etmək üçün, bu ünvandan Veb istifadəçi interfeysinə daxil olun: %1</translation>
+        <source>To control TTorent, access the WebUI at: %1</source>
+        <translation>TTorent&apos;i idarə etmək üçün, bu ünvandan Veb istifadəçi interfeysinə daxil olun: %1</translation>
     </message>
     <message>
         <location filename="../app/application.cpp" line="1028"/>
@@ -1628,13 +1628,13 @@
     </message>
     <message>
         <location filename="../app/application.cpp" line="1354"/>
-        <source>qBittorrent termination initiated</source>
-        <translation>qBittorrent-in bağlanması başladıldı</translation>
+        <source>TTorent termination initiated</source>
+        <translation>TTorent-in bağlanması başladıldı</translation>
     </message>
     <message>
         <location filename="../app/application.cpp" line="1360"/>
-        <source>qBittorrent is shutting down...</source>
-        <translation>qBittorrent söndürülür...</translation>
+        <source>TTorent is shutting down...</source>
+        <translation>TTorent söndürülür...</translation>
     </message>
     <message>
         <location filename="../app/application.cpp" line="1374"/>
@@ -1643,8 +1643,8 @@
     </message>
     <message>
         <location filename="../app/application.cpp" line="1408"/>
-        <source>qBittorrent is now ready to exit</source>
-        <translation>qBittorrent indi çıxışa hazırdır</translation>
+        <source>TTorent is now ready to exit</source>
+        <translation>TTorent indi çıxışa hazırdır</translation>
     </message>
 </context>
 <context>
@@ -2951,8 +2951,8 @@ Bu formatlar dəstəklənir: S01E01, 1x1, 2017.12.31 və 31.12.2017 (Həmçinin 
     </message>
     <message>
         <location filename="../app/cmdoptions.cpp" line="526"/>
-        <source>Store configuration files in directories qBittorrent_&lt;name&gt;</source>
-        <translation>Tənzimləmə fayllarını qBittorrent_&lt;name&gt; qovluqlarında saxlamaq</translation>
+        <source>Store configuration files in directories TTorent_&lt;name&gt;</source>
+        <translation>Tənzimləmə fayllarını TTorent_&lt;name&gt; qovluqlarında saxlamaq</translation>
     </message>
     <message>
         <location filename="../app/cmdoptions.cpp" line="528"/>
@@ -3623,7 +3623,7 @@ Bu formatlar dəstəklənir: S01E01, 1x1, 2017.12.31 və 31.12.2017 (Həmçinin 
     <message>
         <location filename="../gui/powermanagement/inhibitormacos.cpp" line="36"/>
         <source>PMMacOS</source>
-        <comment>qBittorrent is active</comment>
+        <comment>TTorent is active</comment>
         <translation>PMMacOS</translation>
     </message>
 </context>
@@ -3636,8 +3636,8 @@ Bu formatlar dəstəklənir: S01E01, 1x1, 2017.12.31 və 31.12.2017 (Həmçinin 
     </message>
     <message>
         <location filename="../app/legalnotice.cpp" line="51"/>
-        <source>qBittorrent is a file sharing program. When you run a torrent, its data will be made available to others by means of upload. Any content you share is your sole responsibility.</source>
-        <translation>qBittorrent fayl paylaşımı proqramıdır. Torrenti başlatdığınız zaman, onun veriləri başqalarına paylaşım yolu ilə təqdim olunacaqdır. Paylaşdığınız bütün istənilən tərkiblər üçün, siz tam məsuliyyət daşıyırsınız.</translation>
+        <source>TTorent is a file sharing program. When you run a torrent, its data will be made available to others by means of upload. Any content you share is your sole responsibility.</source>
+        <translation>TTorent fayl paylaşımı proqramıdır. Torrenti başlatdığınız zaman, onun veriləri başqalarına paylaşım yolu ilə təqdim olunacaqdır. Paylaşdığınız bütün istənilən tərkiblər üçün, siz tam məsuliyyət daşıyırsınız.</translation>
     </message>
     <message>
         <location filename="../app/legalnotice.cpp" line="52"/>
@@ -3701,22 +3701,22 @@ Bu formatlar dəstəklənir: S01E01, 1x1, 2017.12.31 və 31.12.2017 (Həmçinin 
     <message>
         <location filename="../app/main.cpp" line="121"/>
         <location filename="../app/main.cpp" line="125"/>
-        <source>qBittorrent has encountered an unrecoverable error.</source>
-        <translation>qBittorrent sazlana bilməyən bir xəta ilə qarşılaşdı.</translation>
+        <source>TTorent has encountered an unrecoverable error.</source>
+        <translation>TTorent sazlana bilməyən bir xəta ilə qarşılaşdı.</translation>
     </message>
     <message>
         <location filename="../app/main.cpp" line="234"/>
-        <source>You cannot use %1: qBittorrent is already running.</source>
-        <translation>Siz %1 istifadə edə bilməzsiniz: qBittorrent artıq işləkdir.</translation>
+        <source>You cannot use %1: TTorent is already running.</source>
+        <translation>Siz %1 istifadə edə bilməzsiniz: TTorent artıq işləkdir.</translation>
     </message>
     <message>
         <location filename="../app/main.cpp" line="241"/>
-        <source>Another qBittorrent instance is already running.</source>
-        <translation>Başqa bir qBittorrent nümunəsi artıq işləkdir.</translation>
+        <source>Another TTorent instance is already running.</source>
+        <translation>Başqa bir TTorent nümunəsi artıq işləkdir.</translation>
     </message>
     <message>
         <location filename="../app/main.cpp" line="297"/>
-        <source>Found unexpected qBittorrent instance. Exiting this instance. Current process ID: %1.</source>
+        <source>Found unexpected TTorent instance. Exiting this instance. Current process ID: %1.</source>
         <translation>Gözlənilməz qBittorent nüsxəsi tapıldı. Bu nüsxədən çıxılır. Cari proses İD-si: %1.</translation>
     </message>
     <message>
@@ -3820,8 +3820,8 @@ Bu formatlar dəstəklənir: S01E01, 1x1, 2017.12.31 və 31.12.2017 (Həmçinin 
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="352"/>
-        <source>L&amp;ock qBittorrent</source>
-        <translation>qBittorrent&apos;i kilidləmək</translation>
+        <source>L&amp;ock TTorent</source>
+        <translation>TTorent&apos;i kilidləmək</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="363"/>
@@ -3950,8 +3950,8 @@ Bu formatlar dəstəklənir: S01E01, 1x1, 2017.12.31 və 31.12.2017 (Həmçinin 
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="374"/>
-        <source>&amp;Exit qBittorrent</source>
-        <translation>qBittorrent&apos;dən çıxma&amp;q</translation>
+        <source>&amp;Exit TTorent</source>
+        <translation>TTorent&apos;dən çıxma&amp;q</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="382"/>
@@ -4032,8 +4032,8 @@ Bu formatlar dəstəklənir: S01E01, 1x1, 2017.12.31 və 31.12.2017 (Həmçinin 
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="366"/>
-        <source>If you like qBittorrent, please donate!</source>
-        <translation>qBittorrent&apos;i bəyənirsinizsə ianə edin!</translation>
+        <source>If you like TTorent, please donate!</source>
+        <translation>TTorent&apos;i bəyənirsinizsə ianə edin!</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.cpp" line="1740"/>
@@ -4069,7 +4069,7 @@ Bu formatlar dəstəklənir: S01E01, 1x1, 2017.12.31 və 31.12.2017 (Həmçinin 
     <message>
         <location filename="../gui/mainwindow.cpp" line="462"/>
         <location filename="../gui/mainwindow.cpp" line="1278"/>
-        <source>qBittorrent is minimized to tray</source>
+        <source>TTorent is minimized to tray</source>
         <translation>qBittorent treyə yığıldı</translation>
     </message>
     <message>
@@ -4154,13 +4154,13 @@ Bu formatlar dəstəklənir: S01E01, 1x1, 2017.12.31 və 31.12.2017 (Həmçinin 
     </message>
     <message>
         <location filename="../gui/mainwindow.cpp" line="1049"/>
-        <source>qBittorrent was just updated and needs to be restarted for the changes to be effective.</source>
-        <translation>qBittorrent indicə yeniləndi və dəyişikliklərin qüvvəyə minməsi üçün yenidən başladılmalıdır.</translation>
+        <source>TTorent was just updated and needs to be restarted for the changes to be effective.</source>
+        <translation>TTorent indicə yeniləndi və dəyişikliklərin qüvvəyə minməsi üçün yenidən başladılmalıdır.</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.cpp" line="1185"/>
-        <source>qBittorrent is closed to tray</source>
-        <translation>qBittorrent treyə yığıldı</translation>
+        <source>TTorent is closed to tray</source>
+        <translation>TTorent treyə yığıldı</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.cpp" line="1205"/>
@@ -4169,7 +4169,7 @@ Bu formatlar dəstəklənir: S01E01, 1x1, 2017.12.31 və 31.12.2017 (Həmçinin 
     </message>
     <message>
         <location filename="../gui/mainwindow.cpp" line="1205"/>
-        <source>Are you sure you want to quit qBittorrent?</source>
+        <source>Are you sure you want to quit TTorent?</source>
         <translation>qBittorent&apos;dən çıxmaq istədiyinizə əminsiniz?</translation>
     </message>
     <message>
@@ -4249,8 +4249,8 @@ Onu əllə quraşdırın.</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.cpp" line="1675"/>
-        <source>qBittorrent Update Available</source>
-        <translation>qBittorrent yenilənməsi mövcuddur</translation>
+        <source>TTorent Update Available</source>
+        <translation>TTorent yenilənməsi mövcuddur</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.cpp" line="1603"/>
@@ -4403,8 +4403,8 @@ Minimum tələb olunan versiya: %2.</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.cpp" line="1203"/>
-        <source>Exiting qBittorrent</source>
-        <translation>qBittorrentü&apos;dən çıxılır</translation>
+        <source>Exiting TTorent</source>
+        <translation>TTorentü&apos;dən çıxılır</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.cpp" line="1311"/>
@@ -4441,13 +4441,13 @@ Minimum tələb olunan versiya: %2.</translation>
     </message>
     <message>
         <location filename="../base/net/dnsupdater.cpp" line="218"/>
-        <source>Dynamic DNS error: qBittorrent was blacklisted by the service, please submit a bug report at https://bugs.qbittorrent.org.</source>
-        <translation>Dinamik DNS xətası: qBittorrent server tərəfindən qara siyahıya salındı, xəta hesabatını https://bugs.qbittorrent.org ünvanında yerləşdirin.</translation>
+        <source>Dynamic DNS error: TTorent was blacklisted by the service, please submit a bug report at https://bugs.TTorent.org.</source>
+        <translation>Dinamik DNS xətası: TTorent server tərəfindən qara siyahıya salındı, xəta hesabatını https://bugs.TTorent.org ünvanında yerləşdirin.</translation>
     </message>
     <message>
         <location filename="../base/net/dnsupdater.cpp" line="226"/>
-        <source>Dynamic DNS error: %1 was returned by the service, please submit a bug report at https://bugs.qbittorrent.org.</source>
-        <translation>Dinamik DNS xətası: %1 server tərəfindən qaytarıldı, xəta hesabatını https://bugs.qbittorrent.org ünvanında yerləşdirin.</translation>
+        <source>Dynamic DNS error: %1 was returned by the service, please submit a bug report at https://bugs.TTorent.org.</source>
+        <translation>Dinamik DNS xətası: %1 server tərəfindən qaytarıldı, xəta hesabatını https://bugs.TTorent.org ünvanında yerləşdirin.</translation>
     </message>
     <message>
         <location filename="../base/net/dnsupdater.cpp" line="234"/>
@@ -6073,8 +6073,8 @@ Minimum tələb olunan versiya: %2.</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="500"/>
-        <source>Start qBittorrent on Windows start up</source>
-        <translation>ƏS işə düşdükdə qBittorrent&apos;i başlatmaq</translation>
+        <source>Start TTorent on Windows start up</source>
+        <translation>ƏS işə düşdükdə TTorent&apos;i başlatmaq</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="507"/>
@@ -6093,7 +6093,7 @@ Minimum tələb olunan versiya: %2.</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="702"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;To set qBittorrent as default program for .torrent files and/or Magnet links&lt;br/&gt;you can use &lt;span style=&quot; font-weight:600;&quot;&gt;Default Programs&lt;/span&gt; dialog from &lt;span style=&quot; font-weight:600;&quot;&gt;Control Panel&lt;/span&gt;.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;To set TTorent as default program for .torrent files and/or Magnet links&lt;br/&gt;you can use &lt;span style=&quot; font-weight:600;&quot;&gt;Default Programs&lt;/span&gt; dialog from &lt;span style=&quot; font-weight:600;&quot;&gt;Control Panel&lt;/span&gt;.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;body&gt;&lt;p&gt;qBitttorenti, .torrent faylları və/vəya Magnet keçidləri&lt;br/&gt;üçün standart proqram kimi, &lt;span style=&quot; font-weight:600;&quot;&gt;Standart proqramlar&lt;/span&gt; dialoquna &lt;span style=&quot; font-weight:600;&quot;&gt;İdarəetmə paneli bölməsindən&lt;/span&gt; daxil olaraq təyin edə bilərsiniz.&lt;/p&gt;&lt;/body&gt;&lt;head/&gt;&lt;/html&gt;</translation>
     </message>
     <message>
@@ -6280,8 +6280,8 @@ Disable encryption: Only connect to peers without protocol encryption</source>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2816"/>
-        <source>(&lt;a href=&quot;https://github.com/qbittorrent/qBittorrent/wiki/Anonymous-Mode&quot;&gt;More information&lt;/a&gt;)</source>
-        <translation>(&lt;a href=&quot;https://github.com/qbittorrent/qBittorrent/wiki/Anonymous-Mode&quot;&gt;Daha ətraflı&lt;/a&gt;)</translation>
+        <source>(&lt;a href=&quot;https://github.com/TTorent/TTorent/wiki/Anonymous-Mode&quot;&gt;More information&lt;/a&gt;)</source>
+        <translation>(&lt;a href=&quot;https://github.com/TTorent/TTorent/wiki/Anonymous-Mode&quot;&gt;Daha ətraflı&lt;/a&gt;)</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2849"/>
@@ -6577,8 +6577,8 @@ serveri tərəfindən istifadə olunan domen adını göstərməlisiniz.
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="583"/>
-        <source>Minimize qBittorrent to notification area</source>
-        <translation>qBittorrent-i bildiriş çubuğuna endirmək</translation>
+        <source>Minimize TTorent to notification area</source>
+        <translation>TTorent-i bildiriş çubuğuna endirmək</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="77"/>
@@ -6650,8 +6650,8 @@ serveri tərəfindən istifadə olunan domen adını göstərməlisiniz.
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="484"/>
-        <source>Drag content from qBittorrent</source>
-        <translation>Tərkibləri qBittorrent-dən götürün</translation>
+        <source>Drag content from TTorent</source>
+        <translation>Tərkibləri TTorent-dən götürün</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="605"/>
@@ -6671,13 +6671,13 @@ serveri tərəfindən istifadə olunan domen adını göstərməlisiniz.
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="670"/>
-        <source>Use qBittorrent for .torrent files</source>
-        <translation>Torrent faylları üçün qBittorrent-i istifadə etmək</translation>
+        <source>Use TTorent for .torrent files</source>
+        <translation>Torrent faylları üçün TTorent-i istifadə etmək</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="677"/>
-        <source>Use qBittorrent for magnet links</source>
-        <translation>Maqnit keçidlər üçün qBittorrent-i istifadə etmək</translation>
+        <source>Use TTorent for magnet links</source>
+        <translation>Maqnit keçidlər üçün TTorent-i istifadə etmək</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="715"/>
@@ -6813,8 +6813,8 @@ serveri tərəfindən istifadə olunan domen adını göstərməlisiniz.
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="571"/>
-        <source>Show &amp;qBittorrent in notification area</source>
-        <translation>&amp;qBittorrenti bu bildiriş sahəsində göstərmək:</translation>
+        <source>Show &amp;TTorent in notification area</source>
+        <translation>&amp;TTorenti bu bildiriş sahəsində göstərmək:</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="960"/>
@@ -6879,9 +6879,9 @@ serveri tərəfindən istifadə olunan domen adını göstərməlisiniz.
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="596"/>
-        <source>Close qBittorrent to notification area</source>
+        <source>Close TTorent to notification area</source>
         <extracomment>The systray icon will still be visible when closing the main window</extracomment>
-        <translation>qBittorrent-i bildiriş çubuğuna endirmək</translation>
+        <translation>TTorent-i bildiriş çubuğuna endirmək</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="618"/>
@@ -7001,8 +7001,8 @@ Manual: Various torrent properties (e.g. save path) must be assigned manually</s
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="526"/>
-        <source>qBittorrent window state on start up</source>
-        <translation>Sistemin açılışında qBittorrent pəncərəsinin vəziyyəti</translation>
+        <source>TTorent window state on start up</source>
+        <translation>Sistemin açılışında TTorent pəncərəsinin vəziyyəti</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1050"/>
@@ -7375,7 +7375,7 @@ readme[0-9].txt: &quot;readme1ştxt&quot;, &quot;readme2ştxt&quot;-ni seçir, l
     <message>
         <location filename="../gui/optionsdialog.ui" line="2730"/>
         <source>Exchange peers with compatible Bittorrent clients (µTorrent, Vuze, ...)</source>
-        <translation>İştirakçıları uyğun qBittorrent müştəriləri ilə əvəzləmək (µTorrent, Vuze, ...)</translation>
+        <translation>İştirakçıları uyğun TTorent müştəriləri ilə əvəzləmək (µTorrent, Vuze, ...)</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2733"/>
@@ -7499,8 +7499,8 @@ readme[0-9].txt: &quot;readme1ştxt&quot;, &quot;readme2ştxt&quot;-ni seçir, l
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="3997"/>
-        <source>&lt;a href=&quot;https://github.com/qbittorrent/qBittorrent/wiki/List-of-known-alternate-WebUIs&quot;&gt;List of alternative WebUI&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;https://github.com/qbittorrent/qBittorrent/wiki/List-of-known-alternate-WebUIs&quot;&gt;Alternativ Veb İİ siyahısı&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;https://github.com/TTorent/TTorent/wiki/List-of-known-alternate-WebUIs&quot;&gt;List of alternative WebUI&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;https://github.com/TTorent/TTorent/wiki/List-of-known-alternate-WebUIs&quot;&gt;Alternativ Veb İİ siyahısı&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="4013"/>
@@ -7549,8 +7549,8 @@ readme[0-9].txt: &quot;readme1ştxt&quot;, &quot;readme2ştxt&quot;-ni seçir, l
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="4129"/>
-        <source>&lt;a href=https://github.com/qbittorrent/qBittorrent/wiki#reverse-proxy-setup-for-webui-access&gt;Reverse proxy setup examples&lt;/a&gt;</source>
-        <translation>&lt;a href=https://github.com/qbittorrent/qBittorrent/wiki#reverse-proxy-setup-for-webui-access&gt;Əks proksi quraşdırma nümunələri&lt;/a&gt;</translation>
+        <source>&lt;a href=https://github.com/TTorent/TTorent/wiki#reverse-proxy-setup-for-webui-access&gt;Reverse proxy setup examples&lt;/a&gt;</source>
+        <translation>&lt;a href=https://github.com/TTorent/TTorent/wiki#reverse-proxy-setup-for-webui-access&gt;Əks proksi quraşdırma nümunələri&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="4157"/>
@@ -7579,8 +7579,8 @@ readme[0-9].txt: &quot;readme1ştxt&quot;, &quot;readme2ştxt&quot;-ni seçir, l
     </message>
     <message>
         <location filename="../gui/optionsdialog.cpp" line="262"/>
-        <source>Select qBittorrent UI Theme file</source>
-        <translation>qBittorrent İstifadəçi İnterfeysi mövzusu faylını seçmək</translation>
+        <source>Select TTorent UI Theme file</source>
+        <translation>TTorent İstifadəçi İnterfeysi mövzusu faylını seçmək</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.cpp" line="1334"/>
@@ -7730,8 +7730,8 @@ readme[0-9].txt: &quot;readme1ştxt&quot;, &quot;readme2ştxt&quot;-ni seçir, l
     </message>
     <message>
         <location filename="../gui/optionsdialog.cpp" line="1488"/>
-        <source>Generate an API key? This key can be used to interact with qBittorrent&apos;s API.</source>
-        <translation>Bir API açarı yaradaq? Bu açar qBittorrent ilə işləmək üçün istifadə oluna bilər.</translation>
+        <source>Generate an API key? This key can be used to interact with TTorent&apos;s API.</source>
+        <translation>Bir API açarı yaradaq? Bu açar TTorent ilə işləmək üçün istifadə oluna bilər.</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.cpp" line="1489"/>
@@ -7811,13 +7811,13 @@ readme[0-9].txt: &quot;readme1ştxt&quot;, &quot;readme2ştxt&quot;-ni seçir, l
     </message>
     <message>
         <location filename="../gui/optionsdialog.cpp" line="608"/>
-        <source>When these options are enabled, qBittorrent will &lt;strong&gt;delete&lt;/strong&gt; .torrent files after they were successfully (the first option) or not (the second option) added to its download queue. This will be applied &lt;strong&gt;not only&lt;/strong&gt; to the files opened via &amp;ldquo;Add torrent&amp;rdquo; menu action but to those opened via &lt;strong&gt;file type association&lt;/strong&gt; as well</source>
-        <translation>Bu seçim aktiv olduqda qBittorrent, yükləmə növbəsinə uğurla əlavə olunduqdan (ilk seçim) və ya olunmadıqdan (ikinci seçim) sonra, .torrent fayllarını &lt;strong&gt;siləcək&lt;/strong&gt;. Bu sadəcə &amp;ldquo;Torrent əlavə etmək&amp;rdquo; menyusu vasitəsi ilə açılmış fayllara &lt;strong&gt;deyil&lt;/strong&gt;, həmçinin, &lt;strong&gt;fayl növü əlaqələri&lt;/strong&gt; vasitəsi ilə açılanlara da tətbiq ediləcəkdir</translation>
+        <source>When these options are enabled, TTorent will &lt;strong&gt;delete&lt;/strong&gt; .torrent files after they were successfully (the first option) or not (the second option) added to its download queue. This will be applied &lt;strong&gt;not only&lt;/strong&gt; to the files opened via &amp;ldquo;Add torrent&amp;rdquo; menu action but to those opened via &lt;strong&gt;file type association&lt;/strong&gt; as well</source>
+        <translation>Bu seçim aktiv olduqda TTorent, yükləmə növbəsinə uğurla əlavə olunduqdan (ilk seçim) və ya olunmadıqdan (ikinci seçim) sonra, .torrent fayllarını &lt;strong&gt;siləcək&lt;/strong&gt;. Bu sadəcə &amp;ldquo;Torrent əlavə etmək&amp;rdquo; menyusu vasitəsi ilə açılmış fayllara &lt;strong&gt;deyil&lt;/strong&gt;, həmçinin, &lt;strong&gt;fayl növü əlaqələri&lt;/strong&gt; vasitəsi ilə açılanlara da tətbiq ediləcəkdir</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.cpp" line="263"/>
-        <source>qBittorrent UI Theme file (*.qbtheme config.json)</source>
-        <translation>qBittorrent İİ mövzusu faylı (*.qbtheme config.json)</translation>
+        <source>TTorent UI Theme file (*.qbtheme config.json)</source>
+        <translation>TTorent İİ mövzusu faylı (*.qbtheme config.json)</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.cpp" line="688"/>
@@ -8275,8 +8275,8 @@ readme[0-9].txt: &quot;readme1ştxt&quot;, &quot;readme2ştxt&quot;-ni seçir, l
     </message>
     <message>
         <location filename="../gui/search/pluginselectdialog.ui" line="95"/>
-        <source>You can get new search engine plugins here: &lt;a href=&quot;https://plugins.qbittorrent.org&quot;&gt;https://plugins.qbittorrent.org&lt;/a&gt;</source>
-        <translation>Yeni axtarış mühərriki qoşmalarını buradan əldə edə bilərsiniz: &lt;a href=&quot;https://plugins.qbittorrent.org&quot;&gt;https://plugins.qbittorrent.org&lt;/a&gt;</translation>
+        <source>You can get new search engine plugins here: &lt;a href=&quot;https://plugins.TTorent.org&quot;&gt;https://plugins.TTorent.org&lt;/a&gt;</source>
+        <translation>Yeni axtarış mühərriki qoşmalarını buradan əldə edə bilərsiniz: &lt;a href=&quot;https://plugins.TTorent.org&quot;&gt;https://plugins.TTorent.org&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../gui/search/pluginselectdialog.ui" line="107"/>
@@ -8320,9 +8320,9 @@ readme[0-9].txt: &quot;readme1ştxt&quot;, &quot;readme2ştxt&quot;-ni seçir, l
     </message>
     <message>
         <location filename="../gui/search/pluginselectdialog.cpp" line="216"/>
-        <source>Some plugins could not be uninstalled because they are included in qBittorrent. Only the ones you added yourself can be uninstalled.
+        <source>Some plugins could not be uninstalled because they are included in TTorent. Only the ones you added yourself can be uninstalled.
 Those plugins were disabled.</source>
-        <translation>Bəzi qoşmalar silinə bilməz, belə ki, onlar qBittorrent dailinə quraşdırılıb. Yalnız əlavə etdiklərinizdən hər hansı birini silə bilərsiniz.
+        <translation>Bəzi qoşmalar silinə bilməz, belə ki, onlar TTorent dailinə quraşdırılıb. Yalnız əlavə etdiklərinizdən hər hansı birini silə bilərsiniz.
 Bu qoşmalar söndürülüb.</translation>
     </message>
     <message>
@@ -8377,8 +8377,8 @@ Bu qoşmalar söndürülüb.</translation>
     </message>
     <message>
         <location filename="../gui/search/pluginselectdialog.cpp" line="387"/>
-        <source>qBittorrent search plugin</source>
-        <translation>qBittorrent axtarış qoşması</translation>
+        <source>TTorent search plugin</source>
+        <translation>TTorent axtarış qoşması</translation>
     </message>
     <message>
         <location filename="../gui/search/pluginselectdialog.cpp" line="448"/>
@@ -9910,8 +9910,8 @@ Onlardan bəzilərini quraşdırmaq üçün pəncərənin aşağı-sağındakı 
     </message>
     <message>
         <location filename="../gui/shutdownconfirmdialog.cpp" line="118"/>
-        <source>qBittorrent will now exit.</source>
-        <translation>İndi qBittorrent-dən çıxılacaq.</translation>
+        <source>TTorent will now exit.</source>
+        <translation>İndi TTorent-dən çıxılacaq.</translation>
     </message>
     <message>
         <location filename="../gui/shutdownconfirmdialog.cpp" line="119"/>
@@ -10315,8 +10315,8 @@ Onlardan bəzilərini quraşdırmaq üçün pəncərənin aşağı-sağındakı 
     </message>
     <message>
         <location filename="../gui/statusbar.cpp" line="182"/>
-        <source>qBittorrent needs to be restarted!</source>
-        <translation>qBittorrenti yenidən başlatmaq lazımdır!</translation>
+        <source>TTorent needs to be restarted!</source>
+        <translation>TTorenti yenidən başlatmaq lazımdır!</translation>
     </message>
     <message>
         <location filename="../gui/statusbar.cpp" line="202"/>
@@ -10327,8 +10327,8 @@ Onlardan bəzilərini quraşdırmaq üçün pəncərənin aşağı-sağındakı 
     </message>
     <message>
         <location filename="../gui/statusbar.cpp" line="202"/>
-        <source>Offline. This usually means that qBittorrent failed to listen on the selected port for incoming connections.</source>
-        <translation>Şəbəkədən kənar: Bu, adətən o deməkdir ki, qBittorrent-in daxil olan bağlantılar üçün seçilmiş portları dinləməsi baş tutmadı</translation>
+        <source>Offline. This usually means that TTorent failed to listen on the selected port for incoming connections.</source>
+        <translation>Şəbəkədən kənar: Bu, adətən o deməkdir ki, TTorent-in daxil olan bağlantılar üçün seçilmiş portları dinləməsi baş tutmadı</translation>
     </message>
     <message>
         <location filename="../gui/statusbar.cpp" line="211"/>
@@ -13173,13 +13173,13 @@ Başqa ad verin və yenidən cəhd edin.</translation>
     </message>
     <message>
         <location filename="../base/utils/os.cpp" line="92"/>
-        <source>qBittorrent will shutdown the computer now because all downloads are complete.</source>
-        <translation>qBittorrent, komputeri indi söndürəcəkdir, çünki bütün torrentlərin endirilməsi başa çatdı.</translation>
+        <source>TTorent will shutdown the computer now because all downloads are complete.</source>
+        <translation>TTorent, komputeri indi söndürəcəkdir, çünki bütün torrentlərin endirilməsi başa çatdı.</translation>
     </message>
     <message>
         <location filename="../base/utils/os.cpp" line="98"/>
-        <source>qBittorrent will reboot the computer now because all downloads are complete.</source>
-        <translation>Endirmələr tamamlandığı üçün qBittorrent indi kompüteri yenidən başladacaq.</translation>
+        <source>TTorent will reboot the computer now because all downloads are complete.</source>
+        <translation>Endirmələr tamamlandığı üçün TTorent indi kompüteri yenidən başladacaq.</translation>
     </message>
     <message>
         <location filename="../base/utils/misc.cpp" line="237"/>

@@ -260,8 +260,8 @@
 <context>
     <name>HttpServer</name>
     <message>
-        <source>Exit qBittorrent</source>
-        <translation>Avsluta qBittorrent</translation>
+        <source>Exit TTorent</source>
+        <translation>Avsluta TTorent</translation>
     </message>
     <message>
         <source>Global upload rate limit must be greater than 0 or disabled.</source>
@@ -304,8 +304,8 @@
         <translation>Högst antal sändningsplatser per torrent måste vara större än 0 eller inaktiverat.</translation>
     </message>
     <message>
-        <source>Unable to save program preferences, qBittorrent is probably unreachable.</source>
-        <translation type="vanished">Det går inte att spara programinställningarna. qBittorrent är antagligen inte nåbar.</translation>
+        <source>Unable to save program preferences, TTorent is probably unreachable.</source>
+        <translation type="vanished">Det går inte att spara programinställningarna. TTorent är antagligen inte nåbar.</translation>
     </message>
     <message>
         <source>Unknown</source>
@@ -375,8 +375,8 @@
         <translation>Spara</translation>
     </message>
     <message>
-        <source>qBittorrent client is not reachable</source>
-        <translation>Det går inte att nå qBittorrent-klienten</translation>
+        <source>TTorent client is not reachable</source>
+        <translation>Det går inte att nå TTorent-klienten</translation>
     </message>
     <message>
         <source>Global number of upload slots limit must be greater than 0 or disabled.</source>
@@ -467,8 +467,8 @@
         <translation>Exempel på omvänd proxyinställning</translation>
     </message>
     <message>
-        <source>Could not contact qBittorrent</source>
-        <translation type="vanished">Det gick inte att kontakta qBittorrent</translation>
+        <source>Could not contact TTorent</source>
+        <translation type="vanished">Det gick inte att kontakta TTorent</translation>
     </message>
     <message>
         <source>Remember choice</source>
@@ -563,8 +563,8 @@
         <translation>Utestående minne vid kontroll av torrenter måste vara större än 0 och mindre än 1024.</translation>
     </message>
     <message>
-        <source>Unable to load program preferences, qBittorrent is probably unreachable.</source>
-        <translation>Det gick inte att läsa in programinställningarna, qBittorrent är förmodligen inte nåbar.</translation>
+        <source>Unable to load program preferences, TTorent is probably unreachable.</source>
+        <translation>Det gick inte att läsa in programinställningarna, TTorent är förmodligen inte nåbar.</translation>
     </message>
     <message>
         <source>Peer turnover cutoff must be between 0 and 100.</source>
@@ -579,7 +579,7 @@
         <translation type="unfinished" />
     </message>
     <message>
-        <source>Unable to save preferences, qBittorrent is probably unreachable.</source>
+        <source>Unable to save preferences, TTorent is probably unreachable.</source>
         <translation type="unfinished" />
     </message>
     <message>
@@ -587,7 +587,7 @@
         <translation type="unfinished" />
     </message>
     <message>
-        <source>Could not contact qBittorrent.</source>
+        <source>Could not contact TTorent.</source>
         <translation type="unfinished" />
     </message>
 </context>
@@ -670,8 +670,8 @@
         <translation>Global hastighetsgräns för hämtning</translation>
     </message>
     <message>
-        <source>Are you sure you want to quit qBittorrent?</source>
-        <translation>Är du säker på att du vill avsluta qBittorrent?</translation>
+        <source>Are you sure you want to quit TTorent?</source>
+        <translation>Är du säker på att du vill avsluta TTorent?</translation>
     </message>
     <message>
         <source>Alternative speed limits</source>
@@ -1411,8 +1411,8 @@
         <translation>Ta bort torrent och dess filer</translation>
     </message>
     <message>
-        <source>qBittorrent Section</source>
-        <translation>qBittorrent-avsnitt</translation>
+        <source>TTorent Section</source>
+        <translation>TTorent-avsnitt</translation>
     </message>
     <message>
         <source>Send buffer watermark factor:</source>
@@ -2311,7 +2311,7 @@ Använd ";" för att dela upp i flera poster. Du kan använda jokertecknet "*".<
         <translation type="unfinished" />
     </message>
     <message>
-        <source>It appends the text to the window title to help distinguish qBittorrent instances</source>
+        <source>It appends the text to the window title to help distinguish TTorent instances</source>
         <translation type="unfinished" />
     </message>
     <message>
@@ -4158,8 +4158,8 @@ Använd ";" för att dela upp i flera poster. Du kan använda jokertecknet "*".<
         <translation>Namn:</translation>
     </message>
     <message>
-        <source>About qBittorrent</source>
-        <translation>Om qBittorrent</translation>
+        <source>About TTorent</source>
+        <translation>Om TTorent</translation>
     </message>
     <message>
         <source>License</source>
@@ -4170,8 +4170,8 @@ Använd ";" för att dela upp i flera poster. Du kan använda jokertecknet "*".<
         <translation>Översättare</translation>
     </message>
     <message>
-        <source>qBittorrent was built with the following libraries:</source>
-        <translation>qBittorrent byggdes med följande bibliotek:</translation>
+        <source>TTorent was built with the following libraries:</source>
+        <translation>TTorent byggdes med följande bibliotek:</translation>
     </message>
     <message>
         <source>Nationality:</source>
@@ -4194,12 +4194,12 @@ Använd ";" för att dela upp i flera poster. Du kan använda jokertecknet "*".<
         <translation>Frankrike</translation>
     </message>
     <message>
-        <source>qBittorrent Mascot</source>
-        <translation>qBittorrent-maskot</translation>
+        <source>TTorent Mascot</source>
+        <translation>TTorent-maskot</translation>
     </message>
     <message>
-        <source>qBittorrent icon</source>
-        <translation>qBittorrent-ikon</translation>
+        <source>TTorent icon</source>
+        <translation>TTorent-ikon</translation>
     </message>
 </context>
 <context>
@@ -5005,8 +5005,8 @@ Stöder formaten: S01E01, 1x1, 2017.12.31 och 31.12.2017 (datumformatet stöder 
 <context>
     <name>Login</name>
     <message>
-        <source>qBittorrent WebUI</source>
-        <translation>qBittorrent-webbanvändargränssnitt</translation>
+        <source>TTorent WebUI</source>
+        <translation>TTorent-webbanvändargränssnitt</translation>
     </message>
     <message>
         <source>Password</source>
@@ -5298,8 +5298,8 @@ Stöder formaten: S01E01, 1x1, 2017.12.31 och 31.12.2017 (datumformatet stöder 
 <context>
     <name>confirmRotateAPIKeyDialog</name>
     <message>
-        <source>Generate an API key? This key can be used to interact with qBittorrent's API.</source>
-        <translation>Generera en API-nyckel? Denna nyckel kan användas för att interagera med qBittorrents API.</translation>
+        <source>Generate an API key? This key can be used to interact with TTorent's API.</source>
+        <translation>Generera en API-nyckel? Denna nyckel kan användas för att interagera med TTorents API.</translation>
     </message>
     <message>
         <source>Delete this API key? The current key will immediately stop working.</source>

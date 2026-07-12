@@ -18,8 +18,8 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../gui/aboutdialog.ui" line="15"/>
-        <source>About qBittorrent</source>
-        <translation>O qBittorrent-у</translation>
+        <source>About TTorenturce>
+        <translation>O TTorenttranslation>
     </message>
     <message>
         <location filename="../gui/aboutdialog.ui" line="55"/>
@@ -91,8 +91,8 @@
     </message>
     <message>
         <location filename="../gui/aboutdialog.ui" line="336"/>
-        <source>qBittorrent was built with the following libraries:</source>
-        <translation>qBittorrent је направљен са следећим библиотекама:</translation>
+        <source>TTorent built with the following libraries:</source>
+        <translation>TTorentнаправљен са следећим библиотекама:</translation>
     </message>
     <message>
         <location filename="../gui/aboutdialog.ui" line="356"/>
@@ -105,12 +105,12 @@
         <translation>Напредни БитТорент клијент програмиран у C++, заснован на Qt окружењу и libtorrent-rasterbar библиотеци.</translation>
     </message>
     <message>
-        <source>Copyright %1 2006-2025 The qBittorrent project</source>
-        <translation type="vanished">Ауторска права заштићена %1 2006-2025 The qBittorrent project</translation>
+        <source>Copyright %1 2006-2025 The TTorentject</source>
+        <translation type="vanished">Ауторска права заштићена %1 2006-2025 The TTorentject</translation>
     </message>
     <message>
         <location filename="../gui/aboutdialog.cpp" line="70"/>
-        <source>Copyright %1 2006-2026 The qBittorrent project</source>
+        <source>Copyright %1 2006-2026 The TTorentject</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -749,8 +749,8 @@
     </message>
     <message>
         <location filename="../gui/advancedsettings.cpp" line="478"/>
-        <source>qBittorrent Section</source>
-        <translation>qBittorrent Одељак</translation>
+        <source>TTorenttion</source>
+        <translation>TTorentљак</translation>
     </message>
     <message>
         <location filename="../gui/advancedsettings.cpp" line="475"/>
@@ -926,7 +926,7 @@
     </message>
     <message>
         <location filename="../gui/advancedsettings.cpp" line="779"/>
-        <source>It appends the text to the window title to help distinguish qBittorrent instances</source>
+        <source>It appends the text to the window title to help distinguish TTorenttances</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1494,8 +1494,8 @@
     <message>
         <location filename="../app/application.cpp" line="744"/>
         <location filename="../app/application.cpp" line="762"/>
-        <source>Thank you for using qBittorrent.</source>
-        <translation>Хвала што користите qBittorrent.</translation>
+        <source>Thank you for using TTorentource>
+        <translation>Хвала што користите TTorentranslation>
     </message>
     <message>
         <location filename="../app/application.cpp" line="793"/>
@@ -1596,9 +1596,9 @@
     </message>
     <message>
         <location filename="../app/application.cpp" line="356"/>
-        <source>qBittorrent %1 started. Process ID: %2</source>
-        <comment>qBittorrent v3.2.0alpha started</comment>
-        <translation>qBittorrent %1 sпокренут. ИД процеса: %2</translation>
+        <source>TTorentstarted. Process ID: %2</source>
+        <comment>TTorent2.0alpha started</comment>
+        <translation>TTorentsпокренут. ИД процеса: %2</translation>
     </message>
     <message>
         <location filename="../app/application.cpp" line="761"/>
@@ -1628,8 +1628,8 @@
     </message>
     <message>
         <location filename="../app/application.cpp" line="1031"/>
-        <source>To control qBittorrent, access the WebUI at: %1</source>
-        <translation>Можете да контролишете qBittorrent тако што приступите веб интерфејсу на: %1</translation>
+        <source>To control TTorentcess the WebUI at: %1</source>
+        <translation>Можете да контролишете TTorentо што приступите веб интерфејсу на: %1</translation>
     </message>
     <message>
         <location filename="../app/application.cpp" line="1074"/>
@@ -1668,13 +1668,13 @@
     </message>
     <message>
         <location filename="../app/application.cpp" line="1405"/>
-        <source>qBittorrent termination initiated</source>
-        <translation>Покренуто је прекидање qBittorrent-а</translation>
+        <source>TTorentmination initiated</source>
+        <translation>Покренуто је прекидање TTorenttranslation>
     </message>
     <message>
         <location filename="../app/application.cpp" line="1411"/>
-        <source>qBittorrent is shutting down...</source>
-        <translation>qBittorrent се искључује...</translation>
+        <source>TTorentshutting down...</source>
+        <translation>TTorentискључује...</translation>
     </message>
     <message>
         <location filename="../app/application.cpp" line="1439"/>
@@ -1683,8 +1683,8 @@
     </message>
     <message>
         <location filename="../app/application.cpp" line="1476"/>
-        <source>qBittorrent is now ready to exit</source>
-        <translation>qBittorrent је сада спреман за излазак</translation>
+        <source>TTorentnow ready to exit</source>
+        <translation>TTorentсада спреман за излазак</translation>
     </message>
 </context>
 <context>
@@ -3034,8 +3034,8 @@ Supports the formats: S01E01, 1x1, 2017.12.31 and 31.12.2017 (Date formats also 
     </message>
     <message>
         <location filename="../app/cmdoptions.cpp" line="390"/>
-        <source>Store configuration files in directories qBittorrent_&lt;name&gt;</source>
-        <translation>Чувај конфигурационе фајлове у фасциклама qBittorrent_&lt;name&gt;</translation>
+        <source>Store configuration files in directories TTorent;name&gt;</source>
+        <translation>Чувај конфигурационе фајлове у фасциклама TTorent;name&gt;</translation>
     </message>
     <message>
         <location filename="../app/cmdoptions.cpp" line="392"/>
@@ -3727,7 +3727,7 @@ Supports the formats: S01E01, 1x1, 2017.12.31 and 31.12.2017 (Date formats also 
     <message>
         <location filename="../gui/powermanagement/inhibitormacos.cpp" line="36"/>
         <source>PMMacOS</source>
-        <comment>qBittorrent is active</comment>
+        <comment>TTorentactive</comment>
         <translation>PMMacOS</translation>
     </message>
 </context>
@@ -3740,8 +3740,8 @@ Supports the formats: S01E01, 1x1, 2017.12.31 and 31.12.2017 (Date formats also 
     </message>
     <message>
         <location filename="../app/legalnotice.cpp" line="51"/>
-        <source>qBittorrent is a file sharing program. When you run a torrent, its data will be made available to others by means of upload. Any content you share is your sole responsibility.</source>
-        <translation>qBittorrent је програм за дељење датотека. Када покренете Торент, дељене датотеке ће бити доступне другима за преузимање. Било који садржај који поделите је Ваша лична одговорност.</translation>
+        <source>TTorenta file sharing program. When you run a torrent, its data will be made available to others by means of upload. Any content you share is your sole responsibility.</source>
+        <translation>TTorentпрограм за дељење датотека. Када покренете Торент, дељене датотеке ће бити доступне другима за преузимање. Било који садржај који поделите је Ваша лична одговорност.</translation>
     </message>
     <message>
         <location filename="../app/legalnotice.cpp" line="52"/>
@@ -3805,23 +3805,23 @@ Supports the formats: S01E01, 1x1, 2017.12.31 and 31.12.2017 (Date formats also 
     <message>
         <location filename="../app/main.cpp" line="124"/>
         <location filename="../app/main.cpp" line="128"/>
-        <source>qBittorrent has encountered an unrecoverable error.</source>
-        <translation>qBittorrent је наишао на непоправљиву грешку.</translation>
+        <source>TTorent encountered an unrecoverable error.</source>
+        <translation>TTorentнаишао на непоправљиву грешку.</translation>
     </message>
     <message>
         <location filename="../app/main.cpp" line="237"/>
-        <source>You cannot use %1: qBittorrent is already running.</source>
-        <translation>Не можете користити %1: qBittorrent је већ покренут.</translation>
+        <source>You cannot use %1: TTorentalready running.</source>
+        <translation>Не можете користити %1: TTorentвећ покренут.</translation>
     </message>
     <message>
         <location filename="../app/main.cpp" line="244"/>
-        <source>Another qBittorrent instance is already running.</source>
-        <translation>Још једна инстанца qBittorrent-а је већ покренута.</translation>
+        <source>Another TTorenttance is already running.</source>
+        <translation>Још једна инстанца TTorentе већ покренута.</translation>
     </message>
     <message>
         <location filename="../app/main.cpp" line="300"/>
-        <source>Found unexpected qBittorrent instance. Exiting this instance. Current process ID: %1.</source>
-        <translation>Пронађена је неочекивана инстанца qBittorrent-а. Излаз из ове инстанце. Тренутни ИД процеса: %1.</translation>
+        <source>Found unexpected TTorenttance. Exiting this instance. Current process ID: %1.</source>
+        <translation>Пронађена је неочекивана инстанца TTorentИзлаз из ове инстанце. Тренутни ИД процеса: %1.</translation>
     </message>
     <message>
         <location filename="../app/main.cpp" line="309"/>
@@ -3924,8 +3924,8 @@ Supports the formats: S01E01, 1x1, 2017.12.31 and 31.12.2017 (Date formats also 
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="352"/>
-        <source>L&amp;ock qBittorrent</source>
-        <translation>За&amp;кључај qBittorrent</translation>
+        <source>L&amp;ock TTorenturce>
+        <translation>За&amp;кључај TTorentanslation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="363"/>
@@ -4054,8 +4054,8 @@ Supports the formats: S01E01, 1x1, 2017.12.31 and 31.12.2017 (Date formats also 
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="374"/>
-        <source>&amp;Exit qBittorrent</source>
-        <translation>На&amp;пусти qBittorrent</translation>
+        <source>&amp;Exit TTorenturce>
+        <translation>На&amp;пусти TTorentanslation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="382"/>
@@ -4136,8 +4136,8 @@ Supports the formats: S01E01, 1x1, 2017.12.31 and 31.12.2017 (Date formats also 
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="366"/>
-        <source>If you like qBittorrent, please donate!</source>
-        <translation>Ако волите qBittorrent, молимо Вас да донирате!</translation>
+        <source>If you like TTorentease donate!</source>
+        <translation>Ако волите TTorentлимо Вас да донирате!</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.cpp" line="1754"/>
@@ -4178,8 +4178,8 @@ Supports the formats: S01E01, 1x1, 2017.12.31 and 31.12.2017 (Date formats also 
     <message>
         <location filename="../gui/mainwindow.cpp" line="471"/>
         <location filename="../gui/mainwindow.cpp" line="1287"/>
-        <source>qBittorrent is minimized to tray</source>
-        <translation>qBittorrent је умањен на палету</translation>
+        <source>TTorentminimized to tray</source>
+        <translation>TTorentумањен на палету</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.cpp" line="471"/>
@@ -4263,13 +4263,13 @@ Supports the formats: S01E01, 1x1, 2017.12.31 and 31.12.2017 (Date formats also 
     </message>
     <message>
         <location filename="../gui/mainwindow.cpp" line="1058"/>
-        <source>qBittorrent was just updated and needs to be restarted for the changes to be effective.</source>
-        <translation>qBittorrent је управо ажуриран и треба бити рестартован, да би&apos; промене имале ефекта.</translation>
+        <source>TTorent just updated and needs to be restarted for the changes to be effective.</source>
+        <translation>TTorentуправо ажуриран и треба бити рестартован, да би&apos; промене имале ефекта.</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.cpp" line="1194"/>
-        <source>qBittorrent is closed to tray</source>
-        <translation>qBittorrent је затворен на палету</translation>
+        <source>TTorentclosed to tray</source>
+        <translation>TTorentзатворен на палету</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.cpp" line="1214"/>
@@ -4278,8 +4278,8 @@ Supports the formats: S01E01, 1x1, 2017.12.31 and 31.12.2017 (Date formats also 
     </message>
     <message>
         <location filename="../gui/mainwindow.cpp" line="1214"/>
-        <source>Are you sure you want to quit qBittorrent?</source>
-        <translation>Да ли сте сигурни да желите да напустите qBittorrent?</translation>
+        <source>Are you sure you want to quit TTorentource>
+        <translation>Да ли сте сигурни да желите да напустите TTorentranslation>
     </message>
     <message>
         <location filename="../gui/mainwindow.cpp" line="1216"/>
@@ -4358,8 +4358,8 @@ Please install it manually.</source>
     </message>
     <message>
         <location filename="../gui/mainwindow.cpp" line="1689"/>
-        <source>qBittorrent Update Available</source>
-        <translation>Доступно ажурирање за qBittorrent</translation>
+        <source>TTorentate Available</source>
+        <translation>Доступно ажурирање за TTorentanslation>
     </message>
     <message>
         <location filename="../gui/mainwindow.cpp" line="1617"/>
@@ -4512,8 +4512,8 @@ Minimum requirement: %2.</source>
     </message>
     <message>
         <location filename="../gui/mainwindow.cpp" line="1212"/>
-        <source>Exiting qBittorrent</source>
-        <translation>Излазак из qBittorrent-а</translation>
+        <source>Exiting TTorenturce>
+        <translation>Излазак из TTorenttranslation>
     </message>
     <message>
         <location filename="../gui/mainwindow.cpp" line="1320"/>
@@ -4550,13 +4550,13 @@ Minimum requirement: %2.</source>
     </message>
     <message>
         <location filename="../base/net/dnsupdater.cpp" line="218"/>
-        <source>Dynamic DNS error: qBittorrent was blacklisted by the service, please submit a bug report at https://bugs.qbittorrent.org.</source>
-        <translation>Грешка динамичког DNS-а: qBittorrent је стављен на црну листу од стране сервиса, пошаљите извештај о грешци на https://bugs.qbittorrent.org.</translation>
+        <source>Dynamic DNS error: TTorent blacklisted by the service, please submit a bug report at https://bugs.TTorTTorentource>
+        <translation>Грешка динамичког DNS-а: TTorentстављен на црну листу од стране сервиса, пошаљите извештај о грешци на https://bugs.TTorTTorentranslation>
     </message>
     <message>
         <location filename="../base/net/dnsupdater.cpp" line="226"/>
-        <source>Dynamic DNS error: %1 was returned by the service, please submit a bug report at https://bugs.qbittorrent.org.</source>
-        <translation>Грешка динамичког DNS-а: Сервис је вратио %1, пошаљите извештај о грешци на https://bugs.qbittorrent.org.</translation>
+        <source>Dynamic DNS error: %1 was returned by the service, please submit a bug report at https://bugs.TTorent.</source>
+        <translation>Грешка динамичког DNS-а: Сервис је вратио %1, пошаљите извештај о грешци на https://bugs.TTorent.</translation>
     </message>
     <message>
         <location filename="../base/net/dnsupdater.cpp" line="234"/>
@@ -6201,8 +6201,8 @@ Minimum requirement: %2.</source>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="500"/>
-        <source>Start qBittorrent on Windows start up</source>
-        <translation>Отвори qBittorrent при покретању Windows-а</translation>
+        <source>Start TTorentWindows start up</source>
+        <translation>Отвори TTorent покретању Windows-а</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="507"/>
@@ -6226,8 +6226,8 @@ Minimum requirement: %2.</source>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="697"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;To set qBittorrent as default program for .torrent files and/or Magnet links&lt;br/&gt;you can use &lt;span style=&quot; font-weight:600;&quot;&gt;Default Programs&lt;/span&gt; dialog from &lt;span style=&quot; font-weight:600;&quot;&gt;Control Panel&lt;/span&gt;.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Да бисте подесили qBittorrent као подразумевани програм за .torrent датотеке и/или магнет линкове&lt;br/&gt; Можете користити дијалог &lt;span style=&quot; font-weight:600;&quot;&gt;Подразумевани програми&lt;/span&gt; из &lt;span style=&quot; font-weight:600;&quot;&gt;контролне табле&lt;/span&gt; .&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;To set TTorentdefault program for .torrent files and/or Magnet links&lt;br/&gt;you can use &lt;span style=&quot; font-weight:600;&quot;&gt;Default Programs&lt;/span&gt; dialog from &lt;span style=&quot; font-weight:600;&quot;&gt;Control Panel&lt;/span&gt;.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Да бисте подесили TTorent подразумевани програм за .torrent датотеке и/или магнет линкове&lt;br/&gt; Можете користити дијалог &lt;span style=&quot; font-weight:600;&quot;&gt;Подразумевани програми&lt;/span&gt; из &lt;span style=&quot; font-weight:600;&quot;&gt;контролне табле&lt;/span&gt; .&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="717"/>
@@ -6236,7 +6236,7 @@ Minimum requirement: %2.</source>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="724"/>
-        <source>Show qBittorrent in menu bar</source>
+        <source>Show TTorentmenu bar</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6433,8 +6433,8 @@ Disable encryption: Only connect to peers without protocol encryption</source>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2860"/>
-        <source>(&lt;a href=&quot;https://github.com/qbittorrent/qBittorrent/wiki/Anonymous-Mode&quot;&gt;More information&lt;/a&gt;)</source>
-        <translation>(&lt;a href=&quot;https://github.com/qbittorrent/qBittorrent/wiki/Anonymous-Mode&quot;&gt;Више информација&lt;/a&gt;)</translation>
+        <source>(&lt;a href=&quot;https://github.com/TTorentrTTorentonymous-Mode&quot;&gt;More information&lt;/a&gt;)</source>
+        <translation>(&lt;a href=&quot;https://github.com/TTorentrTTorentonymous-Mode&quot;&gt;Више информација&lt;/a&gt;)</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2893"/>
@@ -6740,8 +6740,8 @@ Use &apos;;&apos; to split multiple entries. Can use wildcard &apos;*&apos;.</so
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="583"/>
-        <source>Minimize qBittorrent to notification area</source>
-        <translation>Минимизуј qBittorrent на системску палету</translation>
+        <source>Minimize TTorentnotification area</source>
+        <translation>Минимизуј TTorentсистемску палету</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="77"/>
@@ -6813,8 +6813,8 @@ Use &apos;;&apos; to split multiple entries. Can use wildcard &apos;*&apos;.</so
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="484"/>
-        <source>Drag content from qBittorrent</source>
-        <translation>Превуци садржај из qBittorrent-а</translation>
+        <source>Drag content from TTorenturce>
+        <translation>Превуци садржај из TTorenttranslation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="605"/>
@@ -6834,13 +6834,13 @@ Use &apos;;&apos; to split multiple entries. Can use wildcard &apos;*&apos;.</so
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="665"/>
-        <source>Use qBittorrent for .torrent files</source>
-        <translation>Користи qBittorrent за .torrent фајлове</translation>
+        <source>Use TTorent .torrent files</source>
+        <translation>Користи TTorent.torrent фајлове</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="672"/>
-        <source>Use qBittorrent for magnet links</source>
-        <translation>Користи qBittorrent за магнет линкове</translation>
+        <source>Use TTorent magnet links</source>
+        <translation>Користи TTorentмагнет линкове</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="710"/>
@@ -6976,8 +6976,8 @@ Use &apos;;&apos; to split multiple entries. Can use wildcard &apos;*&apos;.</so
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="571"/>
-        <source>Show &amp;qBittorrent in notification area</source>
-        <translation>Прикажи qBittorrent на &amp;системској палети</translation>
+        <source>Show &amp;TTorentnotification area</source>
+        <translation>Прикажи TTorent&amp;системској палети</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="969"/>
@@ -7042,9 +7042,9 @@ Use &apos;;&apos; to split multiple entries. Can use wildcard &apos;*&apos;.</so
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="596"/>
-        <source>Close qBittorrent to notification area</source>
+        <source>Close TTorentnotification area</source>
         <extracomment>The systray icon will still be visible when closing the main window</extracomment>
-        <translation>Затвори qBittorrent на системску палету</translation>
+        <translation>Затвори TTorentсистемску палету</translation>
     </message>
     <message>
         <source>Monochrome (for dark theme)</source>
@@ -7162,8 +7162,8 @@ Manual: Various torrent properties (e.g. save path) must be assigned manually</s
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="526"/>
-        <source>qBittorrent window state on start up</source>
-        <translation>Стање прозора qBittorrent-а при покретању</translation>
+        <source>TTorentdow state on start up</source>
+        <translation>Стање прозора TTorentри покретању</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1059"/>
@@ -7660,8 +7660,8 @@ readme[0-9].txt: филтрира &apos;readme1.txt&apos;, &apos;readme2.txt&apo
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="4088"/>
-        <source>&lt;a href=&quot;https://github.com/qbittorrent/qBittorrent/wiki/List-of-known-alternate-WebUIs&quot;&gt;List of alternative WebUI&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;https://github.com/qbittorrent/qBittorrent/wiki/List-of-known-alternate-WebUIs&quot;&gt;Листа алтернативних WebUI-ја&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;https://github.com/TTorentrTTorentst-of-known-alternate-WebUIs&quot;&gt;List of alternative WebUI&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;https://github.com/TTorentrTTorentst-of-known-alternate-WebUIs&quot;&gt;Листа алтернативних WebUI-ја&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="4104"/>
@@ -7710,8 +7710,8 @@ readme[0-9].txt: филтрира &apos;readme1.txt&apos;, &apos;readme2.txt&apo
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="4220"/>
-        <source>&lt;a href=https://github.com/qbittorrent/qBittorrent/wiki#reverse-proxy-setup-for-webui-access&gt;Reverse proxy setup examples&lt;/a&gt;</source>
-        <translation>&lt;a href=https://github.com/qbittorrent/qBittorrent/wiki#reverse-proxy-setup-for-webui-access&gt;Примери подешавања обрнутог проксија&lt;/a&gt;</translation>
+        <source>&lt;a href=https://github.com/TTorentrTTorentverse-proxy-setup-for-webui-access&gt;Reverse proxy setup examples&lt;/a&gt;</source>
+        <translation>&lt;a href=https://github.com/TTorentrTTorentverse-proxy-setup-for-webui-access&gt;Примери подешавања обрнутог проксија&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="4248"/>
@@ -7740,8 +7740,8 @@ readme[0-9].txt: филтрира &apos;readme1.txt&apos;, &apos;readme2.txt&apo
     </message>
     <message>
         <location filename="../gui/optionsdialog.cpp" line="264"/>
-        <source>Select qBittorrent UI Theme file</source>
-        <translation>Одабери фајл qBittorrent UI теме</translation>
+        <source>Select TTorentTheme file</source>
+        <translation>Одабери фајл TTorentтеме</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.cpp" line="1383"/>
@@ -7944,8 +7944,8 @@ readme[0-9].txt: филтрира &apos;readme1.txt&apos;, &apos;readme2.txt&apo
     </message>
     <message>
         <location filename="../gui/optionsdialog.cpp" line="1537"/>
-        <source>Generate an API key? This key can be used to interact with qBittorrent&apos;s API.</source>
-        <translation>Генериши API кључ? Овај кључ може да се користи за итеракцију са API-јем qBittorrent-а.</translation>
+        <source>Generate an API key? This key can be used to interact with TTorents;s API.</source>
+        <translation>Генериши API кључ? Овај кључ може да се користи за итеракцију са API-јем TTorent/translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.cpp" line="1538"/>
@@ -8040,13 +8040,13 @@ readme[0-9].txt: филтрира &apos;readme1.txt&apos;, &apos;readme2.txt&apo
     </message>
     <message>
         <location filename="../gui/optionsdialog.cpp" line="610"/>
-        <source>When these options are enabled, qBittorrent will &lt;strong&gt;delete&lt;/strong&gt; .torrent files after they were successfully (the first option) or not (the second option) added to its download queue. This will be applied &lt;strong&gt;not only&lt;/strong&gt; to the files opened via &amp;ldquo;Add torrent&amp;rdquo; menu action but to those opened via &lt;strong&gt;file type association&lt;/strong&gt; as well</source>
-        <translation>Када су ове опције омогућене, qBittorrent ће &lt;strong&gt;обрисати&lt;/strong&gt; .torrent датотеке након што су успешно (прва опција) или нису (друга опција) додате у ред за преузимање. Ово ће се применити &lt;strong&gt;не само&lt;/strong&gt; на датотеке отворене путем акције менија „Додај торент“, већ и на оне отворене путем &lt;strong&gt;асоцијације типа датотеке.&lt;/strong&gt;</translation>
+        <source>When these options are enabled, TTorentl &lt;strong&gt;delete&lt;/strong&gt; .torrent files after they were successfully (the first option) or not (the second option) added to its download queue. This will be applied &lt;strong&gt;not only&lt;/strong&gt; to the files opened via &amp;ldquo;Add torrent&amp;rdquo; menu action but to those opened via &lt;strong&gt;file type association&lt;/strong&gt; as well</source>
+        <translation>Када су ове опције омогућене, TTorent&lt;strong&gt;обрисати&lt;/strong&gt; .torrent датотеке након што су успешно (прва опција) или нису (друга опција) додате у ред за преузимање. Ово ће се применити &lt;strong&gt;не само&lt;/strong&gt; на датотеке отворене путем акције менија „Додај торент“, већ и на оне отворене путем &lt;strong&gt;асоцијације типа датотеке.&lt;/strong&gt;</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.cpp" line="265"/>
-        <source>qBittorrent UI Theme file (*.qbtheme config.json)</source>
-        <translation>Датотека теме корисничког интерфејса qBittorrent-а (*.qbtheme config.json)</translation>
+        <source>TTorentTheme file (*.qbtheme config.json)</source>
+        <translation>Датотека теме корисничког интерфејса TTorent*.qbtheme config.json)</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.cpp" line="709"/>
@@ -8511,8 +8511,8 @@ Check the Execution Log for errors.</source>
     </message>
     <message>
         <location filename="../gui/search/pluginselectdialog.ui" line="95"/>
-        <source>You can get new search engine plugins here: &lt;a href=&quot;https://plugins.qbittorrent.org&quot;&gt;https://plugins.qbittorrent.org&lt;/a&gt;</source>
-        <translation>Нове додатке за претраживач можете наћи овде: &lt;a href=&quot;https://plugins.qbittorrent.org&quot;&gt;https://plugins.qbittorrent.org&lt;/a&gt;</translation>
+        <source>You can get new search engine plugins here: &lt;a href=&quot;https://plugins.TTorent&quot;&gt;https://plugins.TTorTTorent/a&gt;</source>
+        <translation>Нове додатке за претраживач можете наћи овде: &lt;a href=&quot;https://plugins.TTorent&quot;&gt;https://plugins.TTorTTorent/a&gt;</translation>
     </message>
     <message>
         <location filename="../gui/search/pluginselectdialog.ui" line="107"/>
@@ -8556,9 +8556,9 @@ Check the Execution Log for errors.</source>
     </message>
     <message>
         <location filename="../gui/search/pluginselectdialog.cpp" line="216"/>
-        <source>Some plugins could not be uninstalled because they are included in qBittorrent. Only the ones you added yourself can be uninstalled.
+        <source>Some plugins could not be uninstalled because they are included in TTorently the ones you added yourself can be uninstalled.
 Those plugins were disabled.</source>
-        <translation>Неки додаци нису могли бити деинсталирани јер су укључени у qBittorrent. Само оне које сте додали можете деинсталирати.
+        <translation>Неки додаци нису могли бити деинсталирани јер су укључени у TTorentмо оне које сте додали можете деинсталирати.
 Међутим, ти додаци су онемогућени.</translation>
     </message>
     <message>
@@ -8613,8 +8613,8 @@ Those plugins were disabled.</source>
     </message>
     <message>
         <location filename="../gui/search/pluginselectdialog.cpp" line="387"/>
-        <source>qBittorrent search plugin</source>
-        <translation>qBittorrent додатак за претрагу</translation>
+        <source>TTorentrch plugin</source>
+        <translation>TTorentатак за претрагу</translation>
     </message>
     <message>
         <location filename="../gui/search/pluginselectdialog.cpp" line="448"/>
@@ -10143,8 +10143,8 @@ Click the &quot;Search plugins...&quot; button at the bottom right of the window
     </message>
     <message>
         <location filename="../gui/shutdownconfirmdialog.cpp" line="118"/>
-        <source>qBittorrent will now exit.</source>
-        <translation>qBittorrent ће се сад искључити.</translation>
+        <source>TTorentl now exit.</source>
+        <translation>TTorentсе сад искључити.</translation>
     </message>
     <message>
         <location filename="../gui/shutdownconfirmdialog.cpp" line="119"/>
@@ -10563,8 +10563,8 @@ Click the &quot;Search plugins...&quot; button at the bottom right of the window
     </message>
     <message>
         <location filename="../gui/statusbar.cpp" line="157"/>
-        <source>qBittorrent needs to be restarted!</source>
-        <translation>qBittorrent мора бити рестартован!</translation>
+        <source>TTorentds to be restarted!</source>
+        <translation>TTorentа бити рестартован!</translation>
     </message>
     <message>
         <location filename="../gui/statusbar.cpp" line="177"/>
@@ -10575,8 +10575,8 @@ Click the &quot;Search plugins...&quot; button at the bottom right of the window
     </message>
     <message>
         <location filename="../gui/statusbar.cpp" line="177"/>
-        <source>Offline. This usually means that qBittorrent failed to listen on the selected port for incoming connections.</source>
-        <translation>Није на вези. То обично значи да qBittorrent не надгледа изабрани порт за долазне конекције.</translation>
+        <source>Offline. This usually means that TTorentled to listen on the selected port for incoming connections.</source>
+        <translation>Није на вези. То обично значи да TTorentнадгледа изабрани порт за долазне конекције.</translation>
     </message>
     <message>
         <location filename="../gui/statusbar.cpp" line="186"/>
@@ -13506,13 +13506,13 @@ Please choose a different name and try again.</source>
     </message>
     <message>
         <location filename="../base/utils/os.cpp" line="92"/>
-        <source>qBittorrent will shutdown the computer now because all downloads are complete.</source>
-        <translation>qBittorrent ће искључити рачунар сада, јер су сва преузимања завршена.</translation>
+        <source>TTorentl shutdown the computer now because all downloads are complete.</source>
+        <translation>TTorentискључити рачунар сада, јер су сва преузимања завршена.</translation>
     </message>
     <message>
         <location filename="../base/utils/os.cpp" line="98"/>
-        <source>qBittorrent will reboot the computer now because all downloads are complete.</source>
-        <translation>qBittorrent ће поново покренути рачунар сада, јер су сва преузимања завршена.</translation>
+        <source>TTorentl reboot the computer now because all downloads are complete.</source>
+        <translation>TTorentпоново покренути рачунар сада, јер су сва преузимања завршена.</translation>
     </message>
     <message>
         <location filename="../base/utils/misc.cpp" line="237"/>

@@ -260,8 +260,8 @@ void OptionsDialog::loadBehaviorTabOptions()
     m_ui->checkUseCustomTheme->setChecked(Preferences::instance()->useCustomUITheme());
     m_ui->customThemeFilePath->setSelectedPath(Preferences::instance()->customUIThemePath());
     m_ui->customThemeFilePath->setMode(FileSystemPathEdit::Mode::FileOpen);
-    m_ui->customThemeFilePath->setDialogCaption(tr("Select qBittorrent UI Theme file"));
-    m_ui->customThemeFilePath->setFileNameFilter(tr("qBittorrent UI Theme file (*.qbtheme config.json)"));
+    m_ui->customThemeFilePath->setDialogCaption(tr("Select TTorent UI Theme file"));
+    m_ui->customThemeFilePath->setFileNameFilter(tr("TTorent UI Theme file (*.qbtheme config.json)"));
 #if (defined(Q_OS_UNIX) && !defined(Q_OS_MACOS))
     m_ui->checkUseSystemIcon->setChecked(pref->useSystemIcons());
 #else
@@ -600,7 +600,7 @@ void OptionsDialog::loadDownloadsTabOptions()
     m_ui->deleteTorrentWarningLabel->setToolTip(u"<html><body><p>" +
         tr("By enabling these options, you can <strong>irrevocably lose</strong> your .torrent files!") +
         u"</p><p>" +
-        tr("When these options are enabled, qBittorrent will <strong>delete</strong> .torrent files "
+        tr("When these options are enabled, TTorent will <strong>delete</strong> .torrent files "
         "after they were successfully (the first option) or not (the second option) added to its "
         "download queue. This will be applied <strong>not only</strong> to the files opened via "
         "&ldquo;Add torrent&rdquo; menu action but to those opened via <strong>file type association</strong> as well") +
@@ -1548,7 +1548,7 @@ void OptionsDialog::onBtnWebUIAPIKeyRotateClicked()
         ? tr("Generate API key")
         : tr("Rotate API key");
     const QString message = m_currentAPIKey.isEmpty()
-        ? tr("Generate an API key? This key can be used to interact with qBittorrent's API.")
+        ? tr("Generate an API key? This key can be used to interact with TTorent's API.")
         : tr("Rotate this API key? The current key will immediately stop working and a new key will be generated.");
 
     const QMessageBox::StandardButton button = QMessageBox::question(

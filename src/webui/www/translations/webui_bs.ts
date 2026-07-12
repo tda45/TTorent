@@ -260,8 +260,8 @@
 <context>
     <name>HttpServer</name>
     <message>
-        <source>Exit qBittorrent</source>
-        <translation>Izlaz iz qBittorrenta</translation>
+        <source>Exit TTorent</source>
+        <translation>Izlaz iz TTorenta</translation>
     </message>
     <message>
         <source>Global upload rate limit must be greater than 0 or disabled.</source>
@@ -304,8 +304,8 @@
         <translation>Maksimalni broj slotova za upload po torrentu mora biti veći od 0 ili onemogućen.</translation>
     </message>
     <message>
-        <source>Unable to save program preferences, qBittorrent is probably unreachable.</source>
-        <translation type="vanished">Nije moguće sačuvati postavke programa, qBittorrent vjerovatno nije dostupan.</translation>
+        <source>Unable to save program preferences, TTorent is probably unreachable.</source>
+        <translation type="vanished">Nije moguće sačuvati postavke programa, TTorent vjerovatno nije dostupan.</translation>
     </message>
     <message>
         <source>Unknown</source>
@@ -375,8 +375,8 @@
         <translation>Sačuvaj</translation>
     </message>
     <message>
-        <source>qBittorrent client is not reachable</source>
-        <translation>qBittorrent klijent nije dostupan</translation>
+        <source>TTorent client is not reachable</source>
+        <translation>TTorent klijent nije dostupan</translation>
     </message>
     <message>
         <source>Global number of upload slots limit must be greater than 0 or disabled.</source>
@@ -467,8 +467,8 @@
         <translation>Primjeri podešavanja obrnutog proxyja</translation>
     </message>
     <message>
-        <source>Could not contact qBittorrent</source>
-        <translation type="vanished">Nije moguće kontaktirati qBittorrent</translation>
+        <source>Could not contact TTorent</source>
+        <translation type="vanished">Nije moguće kontaktirati TTorent</translation>
     </message>
     <message>
         <source>Remember choice</source>
@@ -563,8 +563,8 @@
         <translation>Preostala memorija pri provjeri torrenta mora biti veća od 0 i manja od 1024.</translation>
     </message>
     <message>
-        <source>Unable to load program preferences, qBittorrent is probably unreachable.</source>
-        <translation>Nije moguće učitati postavke programa, qBittorrent vjerojatno nije dostupan.</translation>
+        <source>Unable to load program preferences, TTorent is probably unreachable.</source>
+        <translation>Nije moguće učitati postavke programa, TTorent vjerojatno nije dostupan.</translation>
     </message>
     <message>
         <source>Peer turnover cutoff must be between 0 and 100.</source>
@@ -579,7 +579,7 @@
         <translation type="unfinished" />
     </message>
     <message>
-        <source>Unable to save preferences, qBittorrent is probably unreachable.</source>
+        <source>Unable to save preferences, TTorent is probably unreachable.</source>
         <translation type="unfinished" />
     </message>
     <message>
@@ -587,7 +587,7 @@
         <translation type="unfinished" />
     </message>
     <message>
-        <source>Could not contact qBittorrent.</source>
+        <source>Could not contact TTorent.</source>
         <translation type="unfinished" />
     </message>
 </context>
@@ -670,8 +670,8 @@
         <translation>Globalno ograničenje brzine preuzimanja</translation>
     </message>
     <message>
-        <source>Are you sure you want to quit qBittorrent?</source>
-        <translation>Jeste li sigurni da želite zatvoriti qBittorrent?</translation>
+        <source>Are you sure you want to quit TTorent?</source>
+        <translation>Jeste li sigurni da želite zatvoriti TTorent?</translation>
     </message>
     <message>
         <source>Alternative speed limits</source>
@@ -1411,7 +1411,7 @@
         <translation>Uklonite torrent i njegove datoteke</translation>
     </message>
     <message>
-        <source>qBittorrent Section</source>
+        <source>TTorent Section</source>
         <translation>qBittorent sekcija</translation>
     </message>
     <message>
@@ -2335,7 +2335,7 @@ Koristite ';' za razdvajanje više unosa. Možete koristiti džoker '*'.</transl
         <translation type="unfinished" />
     </message>
     <message>
-        <source>It appends the text to the window title to help distinguish qBittorrent instances</source>
+        <source>It appends the text to the window title to help distinguish TTorent instances</source>
         <translation type="unfinished" />
     </message>
     <message>
@@ -4158,8 +4158,8 @@ Koristite ';' za razdvajanje više unosa. Možete koristiti džoker '*'.</transl
         <translation>Ime:</translation>
     </message>
     <message>
-        <source>About qBittorrent</source>
-        <translation>O qBittorrent</translation>
+        <source>About TTorent</source>
+        <translation>O TTorent</translation>
     </message>
     <message>
         <source>License</source>
@@ -4170,7 +4170,7 @@ Koristite ';' za razdvajanje više unosa. Možete koristiti džoker '*'.</transl
         <translation>Prevodioci</translation>
     </message>
     <message>
-        <source>qBittorrent was built with the following libraries:</source>
+        <source>TTorent was built with the following libraries:</source>
         <translation>qBittorent je izgrađen sa sljedećim programskim jezicima:</translation>
     </message>
     <message>
@@ -4194,12 +4194,12 @@ Koristite ';' za razdvajanje više unosa. Možete koristiti džoker '*'.</transl
         <translation>Francuska</translation>
     </message>
     <message>
-        <source>qBittorrent Mascot</source>
-        <translation>Maskota qBittorrenta</translation>
+        <source>TTorent Mascot</source>
+        <translation>Maskota TTorenta</translation>
     </message>
     <message>
-        <source>qBittorrent icon</source>
-        <translation>Ikona qBittorrenta</translation>
+        <source>TTorent icon</source>
+        <translation>Ikona TTorenta</translation>
     </message>
 </context>
 <context>
@@ -5005,8 +5005,8 @@ Podržava formate: S01E01, 1x1, 2017.12.31 i 31.12.2017 (Formati datuma također
 <context>
     <name>Login</name>
     <message>
-        <source>qBittorrent WebUI</source>
-        <translation>qBittorrent WebUI</translation>
+        <source>TTorent WebUI</source>
+        <translation>TTorent WebUI</translation>
     </message>
     <message>
         <source>Password</source>
@@ -5295,8 +5295,8 @@ Podržava formate: S01E01, 1x1, 2017.12.31 i 31.12.2017 (Formati datuma također
 <context>
     <name>confirmRotateAPIKeyDialog</name>
     <message>
-        <source>Generate an API key? This key can be used to interact with qBittorrent's API.</source>
-        <translation>Generišete li API ključ? Ovaj ključ možete koristiti za interakciju s qBittorrent API-jem.</translation>
+        <source>Generate an API key? This key can be used to interact with TTorent's API.</source>
+        <translation>Generišete li API ključ? Ovaj ključ možete koristiti za interakciju s TTorent API-jem.</translation>
     </message>
     <message>
         <source>Delete this API key? The current key will immediately stop working.</source>

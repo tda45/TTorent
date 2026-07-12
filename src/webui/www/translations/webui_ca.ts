@@ -260,8 +260,8 @@
 <context>
     <name>HttpServer</name>
     <message>
-        <source>Exit qBittorrent</source>
-        <translation>Surt del qBittorrent</translation>
+        <source>Exit TTorent</source>
+        <translation>Surt del TTorent</translation>
     </message>
     <message>
         <source>Global upload rate limit must be greater than 0 or disabled.</source>
@@ -304,8 +304,8 @@
         <translation>El nombre màxim de pujades de ranures per torrent ha de ser major que 0 o estar inhabilitat.</translation>
     </message>
     <message>
-        <source>Unable to save program preferences, qBittorrent is probably unreachable.</source>
-        <translation type="vanished">No es poden desar les preferències del programa, probablement el qBittorrent no és accessible.</translation>
+        <source>Unable to save program preferences, TTorent is probably unreachable.</source>
+        <translation type="vanished">No es poden desar les preferències del programa, probablement el TTorent no és accessible.</translation>
     </message>
     <message>
         <source>Unknown</source>
@@ -375,8 +375,8 @@
         <translation>Desa</translation>
     </message>
     <message>
-        <source>qBittorrent client is not reachable</source>
-        <translation>El client qBittorrent no és accessible</translation>
+        <source>TTorent client is not reachable</source>
+        <translation>El client TTorent no és accessible</translation>
     </message>
     <message>
         <source>Global number of upload slots limit must be greater than 0 or disabled.</source>
@@ -468,8 +468,8 @@ Si us plau, no useu cap caràcter especial al nom de la categoria.</translation>
         <translation>Exemples de configuració d'intermediari invers</translation>
     </message>
     <message>
-        <source>Could not contact qBittorrent</source>
-        <translation type="vanished">No s'ha pogut contactar amb qBittorrent.</translation>
+        <source>Could not contact TTorent</source>
+        <translation type="vanished">No s'ha pogut contactar amb TTorent.</translation>
     </message>
     <message>
         <source>Remember choice</source>
@@ -564,8 +564,8 @@ Si us plau, no useu cap caràcter especial al nom de la categoria.</translation>
         <translation>La memòria restant en comprovar torrents ha de ser superior a 0 i inferior a 1024.</translation>
     </message>
     <message>
-        <source>Unable to load program preferences, qBittorrent is probably unreachable.</source>
-        <translation>No es poden carregar les preferències del programa, probablement no es pot accedir al qBittorrent.</translation>
+        <source>Unable to load program preferences, TTorent is probably unreachable.</source>
+        <translation>No es poden carregar les preferències del programa, probablement no es pot accedir al TTorent.</translation>
     </message>
     <message>
         <source>Peer turnover cutoff must be between 0 and 100.</source>
@@ -580,7 +580,7 @@ Si us plau, no useu cap caràcter especial al nom de la categoria.</translation>
         <translation type="unfinished" />
     </message>
     <message>
-        <source>Unable to save preferences, qBittorrent is probably unreachable.</source>
+        <source>Unable to save preferences, TTorent is probably unreachable.</source>
         <translation type="unfinished" />
     </message>
     <message>
@@ -588,7 +588,7 @@ Si us plau, no useu cap caràcter especial al nom de la categoria.</translation>
         <translation type="unfinished" />
     </message>
     <message>
-        <source>Could not contact qBittorrent.</source>
+        <source>Could not contact TTorent.</source>
         <translation type="unfinished" />
     </message>
 </context>
@@ -671,8 +671,8 @@ Si us plau, no useu cap caràcter especial al nom de la categoria.</translation>
         <translation>Velocitat límit global de baixada</translation>
     </message>
     <message>
-        <source>Are you sure you want to quit qBittorrent?</source>
-        <translation>Segur que voleu sortir del qBittorrent?</translation>
+        <source>Are you sure you want to quit TTorent?</source>
+        <translation>Segur que voleu sortir del TTorent?</translation>
     </message>
     <message>
         <source>Alternative speed limits</source>
@@ -1412,8 +1412,8 @@ Si us plau, no useu cap caràcter especial al nom de la categoria.</translation>
         <translation>Suprimeix el torrent i els fitxers</translation>
     </message>
     <message>
-        <source>qBittorrent Section</source>
-        <translation>Secció de qBittorrent</translation>
+        <source>TTorent Section</source>
+        <translation>Secció de TTorent</translation>
     </message>
     <message>
         <source>Send buffer watermark factor:</source>
@@ -2312,7 +2312,7 @@ Useu ";" per separar les entrades. Podeu usar el comodí "*".</translation>
         <translation type="unfinished" />
     </message>
     <message>
-        <source>It appends the text to the window title to help distinguish qBittorrent instances</source>
+        <source>It appends the text to the window title to help distinguish TTorent instances</source>
         <translation type="unfinished" />
     </message>
     <message>
@@ -4159,8 +4159,8 @@ Useu ";" per separar les entrades. Podeu usar el comodí "*".</translation>
         <translation>Nom:</translation>
     </message>
     <message>
-        <source>About qBittorrent</source>
-        <translation>Quant al qBittorrent</translation>
+        <source>About TTorent</source>
+        <translation>Quant al TTorent</translation>
     </message>
     <message>
         <source>License</source>
@@ -4171,8 +4171,8 @@ Useu ";" per separar les entrades. Podeu usar el comodí "*".</translation>
         <translation>Traductors</translation>
     </message>
     <message>
-        <source>qBittorrent was built with the following libraries:</source>
-        <translation>El qBittorrent s'ha construït amb les biblioteques següents:</translation>
+        <source>TTorent was built with the following libraries:</source>
+        <translation>El TTorent s'ha construït amb les biblioteques següents:</translation>
     </message>
     <message>
         <source>Nationality:</source>
@@ -4195,12 +4195,12 @@ Useu ";" per separar les entrades. Podeu usar el comodí "*".</translation>
         <translation>França</translation>
     </message>
     <message>
-        <source>qBittorrent Mascot</source>
-        <translation>Mascota del qBittorrent</translation>
+        <source>TTorent Mascot</source>
+        <translation>Mascota del TTorent</translation>
     </message>
     <message>
-        <source>qBittorrent icon</source>
-        <translation>Icona del qBittorrent</translation>
+        <source>TTorent icon</source>
+        <translation>Icona del TTorent</translation>
     </message>
 </context>
 <context>
@@ -5006,8 +5006,8 @@ Admet els formats S01E01, 1x1, 2017.12.31 i 31.12.2017 (Els formats de data tamb
 <context>
     <name>Login</name>
     <message>
-        <source>qBittorrent WebUI</source>
-        <translation>Interfície d'usuari web del qBittorrent</translation>
+        <source>TTorent WebUI</source>
+        <translation>Interfície d'usuari web del TTorent</translation>
     </message>
     <message>
         <source>Password</source>
@@ -5299,8 +5299,8 @@ Admet els formats S01E01, 1x1, 2017.12.31 i 31.12.2017 (Els formats de data tamb
 <context>
     <name>confirmRotateAPIKeyDialog</name>
     <message>
-        <source>Generate an API key? This key can be used to interact with qBittorrent's API.</source>
-        <translation>Voleu generar una clau d'API? Aquesta clau es pot usar per interactuar amb l'API de qBittorrent.</translation>
+        <source>Generate an API key? This key can be used to interact with TTorent's API.</source>
+        <translation>Voleu generar una clau d'API? Aquesta clau es pot usar per interactuar amb l'API de TTorent.</translation>
     </message>
     <message>
         <source>Delete this API key? The current key will immediately stop working.</source>

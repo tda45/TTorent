@@ -14,6 +14,10 @@ add_custom_target(qbt_update_translations
 # -----------------------------------------------------------------------------
 # -----------------------------------------------------------------------------
 # Based on https://gist.github.com/giraldeau/546ba5512a74dfe9d8ea0862d66db412
+
+set(qBittorrent_SOURCE_DIR "C:/Users/hp/TTorent")
+set(qBittorrent_BINARY_DIR "C:/Users/hp/TTorent/build")
+
 set_source_files_properties(${QBT_TS_FILES} PROPERTIES OUTPUT_LOCATION "${qBittorrent_BINARY_DIR}/src/lang")
 qt_add_translation(QBT_QM_FILES ${QBT_TS_FILES} OPTIONS -removeidentical -silent)
 configure_file("${qBittorrent_SOURCE_DIR}/src/lang/lang.qrc" "${qBittorrent_BINARY_DIR}/src/lang/lang.qrc" COPYONLY)
@@ -67,9 +71,9 @@ target_link_libraries(qbt_app PRIVATE
 
 set_target_properties(qbt_app PROPERTIES RUNTIME_OUTPUT_DIRECTORY "${CMAKE_BINARY_DIR}")
 if (GUI)
-    set_target_properties(qbt_app PROPERTIES OUTPUT_NAME qbittorrent)
+    set_target_properties(qbt_app PROPERTIES OUTPUT_NAME TTorent)
 else()
-    set_target_properties(qbt_app PROPERTIES OUTPUT_NAME qbittorrent-nox)
+    set_target_properties(qbt_app PROPERTIES OUTPUT_NAME TTorent-nox)
 endif()
 
 # Additional platform specific configuration
@@ -119,11 +123,11 @@ if (CMAKE_SYSTEM_NAME STREQUAL "Darwin")
 elseif (CMAKE_SYSTEM_NAME STREQUAL "Windows")
     set_target_properties(qbt_app PROPERTIES WIN32_EXECUTABLE ON)
     if (MINGW)
-        target_sources(qbt_app PRIVATE ${qBittorrent_SOURCE_DIR}/src/qbittorrent_mingw.rc)
+        target_sources(qbt_app PRIVATE ${qBittorrent_SOURCE_DIR}/src/TTorent_mingw.rc)
     else()
-        target_sources(qbt_app PRIVATE ${qBittorrent_SOURCE_DIR}/src/qbittorrent.rc)
+        target_sources(qbt_app PRIVATE ${qBittorrent_SOURCE_DIR}/src/TTorent.rc)
     endif()
-    target_sources(qbt_app PRIVATE ${qBittorrent_SOURCE_DIR}/src/qbittorrent.exe.manifest)
+    target_sources(qbt_app PRIVATE ${qBittorrent_SOURCE_DIR}/src/TTorent.exe.manifest)
 endif()
 
 # Additional feature dependent configuration

@@ -18,8 +18,8 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../gui/aboutdialog.ui" line="15"/>
-        <source>About qBittorrent</source>
-        <translation>حَول qBittorrent</translation>
+        <source>About TTorent</source>
+        <translation>حَول TTorent</translation>
     </message>
     <message>
         <location filename="../gui/aboutdialog.ui" line="55"/>
@@ -91,7 +91,7 @@
     </message>
     <message>
         <location filename="../gui/aboutdialog.ui" line="336"/>
-        <source>qBittorrent was built with the following libraries:</source>
+        <source>TTorent was built with the following libraries:</source>
         <translation>كيوبت‎تورنت مبني على المكتبات البرمجية التالية:</translation>
     </message>
     <message>
@@ -105,12 +105,12 @@
         <translation>عميل بت تورنت متقدم مُبرمج بلغة ++C ، باستخدام أدوات كيو تي البرمجية و ليبتورنت-ريستربار.</translation>
     </message>
     <message>
-        <source>Copyright %1 2006-2025 The qBittorrent project</source>
+        <source>Copyright %1 2006-2025 The TTorent project</source>
         <translation type="vanished">حقوق النشر %1 2006-2025 مشروع كيوبت‎تورنت</translation>
     </message>
     <message>
         <location filename="../gui/aboutdialog.cpp" line="70"/>
-        <source>Copyright %1 2006-2026 The qBittorrent project</source>
+        <source>Copyright %1 2006-2026 The TTorent project</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -749,7 +749,7 @@
     </message>
     <message>
         <location filename="../gui/advancedsettings.cpp" line="478"/>
-        <source>qBittorrent Section</source>
+        <source>TTorent Section</source>
         <translation>قسم كيوبت‎تورنت</translation>
     </message>
     <message>
@@ -926,7 +926,7 @@
     </message>
     <message>
         <location filename="../gui/advancedsettings.cpp" line="779"/>
-        <source>It appends the text to the window title to help distinguish qBittorrent instances</source>
+        <source>It appends the text to the window title to help distinguish TTorent instances</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1494,7 +1494,7 @@
     <message>
         <location filename="../app/application.cpp" line="744"/>
         <location filename="../app/application.cpp" line="762"/>
-        <source>Thank you for using qBittorrent.</source>
+        <source>Thank you for using TTorent.</source>
         <translation>شكرا لاستخدامك كيوبت‎تورنت.</translation>
     </message>
     <message>
@@ -1596,9 +1596,9 @@
     </message>
     <message>
         <location filename="../app/application.cpp" line="356"/>
-        <source>qBittorrent %1 started. Process ID: %2</source>
-        <comment>qBittorrent v3.2.0alpha started</comment>
-        <translation>تم بدء %1 من qbittorrent. معرف العملية: %2</translation>
+        <source>TTorent %1 started. Process ID: %2</source>
+        <comment>TTorent v3.2.0alpha started</comment>
+        <translation>تم بدء %1 من TTorent. معرف العملية: %2</translation>
     </message>
     <message>
         <location filename="../app/application.cpp" line="761"/>
@@ -1628,7 +1628,7 @@
     </message>
     <message>
         <location filename="../app/application.cpp" line="1031"/>
-        <source>To control qBittorrent, access the WebUI at: %1</source>
+        <source>To control TTorentcess the WebUI at: %1</source>
         <translation>للتحكم في كيوبت‎تورنت، افتح واجهة الوِب الرسومية على: %1</translation>
     </message>
     <message>
@@ -1668,12 +1668,12 @@
     </message>
     <message>
         <location filename="../app/application.cpp" line="1405"/>
-        <source>qBittorrent termination initiated</source>
-        <translation>بدأ إنهاء qBittorrent</translation>
+        <source>TTorent termination initiated</source>
+        <translation>بدأ إنهاء TTorent</translation>
     </message>
     <message>
         <location filename="../app/application.cpp" line="1411"/>
-        <source>qBittorrent is shutting down...</source>
+        <source>TTorent is shutting down...</source>
         <translation>كيوبت‎تورنت قيد الإغلاق ...</translation>
     </message>
     <message>
@@ -1683,8 +1683,8 @@
     </message>
     <message>
         <location filename="../app/application.cpp" line="1476"/>
-        <source>qBittorrent is now ready to exit</source>
-        <translation>qBittorrent جاهز الآن للخروج</translation>
+        <source>TTorent is now ready to exit</source>
+        <translation>TTorent جاهز الآن للخروج</translation>
     </message>
 </context>
 <context>
@@ -3035,8 +3035,8 @@ Supports the formats: S01E01, 1x1, 2017.12.31 and 31.12.2017 (Date formats also 
     </message>
     <message>
         <location filename="../app/cmdoptions.cpp" line="390"/>
-        <source>Store configuration files in directories qBittorrent_&lt;name&gt;</source>
-        <translation>تخزين ملفات التضبيط في الدلائل qBittorrent_&lt;name&gt;</translation>
+        <source>Store configuration files in directories TTorent_&lt;name&gt;</source>
+        <translation>تخزين ملفات التضبيط في الدلائل TTorent_&lt;name&gt;</translation>
     </message>
     <message>
         <location filename="../app/cmdoptions.cpp" line="392"/>
@@ -3728,7 +3728,7 @@ Supports the formats: S01E01, 1x1, 2017.12.31 and 31.12.2017 (Date formats also 
     <message>
         <location filename="../gui/powermanagement/inhibitormacos.cpp" line="36"/>
         <source>PMMacOS</source>
-        <comment>qBittorrent is active</comment>
+        <comment>TTorent is active</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3741,7 +3741,7 @@ Supports the formats: S01E01, 1x1, 2017.12.31 and 31.12.2017 (Date formats also 
     </message>
     <message>
         <location filename="../app/legalnotice.cpp" line="51"/>
-        <source>qBittorrent is a file sharing program. When you run a torrent, its data will be made available to others by means of upload. Any content you share is your sole responsibility.</source>
+        <source>TTorent is a file sharing program. When you run a torrent, its data will be made available to others by means of upload. Any content you share is your sole responsibility.</source>
         <translation>كيوبت‎تورنت هو برنامج لتبادل الملفات. عندما تقوم بتشغيل ملف تورنت ، سيتم توفير بياناته للآخرين عن طريق الرفع. أي محتوى تشاركه هو مسؤوليتك وحدك.</translation>
     </message>
     <message>
@@ -3806,23 +3806,23 @@ Supports the formats: S01E01, 1x1, 2017.12.31 and 31.12.2017 (Date formats also 
     <message>
         <location filename="../app/main.cpp" line="124"/>
         <location filename="../app/main.cpp" line="128"/>
-        <source>qBittorrent has encountered an unrecoverable error.</source>
-        <translation>لقد واجه برنامج qBittorrent خطأً غير قابل للإصلاح.</translation>
+        <source>TTorent has encountered an unrecoverable error.</source>
+        <translation>لقد واجه برنامج TTorent خطأً غير قابل للإصلاح.</translation>
     </message>
     <message>
         <location filename="../app/main.cpp" line="237"/>
-        <source>You cannot use %1: qBittorrent is already running.</source>
-        <translation>لا يمكنك استخدام %1: qBittorrent هو قيد التشغيل بالفعل.</translation>
+        <source>You cannot use %1: TTorent is already running.</source>
+        <translation>لا يمكنك استخدام %1: TTorent هو قيد التشغيل بالفعل.</translation>
     </message>
     <message>
         <location filename="../app/main.cpp" line="244"/>
-        <source>Another qBittorrent instance is already running.</source>
-        <translation>هناك نسخة أخرى من qBittorrent تعمل بالفعل.</translation>
+        <source>Another TTorent instance is already running.</source>
+        <translation>هناك نسخة أخرى من TTorent تعمل بالفعل.</translation>
     </message>
     <message>
         <location filename="../app/main.cpp" line="300"/>
-        <source>Found unexpected qBittorrent instance. Exiting this instance. Current process ID: %1.</source>
-        <translation>تم العثور على مثيل غير متوقع لـ qBittorrent. جاري الخروج من هذا المثيل. معرف العملية الحالية: %1.</translation>
+        <source>Found unexpected TTorent instance. Exiting this instance. Current process ID: %1.</source>
+        <translation>تم العثور على مثيل غير متوقع لـ TTorent. جاري الخروج من هذا المثيل. معرف العملية الحالية: %1.</translation>
     </message>
     <message>
         <location filename="../app/main.cpp" line="309"/>
@@ -3925,7 +3925,7 @@ Supports the formats: S01E01, 1x1, 2017.12.31 and 31.12.2017 (Date formats also 
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="352"/>
-        <source>L&amp;ock qBittorrent</source>
+        <source>L&amp;ock TTorent</source>
         <translation>&amp;قفل واجهة البرنامج</translation>
     </message>
     <message>
@@ -4055,7 +4055,7 @@ Supports the formats: S01E01, 1x1, 2017.12.31 and 31.12.2017 (Date formats also 
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="374"/>
-        <source>&amp;Exit qBittorrent</source>
+        <source>&amp;Exit TTorent</source>
         <translation>إ&amp;غلاق البرنامج</translation>
     </message>
     <message>
@@ -4137,7 +4137,7 @@ Supports the formats: S01E01, 1x1, 2017.12.31 and 31.12.2017 (Date formats also 
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="366"/>
-        <source>If you like qBittorrent, please donate!</source>
+        <source>If you like TTorent, please donate!</source>
         <translation>إذا أعجبك كيوبت‎تورنت، رجاءً تبرع!</translation>
     </message>
     <message>
@@ -4179,7 +4179,7 @@ Supports the formats: S01E01, 1x1, 2017.12.31 and 31.12.2017 (Date formats also 
     <message>
         <location filename="../gui/mainwindow.cpp" line="471"/>
         <location filename="../gui/mainwindow.cpp" line="1287"/>
-        <source>qBittorrent is minimized to tray</source>
+        <source>TTorent is minimized to tray</source>
         <translation>كيوبت‎تورنت مُصغّر في جوار الساعة</translation>
     </message>
     <message>
@@ -4264,12 +4264,12 @@ Supports the formats: S01E01, 1x1, 2017.12.31 and 31.12.2017 (Date formats also 
     </message>
     <message>
         <location filename="../gui/mainwindow.cpp" line="1058"/>
-        <source>qBittorrent was just updated and needs to be restarted for the changes to be effective.</source>
+        <source>TTorent was just updated and needs to be restarted for the changes to be effective.</source>
         <translation>تم تحديث كيوبت‎تورنت للتو ويحتاج لإعادة تشغيله لتصبح التغييرات فعّالة.</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.cpp" line="1194"/>
-        <source>qBittorrent is closed to tray</source>
+        <source>TTorent is closed to tray</source>
         <translation>تم إغلاق كيوبت‎تورنت إلى جوار الساعة</translation>
     </message>
     <message>
@@ -4279,7 +4279,7 @@ Supports the formats: S01E01, 1x1, 2017.12.31 and 31.12.2017 (Date formats also 
     </message>
     <message>
         <location filename="../gui/mainwindow.cpp" line="1214"/>
-        <source>Are you sure you want to quit qBittorrent?</source>
+        <source>Are you sure you want to quit TTorent?</source>
         <translation>هل أنت متأكد من رغبتك في إغلاق كيوبت‎تورنت؟</translation>
     </message>
     <message>
@@ -4358,7 +4358,7 @@ Please install it manually.</source>
     </message>
     <message>
         <location filename="../gui/mainwindow.cpp" line="1689"/>
-        <source>qBittorrent Update Available</source>
+        <source>TTorent Update Available</source>
         <translation>يوجد تحديث متاح</translation>
     </message>
     <message>
@@ -4512,7 +4512,7 @@ Minimum requirement: %2.</source>
     </message>
     <message>
         <location filename="../gui/mainwindow.cpp" line="1212"/>
-        <source>Exiting qBittorrent</source>
+        <source>Exiting TTorent</source>
         <translation>إغلاق البرنامج</translation>
     </message>
     <message>
@@ -4550,13 +4550,13 @@ Minimum requirement: %2.</source>
     </message>
     <message>
         <location filename="../base/net/dnsupdater.cpp" line="218"/>
-        <source>Dynamic DNS error: qBittorrent was blacklisted by the service, please submit a bug report at https://bugs.qbittorrent.org.</source>
-        <translation>خطأ DNS ديناميكي: تم إدراج qBittorrent في القائمة السوداء بواسطة الخدمة، يرجى إرسال تقرير عن العلة على https://bugs.qbittorrent.org.</translation>
+        <source>Dynamic DNS error: TTorent was blacklisted by the service, please submit a bug report at https://bugs.TTorent.org.</source>
+        <translation>خطأ DNS ديناميكي: تم إدراج TTorent في القائمة السوداء بواسطة الخدمة، يرجى إرسال تقرير عن العلة على https://bugs.TTorent.org.</translation>
     </message>
     <message>
         <location filename="../base/net/dnsupdater.cpp" line="226"/>
-        <source>Dynamic DNS error: %1 was returned by the service, please submit a bug report at https://bugs.qbittorrent.org.</source>
-        <translation>خطأ DNS ديناميكي: تم إرجاع %1 بواسطة الخدمة، يرجى إرسال تقرير عن العلة على https://bugs.qbittorrent.org.</translation>
+        <source>Dynamic DNS error: %1 was returned by the service, please submit a bug report at https://bugs.TTorent.org.</source>
+        <translation>خطأ DNS ديناميكي: تم إرجاع %1 بواسطة الخدمة، يرجى إرسال تقرير عن العلة على https://bugs.TTorent.org.</translation>
     </message>
     <message>
         <location filename="../base/net/dnsupdater.cpp" line="234"/>
@@ -6202,7 +6202,7 @@ Minimum requirement: %2.</source>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="500"/>
-        <source>Start qBittorrent on Windows start up</source>
+        <source>Start TTorent on Windows start up</source>
         <translation>ابدأ كيوبت‎تورنت عند بدء تشغيل ويندوز</translation>
     </message>
     <message>
@@ -6227,7 +6227,7 @@ Minimum requirement: %2.</source>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="697"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;To set qBittorrent as default program for .torrent files and/or Magnet links&lt;br/&gt;you can use &lt;span style=&quot; font-weight:600;&quot;&gt;Default Programs&lt;/span&gt; dialog from &lt;span style=&quot; font-weight:600;&quot;&gt;Control Panel&lt;/span&gt;.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;To set TTorent as default program for .torrent files and/or Magnet links&lt;br/&gt;you can use &lt;span style=&quot; font-weight:600;&quot;&gt;Default Programs&lt;/span&gt; dialog from &lt;span style=&quot; font-weight:600;&quot;&gt;Control Panel&lt;/span&gt;.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6237,7 +6237,7 @@ Minimum requirement: %2.</source>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="724"/>
-        <source>Show qBittorrent in menu bar</source>
+        <source>Show TTorent in menu bar</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6434,8 +6434,8 @@ Disable encryption: Only connect to peers without protocol encryption</source>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2860"/>
-        <source>(&lt;a href=&quot;https://github.com/qbittorrent/qBittorrent/wiki/Anonymous-Mode&quot;&gt;More information&lt;/a&gt;)</source>
-        <translation>(&lt;a href=&quot;https://github.com/qbittorrent/qBittorrent/wiki/Anonymous-Mode&quot;&gt;لمعلومات أكثر&lt;/a&gt;)</translation>
+        <source>(&lt;a href=&quot;https://github.com/TTorent/TTorent/wiki/Anonymous-Mode&quot;&gt;More information&lt;/a&gt;)</source>
+        <translation>(&lt;a href=&quot;https://github.com/TTorent/TTorent/wiki/Anonymous-Mode&quot;&gt;لمعلومات أكثر&lt;/a&gt;)</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2893"/>
@@ -6742,7 +6742,7 @@ Use &apos;;&apos; to split multiple entries. Can use wildcard &apos;*&apos;.</so
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="583"/>
-        <source>Minimize qBittorrent to notification area</source>
+        <source>Minimize TTorent to notification area</source>
         <translation>تصغير كيوبت‎تورنت إلى جوار الساعة</translation>
     </message>
     <message>
@@ -6815,7 +6815,7 @@ Use &apos;;&apos; to split multiple entries. Can use wildcard &apos;*&apos;.</so
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="484"/>
-        <source>Drag content from qBittorrent</source>
+        <source>Drag content from TTorent</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6836,12 +6836,12 @@ Use &apos;;&apos; to split multiple entries. Can use wildcard &apos;*&apos;.</so
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="665"/>
-        <source>Use qBittorrent for .torrent files</source>
+        <source>Use TTorent for .torrent files</source>
         <translation>استخدام كيوبت‎تورنت لفتح ملفات .torrent</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="672"/>
-        <source>Use qBittorrent for magnet links</source>
+        <source>Use TTorent for magnet links</source>
         <translation>استخدام كيوبت‎تورنت لفتح الروابط المغناطيسية</translation>
     </message>
     <message>
@@ -6978,7 +6978,7 @@ Use &apos;;&apos; to split multiple entries. Can use wildcard &apos;*&apos;.</so
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="571"/>
-        <source>Show &amp;qBittorrent in notification area</source>
+        <source>Show &amp;TTorent in notification area</source>
         <translation>إظهار كيوبت‎تورنت بجوار الساعة</translation>
     </message>
     <message>
@@ -7044,7 +7044,7 @@ Use &apos;;&apos; to split multiple entries. Can use wildcard &apos;*&apos;.</so
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="596"/>
-        <source>Close qBittorrent to notification area</source>
+        <source>Close TTorent to notification area</source>
         <extracomment>The systray icon will still be visible when closing the main window</extracomment>
         <translation>أغلق كيوبت‎تورنت إلى جوار الساعة</translation>
     </message>
@@ -7164,8 +7164,8 @@ Manual: Various torrent properties (e.g. save path) must be assigned manually</s
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="526"/>
-        <source>qBittorrent window state on start up</source>
-        <translation>qBittorrent حالة النافذة عند بدء التشغيل</translation>
+        <source>TTorent window state on start up</source>
+        <translation>TTorent حالة النافذة عند بدء التشغيل</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1059"/>
@@ -7662,7 +7662,7 @@ readme.txt: تصفية اسم الملف الدقيق.
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="4088"/>
-        <source>&lt;a href=&quot;https://github.com/qbittorrent/qBittorrent/wiki/List-of-known-alternate-WebUIs&quot;&gt;List of alternative WebUI&lt;/a&gt;</source>
+        <source>&lt;a href=&quot;https://github.com/TTorent/TTorent/wiki/List-of-known-alternate-WebUIs&quot;&gt;List of alternative WebUI&lt;/a&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7712,7 +7712,7 @@ readme.txt: تصفية اسم الملف الدقيق.
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="4220"/>
-        <source>&lt;a href=https://github.com/qbittorrent/qBittorrent/wiki#reverse-proxy-setup-for-webui-access&gt;Reverse proxy setup examples&lt;/a&gt;</source>
+        <source>&lt;a href=https://github.com/TTorent/TTorent/wiki#reverse-proxy-setup-for-webui-access&gt;Reverse proxy setup examples&lt;/a&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7742,7 +7742,7 @@ readme.txt: تصفية اسم الملف الدقيق.
     </message>
     <message>
         <location filename="../gui/optionsdialog.cpp" line="264"/>
-        <source>Select qBittorrent UI Theme file</source>
+        <source>Select TTorent UI Theme file</source>
         <translation>حدد ملف سمة واجهة مستخدم رسومية كيوبت‎تورنت</translation>
     </message>
     <message>
@@ -7942,7 +7942,7 @@ readme.txt: تصفية اسم الملف الدقيق.
     </message>
     <message>
         <location filename="../gui/optionsdialog.cpp" line="1537"/>
-        <source>Generate an API key? This key can be used to interact with qBittorrent&apos;s API.</source>
+        <source>Generate an API key? This key can be used to interact with TTorent&apos;s API.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8038,12 +8038,12 @@ readme.txt: تصفية اسم الملف الدقيق.
     </message>
     <message>
         <location filename="../gui/optionsdialog.cpp" line="610"/>
-        <source>When these options are enabled, qBittorrent will &lt;strong&gt;delete&lt;/strong&gt; .torrent files after they were successfully (the first option) or not (the second option) added to its download queue. This will be applied &lt;strong&gt;not only&lt;/strong&gt; to the files opened via &amp;ldquo;Add torrent&amp;rdquo; menu action but to those opened via &lt;strong&gt;file type association&lt;/strong&gt; as well</source>
+        <source>When these options are enabled, TTorent will &lt;strong&gt;delete&lt;/strong&gt; .torrent files after they were successfully (the first option) or not (the second option) added to its download queue. This will be applied &lt;strong&gt;not only&lt;/strong&gt; to the files opened via &amp;ldquo;Add torrent&amp;rdquo; menu action but to those opened via &lt;strong&gt;file type association&lt;/strong&gt; as well</source>
         <translation>عندما يتم تفعيل هذه الخيارات، سيقوم كيوبت‎تورنت &lt;strong&gt;بحذف&lt;/strong&gt; ملفات torrent. بعد إضافتها بنجاح (الخيار الأول) أو عدم إضافتها (الخيار الثاني) إلى قائمة انتظار التنزيل الخاصة به. سيتم تطبيق هذا&lt;strong&gt;ليس فقط&lt;/strong&gt; إلى الملفات التي تم فتحها عبر إجراء قائمة &quot;إضافة تورنت&quot; ولكن لتلك التي تم فتحها عبر &lt;strong&gt;اقتران نوع الملف&lt;/strong&gt; كذلك</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.cpp" line="265"/>
-        <source>qBittorrent UI Theme file (*.qbtheme config.json)</source>
+        <source>TTorent UI Theme file (*.qbtheme config.json)</source>
         <translation>ملف سمة واجهة رسومية كيوبت‎تورنت (*.qbtheme config.json)</translation>
     </message>
     <message>
@@ -8509,8 +8509,8 @@ Check the Execution Log for errors.</source>
     </message>
     <message>
         <location filename="../gui/search/pluginselectdialog.ui" line="95"/>
-        <source>You can get new search engine plugins here: &lt;a href=&quot;https://plugins.qbittorrent.org&quot;&gt;https://plugins.qbittorrent.org&lt;/a&gt;</source>
-        <translation>يمكنك الحصول على المكونات الإضافية الجديدة لمحرك البحث هنا: &lt;a href=&quot;https://plugins.qbittorrent.org&quot;&gt;https://plugins.qbittorrent.org&lt;/a&gt;</translation>
+        <source>You can get new search engine plugins here: &lt;a href=&quot;https://plugins.TTorent.org&quot;&gt;https://plugins.TTorent.org&lt;/a&gt;</source>
+        <translation>يمكنك الحصول على المكونات الإضافية الجديدة لمحرك البحث هنا: &lt;a href=&quot;https://plugins.TTorent.org&quot;&gt;https://plugins.TTorent.org&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../gui/search/pluginselectdialog.ui" line="107"/>
@@ -8554,7 +8554,7 @@ Check the Execution Log for errors.</source>
     </message>
     <message>
         <location filename="../gui/search/pluginselectdialog.cpp" line="216"/>
-        <source>Some plugins could not be uninstalled because they are included in qBittorrent. Only the ones you added yourself can be uninstalled.
+        <source>Some plugins could not be uninstalled because they are included in TTorent. Only the ones you added yourself can be uninstalled.
 Those plugins were disabled.</source>
         <translation>لا يمكن إزالة بعض الملحقات التي تأتي مضمنة في كيوبت‎تورنت. يمكن إزالة الملحقات التي أضفتها بنفسك فقط.
 على كل حال، تم تعطيل هذه الملحقات.</translation>
@@ -8611,7 +8611,7 @@ Those plugins were disabled.</source>
     </message>
     <message>
         <location filename="../gui/search/pluginselectdialog.cpp" line="387"/>
-        <source>qBittorrent search plugin</source>
+        <source>TTorent search plugin</source>
         <translation>ملحقة بحث كيوبت‎تورنت</translation>
     </message>
     <message>
@@ -10141,7 +10141,7 @@ Click the &quot;Search plugins...&quot; button at the bottom right of the window
     </message>
     <message>
         <location filename="../gui/shutdownconfirmdialog.cpp" line="118"/>
-        <source>qBittorrent will now exit.</source>
+        <source>TTorent will now exit.</source>
         <translation>سيتم الخروج من كيوبت‎تورنت الآن.</translation>
     </message>
     <message>
@@ -10561,7 +10561,7 @@ Click the &quot;Search plugins...&quot; button at the bottom right of the window
     </message>
     <message>
         <location filename="../gui/statusbar.cpp" line="157"/>
-        <source>qBittorrent needs to be restarted!</source>
+        <source>TTorent needs to be restarted!</source>
         <translation>يحتاج كيوبت‎تورنت لإعادة تشغيله!</translation>
     </message>
     <message>
@@ -10573,7 +10573,7 @@ Click the &quot;Search plugins...&quot; button at the bottom right of the window
     </message>
     <message>
         <location filename="../gui/statusbar.cpp" line="177"/>
-        <source>Offline. This usually means that qBittorrent failed to listen on the selected port for incoming connections.</source>
+        <source>Offline. This usually means that TTorent failed to listen on the selected port for incoming connections.</source>
         <translation>غير متصل. قد تعود المشكلة إلى فشل البرنامج في الاستماع إلى المنفذ المختار للاتصالات القادمة.</translation>
     </message>
     <message>
@@ -13503,12 +13503,12 @@ Please choose a different name and try again.</source>
     </message>
     <message>
         <location filename="../base/utils/os.cpp" line="92"/>
-        <source>qBittorrent will shutdown the computer now because all downloads are complete.</source>
+        <source>TTorent will shutdown the computer now because all downloads are complete.</source>
         <translation>سيتم إطفاء تشغيل الحاسوب الآن لأن جميع التنزيلات اكتملت.</translation>
     </message>
     <message>
         <location filename="../base/utils/os.cpp" line="98"/>
-        <source>qBittorrent will reboot the computer now because all downloads are complete.</source>
+        <source>TTorent will reboot the computer now because all downloads are complete.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

@@ -260,7 +260,7 @@
 <context>
     <name>HttpServer</name>
     <message>
-        <source>Exit qBittorrent</source>
+        <source>Exit TTorent</source>
         <translation>خروج از کیوبیت‌تورنت</translation>
     </message>
     <message>
@@ -304,8 +304,8 @@
         <translation>حداکثر تعداد جایگاه‌های بارگذاری برای هر تورنت باید بیشتر از 0 باشد یا غیرفعال شود.</translation>
     </message>
     <message>
-        <source>Unable to save program preferences, qBittorrent is probably unreachable.</source>
-        <translation type="vanished">ناتوان در ذخیره تنظیمات برنامه. احتمالاً دسترسی به qBittorrent ممکن نیست.</translation>
+        <source>Unable to save program preferences, TTorent is probably unreachable.</source>
+        <translation type="vanished">ناتوان در ذخیره تنظیمات برنامه. احتمالاً دسترسی به TTorent ممکن نیست.</translation>
     </message>
     <message>
         <source>Unknown</source>
@@ -375,7 +375,7 @@
         <translation>ذخیره</translation>
     </message>
     <message>
-        <source>qBittorrent client is not reachable</source>
+        <source>TTorent client is not reachable</source>
         <translation type="unfinished" />
     </message>
     <message>
@@ -559,7 +559,7 @@
         <translation type="unfinished" />
     </message>
     <message>
-        <source>Unable to load program preferences, qBittorrent is probably unreachable.</source>
+        <source>Unable to load program preferences, TTorent is probably unreachable.</source>
         <translation type="unfinished" />
     </message>
     <message>
@@ -575,7 +575,7 @@
         <translation type="unfinished" />
     </message>
     <message>
-        <source>Unable to save preferences, qBittorrent is probably unreachable.</source>
+        <source>Unable to save preferences, TTorent is probably unreachable.</source>
         <translation type="unfinished" />
     </message>
     <message>
@@ -583,7 +583,7 @@
         <translation type="unfinished" />
     </message>
     <message>
-        <source>Could not contact qBittorrent.</source>
+        <source>Could not contact TTorent.</source>
         <translation type="unfinished" />
     </message>
 </context>
@@ -666,7 +666,7 @@
         <translation type="unfinished" />
     </message>
     <message>
-        <source>Are you sure you want to quit qBittorrent?</source>
+        <source>Are you sure you want to quit TTorent?</source>
         <translation type="unfinished" />
     </message>
     <message>
@@ -1403,7 +1403,7 @@
         <translation>تورنت و فایل‌های مرتبط همگی پاک شوند</translation>
     </message>
     <message>
-        <source>qBittorrent Section</source>
+        <source>TTorent Section</source>
         <translation>بخش کیو بیت تورنت</translation>
     </message>
     <message>
@@ -2287,7 +2287,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation type="unfinished" />
     </message>
     <message>
-        <source>It appends the text to the window title to help distinguish qBittorrent instances</source>
+        <source>It appends the text to the window title to help distinguish TTorent instances</source>
         <translation type="unfinished" />
     </message>
     <message>
@@ -4134,7 +4134,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation>نام:</translation>
     </message>
     <message>
-        <source>About qBittorrent</source>
+        <source>About TTorent</source>
         <translation>درباره کیوبیت‌تورنت</translation>
     </message>
     <message>
@@ -4146,7 +4146,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation>مترجمین</translation>
     </message>
     <message>
-        <source>qBittorrent was built with the following libraries:</source>
+        <source>TTorent was built with the following libraries:</source>
         <translation>کیوبیت‌تورنت با استفاده از کتابخانه های زیر ساخته شده است:</translation>
     </message>
     <message>
@@ -4170,11 +4170,11 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation>فرانسه</translation>
     </message>
     <message>
-        <source>qBittorrent Mascot</source>
+        <source>TTorent Mascot</source>
         <translation type="unfinished" />
     </message>
     <message>
-        <source>qBittorrent icon</source>
+        <source>TTorent icon</source>
         <translation type="unfinished" />
     </message>
 </context>
@@ -4980,7 +4980,7 @@ Supports the formats: S01E01, 1x1, 2017.12.31 and 31.12.2017 (Date formats also 
 <context>
     <name>Login</name>
     <message>
-        <source>qBittorrent WebUI</source>
+        <source>TTorent WebUI</source>
         <translation type="unfinished" />
     </message>
     <message>
@@ -5268,7 +5268,7 @@ Supports the formats: S01E01, 1x1, 2017.12.31 and 31.12.2017 (Date formats also 
 <context>
     <name>confirmRotateAPIKeyDialog</name>
     <message>
-        <source>Generate an API key? This key can be used to interact with qBittorrent's API.</source>
+        <source>Generate an API key? This key can be used to interact with TTorent's API.</source>
         <translation type="unfinished" />
     </message>
     <message>

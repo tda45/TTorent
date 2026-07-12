@@ -85,10 +85,10 @@ void ProgramUpdater::checkForUpdates()
 {
     // Don't change this User-Agent. In case our updater goes haywire,
     // the filehost can identify it and contact us.
-    const auto USER_AGENT = QStringLiteral("qBittorrent/" QBT_VERSION_2 " ProgramUpdater (www.qbittorrent.org)");
+    const auto USER_AGENT = QStringLiteral("TTorent/" QBT_VERSION_2 " ProgramUpdater (github.com/tda45/TTorent)");
     const auto FOSSHUB_URL = u"https://www.fosshub.com/feed/5b8793a7f9ee5a5c3e97a3b2.xml"_s;
-    const auto QBT_MAIN_URL = u"https://www.qbittorrent.org/versions.json"_s;
-    const auto QBT_BACKUP_URL = u"https://qbittorrent.github.io/qBittorrent-website/versions.json"_s;
+    const auto QBT_MAIN_URL = u"https://github.com/tda45/TTorent/releases.atom"_s;
+    const auto QBT_BACKUP_URL = u"https://github.com/tda45/TTorent/releases.atom"_s;
 
     Net::DownloadManager *netManager = Net::DownloadManager::instance();
     const bool useProxy = Preferences::instance()->useProxyForGeneralPurposes();
@@ -226,9 +226,9 @@ bool ProgramUpdater::updateProgram() const
     case RemoteSource::Fosshub:
         return QDesktopServices::openUrl(m_updateURL);
     case RemoteSource::QbtMain:
-        return QDesktopServices::openUrl(u"https://www.qbittorrent.org/download"_s);
+        return QDesktopServices::openUrl(u"https://github.com/tda45/TTorent/releases"_s);
     case RemoteSource::QbtBackup:
-        return QDesktopServices::openUrl(u"https://qbittorrent.github.io/qBittorrent-website/download"_s);
+        return QDesktopServices::openUrl(u"https://github.com/tda45/TTorent/releases"_s);
     }
     Q_UNREACHABLE();
 }

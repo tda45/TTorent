@@ -12,7 +12,7 @@
    </rect>
   </property>
   <property name="windowTitle">
-   <string>About qBittorrent</string>
+   <string>About TTorent</string>
   </property>
   <layout class="QVBoxLayout" name="aboutDlgLayout">
    <item>
@@ -23,7 +23,7 @@
      <item>
       <widget class="QLabel" name="labelName">
        <property name="text">
-        <string notr="true">qBittorrent</string>
+        <string notr="true">TTorent</string>
        </property>
        <property name="textInteractionFlags">
         <set>Qt::TextInteractionFlag::LinksAccessibleByMouse|Qt::TextInteractionFlag::TextSelectableByKeyboard|Qt::TextInteractionFlag::TextSelectableByMouse</set>
@@ -103,7 +103,7 @@
           <item row="0" column="1">
            <widget class="QLabel" name="label_17">
             <property name="text">
-             <string notr="true">Sledgehammer999</string>
+             <string notr="true">tda_45</string>
             </property>
            </widget>
           </item>
@@ -117,21 +117,21 @@
           <item row="1" column="1">
            <widget class="QLabel" name="label_18">
             <property name="text">
-             <string>Greece</string>
+             <string>Turkey</string>
             </property>
            </widget>
           </item>
           <item row="2" column="0">
            <widget class="QLabel" name="label_16">
             <property name="text">
-             <string>E-mail:</string>
+             <string>E-mail:tahadikbas45@gmail.com</string>
             </property>
            </widget>
           </item>
           <item row="2" column="1">
            <widget class="QLabel" name="label_19">
             <property name="text">
-             <string notr="true">&lt;a href=&quot;mailto:sledgehammer999@qbittorrent.org&quot;&gt;sledgehammer999@qbittorrent.org&lt;/a&gt;</string>
+             <string notr="true">&lt;a href=&quot;mailto:tahadikbas45@gmail.com&lt;/a&gt;</string>
             </property>
             <property name="openExternalLinks">
              <bool>true</bool>
@@ -201,7 +201,7 @@
           <item row="2" column="1">
            <widget class="QLabel" name="label_6">
             <property name="text">
-             <string notr="true">&lt;a href=&quot;mailto:chris@qbittorrent.org&quot;&gt;chris@qbittorrent.org&lt;/a&gt;</string>
+             <string notr="true">&lt;a href=&quot;mailto:tahadikbas45@gmail.com&lt;/a&gt;</string>
             </property>
             <property name="openExternalLinks">
              <bool>true</bool>
@@ -333,7 +333,7 @@
          <item>
           <widget class="QLabel" name="label">
            <property name="text">
-            <string>qBittorrent was built with the following libraries:</string>
+            <string>TTorent was built with the following libraries:</string>
            </property>
           </widget>
          </item>

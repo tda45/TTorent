@@ -48,7 +48,7 @@ using namespace std::chrono_literals;
 SettingsStorage *SettingsStorage::m_instance = nullptr;
 
 SettingsStorage::SettingsStorage()
-    : m_nativeSettingsName {u"qBittorrent"_s}
+    : m_nativeSettingsName {u"TTorent"_s}
 {
     readNativeSettings();
 

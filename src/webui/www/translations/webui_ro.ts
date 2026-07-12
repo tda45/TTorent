@@ -260,8 +260,8 @@
 <context>
     <name>HttpServer</name>
     <message>
-        <source>Exit qBittorrent</source>
-        <translation>Închide qBittorrent</translation>
+        <source>Exit TTorent</source>
+        <translation>Închide TTorent</translation>
     </message>
     <message>
         <source>Global upload rate limit must be greater than 0 or disabled.</source>
@@ -304,8 +304,8 @@
         <translation>Numărul maxim de socluri de încărcare pe torent trebuie să fie mai mare ca 0 sau dezactivat.</translation>
     </message>
     <message>
-        <source>Unable to save program preferences, qBittorrent is probably unreachable.</source>
-        <translation type="vanished">Nu se pot salva preferințele programului, probabil qBittorrent nu poate fi contactat.</translation>
+        <source>Unable to save program preferences, TTorent is probably unreachable.</source>
+        <translation type="vanished">Nu se pot salva preferințele programului, probabil TTorent nu poate fi contactat.</translation>
     </message>
     <message>
         <source>Unknown</source>
@@ -375,8 +375,8 @@
         <translation>Salvează</translation>
     </message>
     <message>
-        <source>qBittorrent client is not reachable</source>
-        <translation>Clientul qBittorrent nu poate fi contactat</translation>
+        <source>TTorent client is not reachable</source>
+        <translation>Clientul TTorent nu poate fi contactat</translation>
     </message>
     <message>
         <source>Global number of upload slots limit must be greater than 0 or disabled.</source>
@@ -559,7 +559,7 @@
         <translation type="unfinished" />
     </message>
     <message>
-        <source>Unable to load program preferences, qBittorrent is probably unreachable.</source>
+        <source>Unable to load program preferences, TTorent is probably unreachable.</source>
         <translation type="unfinished" />
     </message>
     <message>
@@ -575,7 +575,7 @@
         <translation type="unfinished" />
     </message>
     <message>
-        <source>Unable to save preferences, qBittorrent is probably unreachable.</source>
+        <source>Unable to save preferences, TTorent is probably unreachable.</source>
         <translation type="unfinished" />
     </message>
     <message>
@@ -583,7 +583,7 @@
         <translation type="unfinished" />
     </message>
     <message>
-        <source>Could not contact qBittorrent.</source>
+        <source>Could not contact TTorent.</source>
         <translation type="unfinished" />
     </message>
 </context>
@@ -666,8 +666,8 @@
         <translation>Limită viteză de descărcare globală</translation>
     </message>
     <message>
-        <source>Are you sure you want to quit qBittorrent?</source>
-        <translation>Sigur doriți să închideți qBittorrent?</translation>
+        <source>Are you sure you want to quit TTorent?</source>
+        <translation>Sigur doriți să închideți TTorent?</translation>
     </message>
     <message>
         <source>Alternative speed limits</source>
@@ -1407,8 +1407,8 @@
         <translation>Elimină torentul și fișierele acestuia</translation>
     </message>
     <message>
-        <source>qBittorrent Section</source>
-        <translation>Secțiunea qBittorrent</translation>
+        <source>TTorent Section</source>
+        <translation>Secțiunea TTorent</translation>
     </message>
     <message>
         <source>Send buffer watermark factor:</source>
@@ -2291,7 +2291,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation type="unfinished" />
     </message>
     <message>
-        <source>It appends the text to the window title to help distinguish qBittorrent instances</source>
+        <source>It appends the text to the window title to help distinguish TTorent instances</source>
         <translation type="unfinished" />
     </message>
     <message>
@@ -4138,8 +4138,8 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation>Nume:</translation>
     </message>
     <message>
-        <source>About qBittorrent</source>
-        <translation>Despre qBittorrent</translation>
+        <source>About TTorent</source>
+        <translation>Despre TTorent</translation>
     </message>
     <message>
         <source>License</source>
@@ -4150,8 +4150,8 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation>Traducători</translation>
     </message>
     <message>
-        <source>qBittorrent was built with the following libraries:</source>
-        <translation>qBittorrent a fost construit folosind următoarele biblioteci:</translation>
+        <source>TTorent was built with the following libraries:</source>
+        <translation>TTorent a fost construit folosind următoarele biblioteci:</translation>
     </message>
     <message>
         <source>Nationality:</source>
@@ -4174,12 +4174,12 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation>Franța</translation>
     </message>
     <message>
-        <source>qBittorrent Mascot</source>
-        <translation>Mascota qBittorrent</translation>
+        <source>TTorent Mascot</source>
+        <translation>Mascota TTorent</translation>
     </message>
     <message>
-        <source>qBittorrent icon</source>
-        <translation>Pictogramă qBittorrent</translation>
+        <source>TTorent icon</source>
+        <translation>Pictogramă TTorent</translation>
     </message>
 </context>
 <context>
@@ -4985,7 +4985,7 @@ Recunoaște formatele: S01E01, 1x1, 2017.12.31 si 31.12.2017 (Formatele pentru d
 <context>
     <name>Login</name>
     <message>
-        <source>qBittorrent WebUI</source>
+        <source>TTorent WebUI</source>
         <translation type="unfinished" />
     </message>
     <message>
@@ -5273,7 +5273,7 @@ Recunoaște formatele: S01E01, 1x1, 2017.12.31 si 31.12.2017 (Formatele pentru d
 <context>
     <name>confirmRotateAPIKeyDialog</name>
     <message>
-        <source>Generate an API key? This key can be used to interact with qBittorrent's API.</source>
+        <source>Generate an API key? This key can be used to interact with TTorent's API.</source>
         <translation type="unfinished" />
     </message>
     <message>

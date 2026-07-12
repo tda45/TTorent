@@ -358,7 +358,7 @@
   </action>
   <action name="actionLock">
    <property name="text">
-    <string>L&amp;ock qBittorrent</string>
+    <string>L&amp;ock TTorent</string>
    </property>
    <property name="iconText">
     <string>Lock</string>
@@ -372,7 +372,7 @@
     <string>Do&amp;nate!</string>
    </property>
    <property name="toolTip">
-    <string>If you like qBittorrent, please donate!</string>
+    <string>If you like TTorent, please fork project!</string>
    </property>
   </action>
   <action name="actionAutoExit">
@@ -380,7 +380,7 @@
     <bool>true</bool>
    </property>
    <property name="text">
-    <string>&amp;Exit qBittorrent</string>
+    <string>&amp;Exit TTorent</string>
    </property>
   </action>
   <action name="actionAutoSuspend">
